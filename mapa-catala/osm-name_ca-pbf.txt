@@ -1,0 +1,1538 @@
+-----------------------------------------------------
+|            OSM - CANVI A NAME: CA - PBF           |
+----------------------------------------------------- 
+ 
+dc gen 22 03:00:01 CET 2014
+
+real	0m30.506s
+user	0m27.448s
+sys	0m3.048s
+territori-catala.osm.pbf-147178839_bytes
+territori-catala-catalanitzat.osm-3251640561_bytes
+ ---------------------------------- 
+ Aquí aniria l'script per catalanitzar el mapa 
+ ---------------------------------- 
+
+real	0m38.658s
+user	0m37.308s
+sys	0m1.348s
+territori-catala-catalanitzat.osm-3251640561_bytes
+Territori-catala.osm.pbf-147178839_bytes
+ ---------------------------------- 
+ 
+dl gen 27 03:00:01 CET 2014
+
+real	0m31.012s
+user	0m27.588s
+sys	0m3.184s
+territori-catala.osm.pbf-147437105_bytes
+territori-catala-catalanitzat.osm-3250522430_bytes
+ ---------------------------------- 
+ Aquí aniria l'script per catalanitzar el mapa 
+ ---------------------------------- 
+
+real	0m38.481s
+user	0m37.096s
+sys	0m1.380s
+territori-catala-catalanitzat.osm-3250522430_bytes
+Territori-catala.osm.pbf-147437105_bytes
+ ---------------------------------- 
+ 
+dl feb  3 03:00:01 CET 2014
+
+real	0m31.623s
+user	0m27.824s
+sys	0m3.596s
+territori-catala.osm.pbf-147755139_bytes
+territori-catala-catalanitzat.osm-3259502883_bytes
+ ---------------------------------- 
+ Aquí aniria l'script per catalanitzar el mapa 
+ ---------------------------------- 
+
+real	0m38.536s
+user	0m37.136s
+sys	0m1.400s
+territori-catala-catalanitzat.osm-3259502883_bytes
+Territori-catala.osm.pbf-147755139_bytes
+ ---------------------------------- 
+ 
+dl feb  3 15:29:40 CET 2014
+
+real	0m32.433s
+user	0m28.916s
+sys	0m3.492s
+territori-catala.osm.pbf-147755139_bytes
+territori-catala-catalanitzat.osm-3259502883_bytes
+ ---------------------------------- 
+ Aquí aniria l'script per catalanitzar el mapa 
+ ---------------------------------- 
+
+real	0m39.556s
+user	0m37.892s
+sys	0m1.664s
+territori-catala-catalanitzat.osm-3259502883_bytes
+Territori-catala.osm.pbf-147755139_bytes
+ ---------------------------------- 
+ 
+dl feb 10 03:00:01 CET 2014
+
+real	0m31.185s
+user	0m27.812s
+sys	0m3.248s
+territori-catala.osm.pbf-148144256_bytes
+territori-catala-catalanitzat.osm-3269581865_bytes
+ ---------------------------------- 
+ Aquí aniria l'script per catalanitzar el mapa 
+ ---------------------------------- 
+
+real	0m38.336s
+user	0m37.072s
+sys	0m1.264s
+territori-catala-catalanitzat.osm-3269581865_bytes
+Territori-catala.osm.pbf-148144256_bytes
+ ---------------------------------- 
+ 
+dl feb 17 03:00:01 CET 2014
+
+real	0m31.009s
+user	0m27.868s
+sys	0m3.136s
+territori-catala.osm.pbf-148490202_bytes
+territori-catala-catalanitzat.osm-3277357841_bytes
+ ---------------------------------- 
+ Aquí aniria l'script per catalanitzar el mapa 
+ ---------------------------------- 
+
+real	0m39.028s
+user	0m37.460s
+sys	0m1.568s
+territori-catala-catalanitzat.osm-3277357841_bytes
+Territori-catala.osm.pbf-148490202_bytes
+ ---------------------------------- 
+ 
+dl feb 17 07:20:44 CET 2014
+
+real	0m30.904s
+user	0m27.636s
+sys	0m3.268s
+territori-catala.osm.pbf-148490202_bytes
+territori-catala-catalanitzat.osm-3277357841_bytes
+ ---------------------------------- 
+ Aquí aniria l'script per catalanitzar el mapa 
+ ---------------------------------- 
+
+real	0m39.203s
+user	0m37.768s
+sys	0m1.436s
+territori-catala-catalanitzat.osm-3277357841_bytes
+Territori-catala.osm.pbf-148490202_bytes
+ ---------------------------------- 
+ 
+dl feb 24 03:00:01 CET 2014
+
+real	0m30.920s
+user	0m27.732s
+sys	0m3.180s
+territori-catala.osm.pbf-148830552_bytes
+territori-catala-catalanitzat.osm-3285965455_bytes
+ ---------------------------------- 
+ Aquí aniria l'script per catalanitzar el mapa 
+ ---------------------------------- 
+
+real	0m39.350s
+user	0m37.760s
+sys	0m1.572s
+territori-catala-catalanitzat.osm-3285965455_bytes
+Territori-catala.osm.pbf-148830552_bytes
+ ---------------------------------- 
+ 
+dl mar  3 03:00:01 CET 2014
+
+real	0m31.684s
+user	0m27.904s
+sys	0m3.768s
+territori-catala.osm.pbf-149203722_bytes
+territori-catala-catalanitzat.osm-3295055103_bytes
+ ---------------------------------- 
+ Aquí aniria l'script per catalanitzar el mapa 
+ ---------------------------------- 
+
+real	0m39.257s
+user	0m37.744s
+sys	0m1.504s
+territori-catala-catalanitzat.osm-3295055103_bytes
+Territori-catala.osm.pbf-149203722_bytes
+ ---------------------------------- 
+ 
+dl mar 10 03:00:01 CET 2014
+
+real	0m31.679s
+user	0m28.076s
+sys	0m3.596s
+territori-catala.osm.pbf-149486489_bytes
+territori-catala-catalanitzat.osm-3301246359_bytes
+ ---------------------------------- 
+ Aquí aniria l'script per catalanitzar el mapa 
+ ---------------------------------- 
+
+real	0m39.863s
+user	0m38.140s
+sys	0m1.724s
+territori-catala-catalanitzat.osm-3301246359_bytes
+Territori-catala.osm.pbf-149486489_bytes
+ ---------------------------------- 
+ 
+dl mar 17 03:00:02 CET 2014
+osmconvert Error: could not open input file: /home/albert/mapa/territori-catala.osm.pbf
+
+real	0m0.046s
+user	0m0.000s
+sys	0m0.000s
+territori-catala-catalanitzat.osm-0_bytes
+ ---------------------------------- 
+ Aquí aniria l'script per catalanitzar el mapa 
+ ---------------------------------- 
+osmconvert Error: file empty: territori-catala-catalanitzat.osm
+
+real	0m0.032s
+user	0m0.012s
+sys	0m0.012s
+territori-catala-catalanitzat.osm-0_bytes
+Territori-catala.osm.pbf-0_bytes
+ ---------------------------------- 
+ 
+ds mar 22 00:05:43 CET 2014
+
+real	0m31.197s
+user	0m28.052s
+sys	0m3.124s
+territori-catala.osm.pbf-150078670_bytes
+territori-catala-catalanitzat.osm-3317165331_bytes
+ ---------------------------------- 
+ Aquí aniria l'script per catalanitzar el mapa 
+ ---------------------------------- 
+
+real	0m39.272s
+user	0m37.972s
+sys	0m1.300s
+territori-catala-catalanitzat.osm-3317165331_bytes
+Territori-catala.osm.pbf-150078670_bytes
+ ---------------------------------- 
+ 
+dl mar 24 03:00:01 CET 2014
+
+real	0m31.686s
+user	0m28.228s
+sys	0m3.292s
+territori-catala.osm.pbf-150327778_bytes
+territori-catala-catalanitzat.osm-3323500777_bytes
+ ---------------------------------- 
+ Aquí aniria l'script per catalanitzar el mapa 
+ ---------------------------------- 
+
+real	0m39.668s
+user	0m38.356s
+sys	0m1.312s
+territori-catala-catalanitzat.osm-3323500777_bytes
+Territori-catala.osm.pbf-150327778_bytes
+ ---------------------------------- 
+ 
+dl mar 31 03:00:01 CEST 2014
+
+real	0m31.382s
+user	0m28.260s
+sys	0m3.120s
+territori-catala.osm.pbf-150708952_bytes
+territori-catala-catalanitzat.osm-3333870397_bytes
+ ---------------------------------- 
+ Aquí aniria l'script per catalanitzar el mapa 
+ ---------------------------------- 
+
+real	0m39.266s
+user	0m37.932s
+sys	0m1.332s
+territori-catala-catalanitzat.osm-3333870397_bytes
+Territori-catala.osm.pbf-150708952_bytes
+ ---------------------------------- 
+ 
+dl abr  7 03:00:01 CEST 2014
+
+real	0m31.534s
+user	0m28.344s
+sys	0m3.064s
+territori-catala.osm.pbf-151107314_bytes
+territori-catala-catalanitzat.osm-3343929915_bytes
+ ---------------------------------- 
+ Aquí aniria l'script per catalanitzar el mapa 
+ ---------------------------------- 
+
+real	0m39.361s
+user	0m38.068s
+sys	0m1.292s
+territori-catala-catalanitzat.osm-3343929915_bytes
+Territori-catala.osm.pbf-151107314_bytes
+ ---------------------------------- 
+ 
+dl abr 14 03:00:01 CEST 2014
+
+real	0m32.023s
+user	0m28.544s
+sys	0m3.380s
+territori-catala.osm.pbf-151359632_bytes
+territori-catala-catalanitzat.osm-3350276233_bytes
+ ---------------------------------- 
+ Aquí aniria l'script per catalanitzar el mapa 
+ ---------------------------------- 
+
+real	0m39.690s
+user	0m38.336s
+sys	0m1.344s
+territori-catala-catalanitzat.osm-3350276233_bytes
+Territori-catala.osm.pbf-151359632_bytes
+ ---------------------------------- 
+ 
+dl abr 21 03:00:01 CEST 2014
+
+real	0m31.777s
+user	0m28.652s
+sys	0m3.120s
+territori-catala.osm.pbf-151744463_bytes
+territori-catala-catalanitzat.osm-3360746641_bytes
+ ---------------------------------- 
+ Aquí aniria l'script per catalanitzar el mapa 
+ ---------------------------------- 
+
+real	0m39.614s
+user	0m38.264s
+sys	0m1.348s
+territori-catala-catalanitzat.osm-3360746641_bytes
+Territori-catala.osm.pbf-151744463_bytes
+ ---------------------------------- 
+ 
+dl abr 21 23:28:49 CEST 2014
+
+real	0m31.863s
+user	0m28.516s
+sys	0m3.336s
+territori-catala.osm.pbf-151744463_bytes
+territori-catala-catalanitzat.osm-3360746641_bytes
+ ---------------------------------- 
+ Aquí aniria l'script per catalanitzar el mapa 
+ ---------------------------------- 
+
+real	0m39.812s
+user	0m38.400s
+sys	0m1.412s
+territori-catala-catalanitzat.osm-3360746641_bytes
+Territori-catala.osm.pbf-151744463_bytes
+ ---------------------------------- 
+ 
+dl abr 21 23:44:22 CEST 2014
+
+real	0m31.692s
+user	0m28.456s
+sys	0m3.236s
+territori-catala.osm.pbf-151744463_bytes
+territori-catala-catalanitzat.osm-3360746641_bytes
+ ---------------------------------- 
+ Aquí aniria l'script per catalanitzar el mapa 
+ ---------------------------------- 
+
+real	0m39.726s
+user	0m38.364s
+sys	0m1.360s
+territori-catala-catalanitzat.osm-3360746641_bytes
+Territori-catala.osm.pbf-151744463_bytes
+ ---------------------------------- 
+ 
+dl abr 21 23:51:46 CEST 2014
+
+real	0m32.023s
+user	0m28.668s
+sys	0m3.124s
+territori-catala.osm.pbf-151744463_bytes
+territori-catala-catalanitzat.osm-3360746641_bytes
+ ---------------------------------- 
+ Aquí aniria l'script per catalanitzar el mapa 
+ ---------------------------------- 
+
+real	0m39.538s
+user	0m38.160s
+sys	0m1.376s
+territori-catala-catalanitzat.osm-3360746641_bytes
+Territori-catala.osm.pbf-151744463_bytes
+ ---------------------------------- 
+ 
+dl abr 21 23:58:20 CEST 2014
+
+real	0m31.877s
+user	0m28.536s
+sys	0m3.128s
+territori-catala.osm.pbf-151744463_bytes
+territori-catala-catalanitzat.osm-3360746641_bytes
+ ---------------------------------- 
+ Aquí aniria l'script per catalanitzar el mapa 
+ ---------------------------------- 
+
+real	0m39.500s
+user	0m38.104s
+sys	0m1.396s
+territori-catala-catalanitzat.osm-3360746641_bytes
+Territori-catala.osm.pbf-151744463_bytes
+ ---------------------------------- 
+ 
+dl abr 28 03:00:01 CEST 2014
+
+real	0m32.003s
+user	0m28.644s
+sys	0m3.356s
+territori-catala.osm.pbf-152292271_bytes
+territori-catala-catalanitzat.osm-3375119065_bytes
+ ---------------------------------- 
+ Aquí aniria l'script per catalanitzar el mapa 
+ ---------------------------------- 
+
+real	0m39.882s
+user	0m38.480s
+sys	0m1.380s
+territori-catala-catalanitzat.osm-3375119065_bytes
+Territori-catala.osm.pbf-152292271_bytes
+ ---------------------------------- 
+ 
+dl mai  5 03:00:01 CEST 2014
+
+real	0m32.481s
+user	0m28.732s
+sys	0m3.132s
+territori-catala.osm.pbf-153091627_bytes
+territori-catala-catalanitzat.osm-3398611575_bytes
+ ---------------------------------- 
+ Aquí aniria l'script per catalanitzar el mapa 
+ ---------------------------------- 
+
+real	0m39.875s
+user	0m38.528s
+sys	0m1.324s
+territori-catala-catalanitzat.osm-3398611575_bytes
+Territori-catala.osm.pbf-153091627_bytes
+ ---------------------------------- 
+ 
+dl mai 12 03:00:01 CEST 2014
+
+real	0m32.482s
+user	0m29.016s
+sys	0m3.412s
+territori-catala.osm.pbf-153271673_bytes
+territori-catala-catalanitzat.osm-3403214392_bytes
+ ---------------------------------- 
+ Aquí aniria l'script per catalanitzar el mapa 
+ ---------------------------------- 
+
+real	0m40.362s
+user	0m38.996s
+sys	0m1.364s
+territori-catala-catalanitzat.osm-3403214392_bytes
+Territori-catala.osm.pbf-153271673_bytes
+ ---------------------------------- 
+ 
+dl mai 19 03:00:01 CEST 2014
+
+real	0m32.263s
+user	0m28.916s
+sys	0m3.144s
+territori-catala.osm.pbf-153632417_bytes
+territori-catala-catalanitzat.osm-3411934316_bytes
+ ---------------------------------- 
+ Aquí aniria l'script per catalanitzar el mapa 
+ ---------------------------------- 
+
+real	0m40.809s
+user	0m39.320s
+sys	0m1.488s
+territori-catala-catalanitzat.osm-3411934316_bytes
+Territori-catala.osm.pbf-153632417_bytes
+ ---------------------------------- 
+ 
+dl mai 26 03:00:01 CEST 2014
+
+real	0m32.165s
+user	0m29.032s
+sys	0m3.132s
+territori-catala.osm.pbf-154151149_bytes
+territori-catala-catalanitzat.osm-3425898565_bytes
+ ---------------------------------- 
+ Aquí aniria l'script per catalanitzar el mapa 
+ ---------------------------------- 
+
+real	0m40.501s
+user	0m39.212s
+sys	0m1.288s
+territori-catala-catalanitzat.osm-3425898565_bytes
+Territori-catala.osm.pbf-154151149_bytes
+ ---------------------------------- 
+ 
+dl jun  2 03:00:01 CEST 2014
+
+real	0m32.809s
+user	0m29.184s
+sys	0m3.256s
+territori-catala.osm.pbf-154535715_bytes
+territori-catala-catalanitzat.osm-3435553053_bytes
+ ---------------------------------- 
+ Aquí aniria l'script per catalanitzar el mapa 
+ ---------------------------------- 
+
+real	0m40.763s
+user	0m39.252s
+sys	0m1.512s
+territori-catala-catalanitzat.osm-3435553053_bytes
+Territori-catala.osm.pbf-154535715_bytes
+ ---------------------------------- 
+ 
+dl jun  9 03:00:01 CEST 2014
+
+real	0m32.934s
+user	0m29.268s
+sys	0m3.556s
+territori-catala.osm.pbf-154781661_bytes
+territori-catala-catalanitzat.osm-3442482770_bytes
+ ---------------------------------- 
+ Aquí aniria l'script per catalanitzar el mapa 
+ ---------------------------------- 
+
+real	0m40.733s
+user	0m39.092s
+sys	0m1.632s
+territori-catala-catalanitzat.osm-3442482770_bytes
+Territori-catala.osm.pbf-154781661_bytes
+ ---------------------------------- 
+ 
+dl jun 16 03:00:01 CEST 2014
+
+real	0m32.711s
+user	0m29.244s
+sys	0m3.304s
+territori-catala.osm.pbf-155115951_bytes
+territori-catala-catalanitzat.osm-3450881181_bytes
+ ---------------------------------- 
+ Aquí aniria l'script per catalanitzar el mapa 
+ ---------------------------------- 
+
+real	0m49.142s
+user	0m39.172s
+sys	0m1.652s
+territori-catala-catalanitzat.osm-3450881181_bytes
+Territori-catala.osm.pbf-155115951_bytes
+ ---------------------------------- 
+ 
+dl jun 23 03:00:01 CEST 2014
+
+real	0m33.008s
+user	0m29.304s
+sys	0m3.380s
+territori-catala.osm.pbf-155490078_bytes
+territori-catala-catalanitzat.osm-3461435896_bytes
+ ---------------------------------- 
+ Aquí aniria l'script per catalanitzar el mapa 
+ ---------------------------------- 
+
+real	0m53.156s
+user	0m39.840s
+sys	0m1.860s
+territori-catala-catalanitzat.osm-3461435896_bytes
+Territori-catala.osm.pbf-155490078_bytes
+ ---------------------------------- 
+ 
+dl jun 30 03:00:01 CEST 2014
+
+real	0m33.341s
+user	0m29.496s
+sys	0m3.684s
+territori-catala.osm.pbf-155800312_bytes
+territori-catala-catalanitzat.osm-3469641823_bytes
+ ---------------------------------- 
+ Aquí aniria l'script per catalanitzar el mapa 
+ ---------------------------------- 
+
+real	0m40.779s
+user	0m39.372s
+sys	0m1.408s
+territori-catala-catalanitzat.osm-3469641823_bytes
+Territori-catala.osm.pbf-155800312_bytes
+ ---------------------------------- 
+ 
+dl jul  7 03:00:01 CEST 2014
+
+real	0m34.124s
+user	0m29.752s
+sys	0m4.192s
+territori-catala.osm.pbf-156081881_bytes
+territori-catala-catalanitzat.osm-3477837076_bytes
+ ---------------------------------- 
+ Aquí aniria l'script per catalanitzar el mapa 
+ ---------------------------------- 
+
+real	0m42.343s
+user	0m40.444s
+sys	0m1.888s
+territori-catala-catalanitzat.osm-3477837076_bytes
+Territori-catala.osm.pbf-156081881_bytes
+ ---------------------------------- 
+ 
+dl jul 14 03:00:01 CEST 2014
+
+real	0m34.118s
+user	0m30.124s
+sys	0m3.876s
+territori-catala.osm.pbf-156406661_bytes
+territori-catala-catalanitzat.osm-3487210191_bytes
+ ---------------------------------- 
+ Aquí aniria l'script per catalanitzar el mapa 
+ ---------------------------------- 
+
+real	0m43.188s
+user	0m41.148s
+sys	0m2.004s
+territori-catala-catalanitzat.osm-3487210191_bytes
+Territori-catala.osm.pbf-156406661_bytes
+ ---------------------------------- 
+ 
+dl jul 21 03:00:01 CEST 2014
+
+real	0m33.661s
+user	0m30.068s
+sys	0m3.532s
+territori-catala.osm.pbf-156788200_bytes
+territori-catala-catalanitzat.osm-3497374956_bytes
+ ---------------------------------- 
+ Aquí aniria l'script per catalanitzar el mapa 
+ ---------------------------------- 
+
+real	0m41.410s
+user	0m39.968s
+sys	0m1.404s
+territori-catala-catalanitzat.osm-3497374956_bytes
+Territori-catala.osm.pbf-156788200_bytes
+ ---------------------------------- 
+ 
+dl jul 28 03:00:01 CEST 2014
+
+real	0m33.456s
+user	0m29.900s
+sys	0m3.372s
+territori-catala.osm.pbf-157242578_bytes
+territori-catala-catalanitzat.osm-3509877202_bytes
+ ---------------------------------- 
+ Aquí aniria l'script per catalanitzar el mapa 
+ ---------------------------------- 
+
+real	0m41.963s
+user	0m40.560s
+sys	0m1.372s
+territori-catala-catalanitzat.osm-3509877202_bytes
+Territori-catala.osm.pbf-157242578_bytes
+ ---------------------------------- 
+ 
+dl ago  4 03:00:01 CEST 2014
+
+real	0m33.733s
+user	0m29.952s
+sys	0m3.624s
+territori-catala.osm.pbf-157773131_bytes
+territori-catala-catalanitzat.osm-3523354430_bytes
+ ---------------------------------- 
+ Aquí aniria l'script per catalanitzar el mapa 
+ ---------------------------------- 
+
+real	0m42.144s
+user	0m40.612s
+sys	0m1.492s
+territori-catala-catalanitzat.osm-3523354430_bytes
+Territori-catala.osm.pbf-157773131_bytes
+ ---------------------------------- 
+ 
+dl ago 11 03:00:01 CEST 2014
+
+real	0m34.730s
+user	0m30.328s
+sys	0m3.744s
+territori-catala.osm.pbf-158227534_bytes
+territori-catala-catalanitzat.osm-3535888992_bytes
+ ---------------------------------- 
+ Aquí aniria l'script per catalanitzar el mapa 
+ ---------------------------------- 
+
+real	0m42.553s
+user	0m40.744s
+sys	0m1.600s
+territori-catala-catalanitzat.osm-3535888992_bytes
+Territori-catala.osm.pbf-158227534_bytes
+ ---------------------------------- 
+ 
+dc ago 13 10:09:24 CEST 2014
+
+real	0m34.598s
+user	0m30.180s
+sys	0m4.152s
+territori-catala.osm.pbf-158378993_bytes
+territori-catala-catalanitzat.osm-3539770336_bytes
+ ---------------------------------- 
+ Aquí aniria l'script per catalanitzar el mapa 
+ ---------------------------------- 
+
+real	0m46.145s
+user	0m40.692s
+sys	0m1.992s
+territori-catala-catalanitzat.osm-3539770336_bytes
+Territori-catala.osm.pbf-158378993_bytes
+ ---------------------------------- 
+ 
+dl ago 18 03:00:01 CEST 2014
+
+real	0m34.740s
+user	0m30.336s
+sys	0m4.232s
+territori-catala.osm.pbf-158808490_bytes
+territori-catala-catalanitzat.osm-3552247510_bytes
+ ---------------------------------- 
+ Aquí aniria l'script per catalanitzar el mapa 
+ ---------------------------------- 
+
+real	0m43.268s
+user	0m41.252s
+sys	0m1.916s
+territori-catala-catalanitzat.osm-3552247510_bytes
+Territori-catala.osm.pbf-158808490_bytes
+ ---------------------------------- 
+ 
+dl ago 18 14:08:51 CEST 2014
+
+real	0m34.030s
+user	0m30.268s
+sys	0m3.760s
+territori-catala.osm.pbf-158808490_bytes
+territori-catala-catalanitzat.osm-3552247510_bytes
+ ---------------------------------- 
+ Aquí aniria l'script per catalanitzar el mapa 
+ ---------------------------------- 
+
+real	0m41.875s
+user	0m40.316s
+sys	0m1.548s
+territori-catala-catalanitzat.osm-3552247510_bytes
+Territori-catala.osm.pbf-158808490_bytes
+ ---------------------------------- 
+ 
+dl ago 25 03:00:01 CEST 2014
+
+real	0m35.887s
+user	0m31.064s
+sys	0m4.424s
+territori-catala.osm.pbf-160154061_bytes
+territori-catala-catalanitzat.osm-3597511257_bytes
+ ---------------------------------- 
+ Aquí aniria l'script per catalanitzar el mapa 
+ ---------------------------------- 
+
+real	0m46.098s
+user	0m41.760s
+sys	0m1.992s
+territori-catala-catalanitzat.osm-3597511257_bytes
+Territori-catala.osm.pbf-160154061_bytes
+ ---------------------------------- 
+ 
+dl set  1 03:00:01 CEST 2014
+
+real	0m35.165s
+user	0m30.860s
+sys	0m3.384s
+territori-catala.osm.pbf-160451396_bytes
+territori-catala-catalanitzat.osm-3605694094_bytes
+ ---------------------------------- 
+ Aquí aniria l'script per catalanitzar el mapa 
+ ---------------------------------- 
+
+real	0m42.770s
+user	0m41.208s
+sys	0m1.560s
+territori-catala-catalanitzat.osm-3605694094_bytes
+Territori-catala.osm.pbf-160451396_bytes
+ ---------------------------------- 
+ 
+dl set  8 03:00:01 CEST 2014
+
+real	0m36.487s
+user	0m31.504s
+sys	0m4.488s
+territori-catala.osm.pbf-160983100_bytes
+territori-catala-catalanitzat.osm-3619279911_bytes
+ ---------------------------------- 
+ Aquí aniria l'script per catalanitzar el mapa 
+ ---------------------------------- 
+
+real	0m44.007s
+user	0m42.492s
+sys	0m1.512s
+territori-catala-catalanitzat.osm-3619279911_bytes
+Territori-catala.osm.pbf-160983100_bytes
+ ---------------------------------- 
+ 
+dl set 15 03:00:01 CEST 2014
+
+real	0m36.224s
+user	0m31.680s
+sys	0m4.276s
+territori-catala.osm.pbf-161618586_bytes
+territori-catala-catalanitzat.osm-3634763600_bytes
+ ---------------------------------- 
+ Aquí aniria l'script per catalanitzar el mapa 
+ ---------------------------------- 
+
+real	0m49.369s
+user	0m42.096s
+sys	0m2.068s
+territori-catala-catalanitzat.osm-3634763600_bytes
+Territori-catala.osm.pbf-161618586_bytes
+ ---------------------------------- 
+ 
+dl set 22 03:00:01 CEST 2014
+
+real	0m36.380s
+user	0m31.988s
+sys	0m4.120s
+territori-catala.osm.pbf-162171787_bytes
+territori-catala-catalanitzat.osm-3650206289_bytes
+ ---------------------------------- 
+ Aquí aniria l'script per catalanitzar el mapa 
+ ---------------------------------- 
+
+real	0m44.506s
+user	0m42.704s
+sys	0m1.584s
+territori-catala-catalanitzat.osm-3650206289_bytes
+Territori-catala.osm.pbf-162171787_bytes
+ ---------------------------------- 
+ 
+dl set 29 03:00:01 CEST 2014
+
+real	0m36.165s
+user	0m31.780s
+sys	0m3.936s
+territori-catala.osm.pbf-162512000_bytes
+territori-catala-catalanitzat.osm-3660145427_bytes
+ ---------------------------------- 
+ Aquí aniria l'script per catalanitzar el mapa 
+ ---------------------------------- 
+
+real	0m50.180s
+user	0m42.596s
+sys	0m1.660s
+territori-catala-catalanitzat.osm-3660145427_bytes
+Territori-catala.osm.pbf-162512000_bytes
+ ---------------------------------- 
+ 
+dl oct  6 03:00:01 CEST 2014
+
+real	0m35.595s
+user	0m31.276s
+sys	0m4.072s
+territori-catala.osm.pbf-162889187_bytes
+territori-catala-catalanitzat.osm-3669750726_bytes
+ ---------------------------------- 
+ Aquí aniria l'script per catalanitzar el mapa 
+ ---------------------------------- 
+
+real	0m46.386s
+user	0m42.064s
+sys	0m2.260s
+territori-catala-catalanitzat.osm-3669750726_bytes
+Territori-catala.osm.pbf-162889187_bytes
+ ---------------------------------- 
+ 
+dl oct 13 03:00:01 CEST 2014
+
+real	0m36.289s
+user	0m31.696s
+sys	0m4.332s
+territori-catala.osm.pbf-163480224_bytes
+territori-catala-catalanitzat.osm-3688097795_bytes
+ ---------------------------------- 
+ Aquí aniria l'script per catalanitzar el mapa 
+ ---------------------------------- 
+
+real	0m48.640s
+user	0m42.492s
+sys	0m2.448s
+territori-catala-catalanitzat.osm-3688097795_bytes
+Territori-catala.osm.pbf-163480224_bytes
+ ---------------------------------- 
+ 
+dl oct 20 03:00:01 CEST 2014
+
+real	0m35.984s
+user	0m31.612s
+sys	0m4.268s
+territori-catala.osm.pbf-163879184_bytes
+territori-catala-catalanitzat.osm-3697771507_bytes
+ ---------------------------------- 
+ Aquí aniria l'script per catalanitzar el mapa 
+ ---------------------------------- 
+
+real	0m52.137s
+user	0m42.696s
+sys	0m2.224s
+territori-catala-catalanitzat.osm-3697771507_bytes
+Territori-catala.osm.pbf-163879184_bytes
+ ---------------------------------- 
+ 
+dl oct 27 03:00:01 CET 2014
+
+real	0m36.220s
+user	0m31.568s
+sys	0m4.396s
+territori-catala.osm.pbf-164376353_bytes
+territori-catala-catalanitzat.osm-3710854074_bytes
+ ---------------------------------- 
+ Aquí aniria l'script per catalanitzar el mapa 
+ ---------------------------------- 
+
+real	0m44.901s
+user	0m42.540s
+sys	0m2.024s
+territori-catala-catalanitzat.osm-3710854074_bytes
+Territori-catala.osm.pbf-164376353_bytes
+ ---------------------------------- 
+ 
+dl nov  3 03:00:01 CET 2014
+
+real	0m36.747s
+user	0m31.784s
+sys	0m4.448s
+territori-catala.osm.pbf-164744281_bytes
+territori-catala-catalanitzat.osm-3719869884_bytes
+ ---------------------------------- 
+ Aquí aniria l'script per catalanitzar el mapa 
+ ---------------------------------- 
+
+real	0m44.556s
+user	0m42.460s
+sys	0m1.972s
+territori-catala-catalanitzat.osm-3719869884_bytes
+Territori-catala.osm.pbf-164744281_bytes
+ ---------------------------------- 
+ 
+dl nov 10 03:00:01 CET 2014
+
+real	0m36.578s
+user	0m31.812s
+sys	0m4.424s
+territori-catala.osm.pbf-165120666_bytes
+territori-catala-catalanitzat.osm-3728933047_bytes
+ ---------------------------------- 
+ Aquí aniria l'script per catalanitzar el mapa 
+ ---------------------------------- 
+
+real	0m46.741s
+user	0m43.164s
+sys	0m1.984s
+territori-catala-catalanitzat.osm-3728933047_bytes
+Territori-catala.osm.pbf-165120666_bytes
+ ---------------------------------- 
+ 
+dl nov 17 03:00:01 CET 2014
+
+real	0m37.894s
+user	0m31.816s
+sys	0m3.528s
+territori-catala.osm.pbf-164124016_bytes
+territori-catala-catalanitzat.osm-3705699562_bytes
+ ---------------------------------- 
+ Aquí aniria l'script per catalanitzar el mapa 
+ ---------------------------------- 
+
+real	0m43.581s
+user	0m41.960s
+sys	0m1.500s
+territori-catala-catalanitzat.osm-3705699562_bytes
+Territori-catala.osm.pbf-164124016_bytes
+ ---------------------------------- 
+ 
+dl nov 24 03:00:01 CET 2014
+
+real	0m40.710s
+user	0m34.028s
+sys	0m4.236s
+territori-catala.osm.pbf-163799408_bytes
+territori-catala-catalanitzat.osm-3700239727_bytes
+ ---------------------------------- 
+ Aquí aniria l'script per catalanitzar el mapa 
+ ---------------------------------- 
+
+real	0m58.350s
+user	0m42.596s
+sys	0m2.428s
+territori-catala-catalanitzat.osm-3700239727_bytes
+Territori-catala.osm.pbf-163799408_bytes
+ ---------------------------------- 
+ 
+dl des  1 03:00:01 CET 2014
+
+real	0m39.404s
+user	0m32.136s
+sys	0m4.492s
+territori-catala.osm.pbf-164218203_bytes
+territori-catala-catalanitzat.osm-3712882448_bytes
+ ---------------------------------- 
+ Aquí aniria l'script per catalanitzar el mapa 
+ ---------------------------------- 
+
+real	0m44.226s
+user	0m41.944s
+sys	0m1.984s
+territori-catala-catalanitzat.osm-3712882448_bytes
+Territori-catala.osm.pbf-164218203_bytes
+ ---------------------------------- 
+ 
+dl des  8 03:00:01 CET 2014
+
+real	0m38.585s
+user	0m32.008s
+sys	0m4.076s
+territori-catala.osm.pbf-164529625_bytes
+territori-catala-catalanitzat.osm-3721936293_bytes
+ ---------------------------------- 
+ Aquí aniria l'script per catalanitzar el mapa 
+ ---------------------------------- 
+
+real	0m46.213s
+user	0m42.564s
+sys	0m1.968s
+territori-catala-catalanitzat.osm-3721936293_bytes
+Territori-catala.osm.pbf-164529625_bytes
+ ---------------------------------- 
+ 
+dl des 15 03:00:01 CET 2014
+osmconvert Error: could not open input file: /home/albert/mapa/territori-catala.osm.pbf
+
+real	0m0.034s
+user	0m0.000s
+sys	0m0.000s
+territori-catala-catalanitzat.osm-0_bytes
+ ---------------------------------- 
+ Aquí aniria l'script per catalanitzar el mapa 
+ ---------------------------------- 
+osmconvert Error: file empty: territori-catala-catalanitzat.osm
+
+real	0m0.043s
+user	0m0.008s
+sys	0m0.032s
+territori-catala-catalanitzat.osm-0_bytes
+Territori-catala.osm.pbf-0_bytes
+ ---------------------------------- 
+ 
+dj des 18 18:05:31 CET 2014
+osmconvert Error: could not open input file: /home/albert/mapa/territori-catala.osm.pbf
+
+real	0m0.033s
+user	0m0.000s
+sys	0m0.000s
+territori-catala-catalanitzat.osm-0_bytes
+ ---------------------------------- 
+ Aquí aniria l'script per catalanitzar el mapa 
+ ---------------------------------- 
+osmconvert Error: file empty: territori-catala-catalanitzat.osm
+
+real	0m0.047s
+user	0m0.008s
+sys	0m0.036s
+territori-catala-catalanitzat.osm-0_bytes
+Territori-catala.osm.pbf-0_bytes
+ ---------------------------------- 
+ 
+dj des 18 18:17:36 CET 2014
+
+real	0m38.349s
+user	0m32.388s
+sys	0m4.644s
+territori-catala.osm.pbf-165206712_bytes
+territori-catala-catalanitzat.osm-3742082358_bytes
+ ---------------------------------- 
+ Aquí aniria l'script per catalanitzar el mapa 
+ ---------------------------------- 
+
+real	1m1.731s
+user	0m43.048s
+sys	0m2.252s
+territori-catala-catalanitzat.osm-3742082358_bytes
+Territori-catala.osm.pbf-165206712_bytes
+ ---------------------------------- 
+ 
+dl des 22 03:00:01 CET 2014
+
+real	0m36.416s
+user	0m32.188s
+sys	0m4.160s
+territori-catala.osm.pbf-165406156_bytes
+territori-catala-catalanitzat.osm-3748021261_bytes
+ ---------------------------------- 
+ Aquí aniria l'script per catalanitzar el mapa 
+ ---------------------------------- 
+
+real	0m45.929s
+user	0m42.676s
+sys	0m2.032s
+territori-catala-catalanitzat.osm-3748021261_bytes
+Territori-catala.osm.pbf-165406156_bytes
+ ---------------------------------- 
+ 
+dl des 29 03:00:01 CET 2014
+
+real	0m36.779s
+user	0m32.352s
+sys	0m3.816s
+territori-catala.osm.pbf-165813912_bytes
+territori-catala-catalanitzat.osm-3756902037_bytes
+ ---------------------------------- 
+ Aquí aniria l'script per catalanitzar el mapa 
+ ---------------------------------- 
+
+real	0m47.179s
+user	0m42.500s
+sys	0m2.156s
+territori-catala-catalanitzat.osm-3756902037_bytes
+Territori-catala.osm.pbf-165813912_bytes
+ ---------------------------------- 
+ 
+dl gen  5 03:00:01 CET 2015
+
+real	0m37.356s
+user	0m32.556s
+sys	0m4.076s
+territori-catala.osm.pbf-166210550_bytes
+territori-catala-catalanitzat.osm-3768217515_bytes
+ ---------------------------------- 
+ Aquí aniria l'script per catalanitzar el mapa 
+ ---------------------------------- 
+
+real	0m50.889s
+user	0m47.948s
+sys	0m2.092s
+territori-catala-catalanitzat.osm-3768217515_bytes
+Territori-catala.osm.pbf-166210550_bytes
+ ---------------------------------- 
+ 
+dl gen 12 03:00:01 CET 2015
+
+real	0m38.350s
+user	0m32.656s
+sys	0m4.324s
+territori-catala.osm.pbf-166605133_bytes
+territori-catala-catalanitzat.osm-3778370736_bytes
+ ---------------------------------- 
+ Aquí aniria l'script per catalanitzar el mapa 
+ ---------------------------------- 
+
+real	0m54.996s
+user	0m43.212s
+sys	0m2.240s
+territori-catala-catalanitzat.osm-3778370736_bytes
+Territori-catala.osm.pbf-166605133_bytes
+ ---------------------------------- 
+ 
+dl gen 19 03:00:01 CET 2015
+
+real	0m41.777s
+user	0m33.116s
+sys	0m4.372s
+territori-catala.osm.pbf-166992146_bytes
+territori-catala-catalanitzat.osm-3788125328_bytes
+ ---------------------------------- 
+ Aquí aniria l'script per catalanitzar el mapa 
+ ---------------------------------- 
+
+real	0m54.411s
+user	0m43.144s
+sys	0m2.080s
+territori-catala-catalanitzat.osm-3788125328_bytes
+Territori-catala.osm.pbf-166992146_bytes
+ ---------------------------------- 
+ 
+dl gen 26 03:00:01 CET 2015
+
+real	0m37.116s
+user	0m32.952s
+sys	0m4.100s
+territori-catala.osm.pbf-167337523_bytes
+territori-catala-catalanitzat.osm-3797070594_bytes
+ ---------------------------------- 
+ Aquí aniria l'script per catalanitzar el mapa 
+ ---------------------------------- 
+
+real	0m44.657s
+user	0m42.856s
+sys	0m1.800s
+territori-catala-catalanitzat.osm-3797070594_bytes
+Territori-catala.osm.pbf-167337523_bytes
+ ---------------------------------- 
+ 
+dl feb  2 03:00:01 CET 2015
+osmconvert Error: could not open input file: /home/albert/mapa/territori-catala.osm.pbf
+
+real	0m0.038s
+user	0m0.000s
+sys	0m0.000s
+territori-catala-catalanitzat.osm-0_bytes
+ ---------------------------------- 
+ Aquí aniria l'script per catalanitzar el mapa 
+ ---------------------------------- 
+osmconvert Error: file empty: territori-catala-catalanitzat.osm
+
+real	0m0.029s
+user	0m0.012s
+sys	0m0.016s
+territori-catala-catalanitzat.osm-0_bytes
+Territori-catala.osm.pbf-0_bytes
+ ---------------------------------- 
+ 
+dl feb  2 07:10:44 CET 2015
+
+real	0m38.994s
+user	0m32.872s
+sys	0m4.964s
+territori-catala.osm.pbf-167618433_bytes
+territori-catala-catalanitzat.osm-3804620199_bytes
+ ---------------------------------- 
+ Aquí aniria l'script per catalanitzar el mapa 
+ ---------------------------------- 
+
+real	0m50.353s
+user	0m43.364s
+sys	0m2.556s
+territori-catala-catalanitzat.osm-3804620199_bytes
+Territori-catala.osm.pbf-167618433_bytes
+ ---------------------------------- 
+ 
+dl feb  9 03:00:01 CET 2015
+
+real	0m38.310s
+user	0m33.456s
+sys	0m4.600s
+territori-catala.osm.pbf-167992621_bytes
+territori-catala-catalanitzat.osm-3814983245_bytes
+ ---------------------------------- 
+ Aquí aniria l'script per catalanitzar el mapa 
+ ---------------------------------- 
+
+real	0m49.249s
+user	0m45.080s
+sys	0m2.232s
+territori-catala-catalanitzat.osm-3814983245_bytes
+Territori-catala.osm.pbf-167992621_bytes
+ ---------------------------------- 
+ 
+dl feb 16 03:00:01 CET 2015
+
+real	0m38.402s
+user	0m33.060s
+sys	0m4.812s
+territori-catala.osm.pbf-168426524_bytes
+territori-catala-catalanitzat.osm-3829566294_bytes
+ ---------------------------------- 
+ Aquí aniria l'script per catalanitzar el mapa 
+ ---------------------------------- 
+
+real	0m48.698s
+user	0m44.128s
+sys	0m2.308s
+territori-catala-catalanitzat.osm-3829566294_bytes
+Territori-catala.osm.pbf-168426524_bytes
+ ---------------------------------- 
+ 
+dl feb 23 03:00:01 CET 2015
+
+real	0m39.063s
+user	0m34.292s
+sys	0m4.512s
+territori-catala.osm.pbf-168541857_bytes
+territori-catala-catalanitzat.osm-3840144765_bytes
+ ---------------------------------- 
+ Aquí aniria l'script per catalanitzar el mapa 
+ ---------------------------------- 
+
+real	0m48.162s
+user	0m46.104s
+sys	0m2.052s
+territori-catala-catalanitzat.osm-3840144765_bytes
+Territori-catala.osm.pbf-168541857_bytes
+ ---------------------------------- 
+ 
+dl mar  2 03:00:01 CET 2015
+
+real	0m40.356s
+user	0m34.196s
+sys	0m4.676s
+territori-catala.osm.pbf-169085187_bytes
+territori-catala-catalanitzat.osm-3859516295_bytes
+ ---------------------------------- 
+ Aquí aniria l'script per catalanitzar el mapa 
+ ---------------------------------- 
+
+real	0m48.127s
+user	0m44.844s
+sys	0m1.964s
+territori-catala-catalanitzat.osm-3859516295_bytes
+Territori-catala.osm.pbf-169085187_bytes
+ ---------------------------------- 
+ 
+dl mar  9 03:00:01 CET 2015
+
+real	0m40.240s
+user	0m33.800s
+sys	0m5.128s
+territori-catala.osm.pbf-169634701_bytes
+territori-catala-catalanitzat.osm-3879845624_bytes
+ ---------------------------------- 
+ Aquí aniria l'script per catalanitzar el mapa 
+ ---------------------------------- 
+
+real	0m48.469s
+user	0m45.804s
+sys	0m2.604s
+territori-catala-catalanitzat.osm-3879845624_bytes
+Territori-catala.osm.pbf-169634701_bytes
+ ---------------------------------- 
+ 
+dl mar 16 03:00:01 CET 2015
+
+real	0m38.493s
+user	0m33.576s
+sys	0m4.472s
+territori-catala.osm.pbf-170314450_bytes
+territori-catala-catalanitzat.osm-3898150452_bytes
+ ---------------------------------- 
+ Aquí aniria l'script per catalanitzar el mapa 
+ ---------------------------------- 
+
+real	0m46.367s
+user	0m44.464s
+sys	0m1.872s
+territori-catala-catalanitzat.osm-3898150452_bytes
+Territori-catala.osm.pbf-170314450_bytes
+ ---------------------------------- 
+ 
+dl mar 23 03:00:01 CET 2015
+
+real	0m39.182s
+user	0m34.060s
+sys	0m4.752s
+territori-catala.osm.pbf-170801847_bytes
+territori-catala-catalanitzat.osm-3910758357_bytes
+ ---------------------------------- 
+ Aquí aniria l'script per catalanitzar el mapa 
+ ---------------------------------- 
+
+real	0m46.493s
+user	0m44.540s
+sys	0m1.952s
+territori-catala-catalanitzat.osm-3910758357_bytes
+Territori-catala.osm.pbf-170801847_bytes
+ ---------------------------------- 
+ 
+dl mar 30 03:00:01 CEST 2015
+
+real	0m39.536s
+user	0m34.784s
+sys	0m4.420s
+territori-catala.osm.pbf-171351185_bytes
+territori-catala-catalanitzat.osm-3926255139_bytes
+ ---------------------------------- 
+ Aquí aniria l'script per catalanitzar el mapa 
+ ---------------------------------- 
+
+real	0m47.317s
+user	0m44.584s
+sys	0m2.000s
+territori-catala-catalanitzat.osm-3926255139_bytes
+Territori-catala.osm.pbf-171351185_bytes
+ ---------------------------------- 
+ 
+dl abr  6 03:00:01 CEST 2015
+
+real	0m39.075s
+user	0m34.396s
+sys	0m4.484s
+territori-catala.osm.pbf-171916011_bytes
+territori-catala-catalanitzat.osm-3942311230_bytes
+ ---------------------------------- 
+ Aquí aniria l'script per catalanitzar el mapa 
+ ---------------------------------- 
+
+real	0m47.027s
+user	0m45.072s
+sys	0m1.952s
+territori-catala-catalanitzat.osm-3942311230_bytes
+Territori-catala.osm.pbf-171916011_bytes
+ ---------------------------------- 
+ 
+dl abr 13 03:00:01 CEST 2015
+
+real	0m40.025s
+user	0m34.456s
+sys	0m4.908s
+territori-catala.osm.pbf-172538604_bytes
+territori-catala-catalanitzat.osm-3960496116_bytes
+ ---------------------------------- 
+ Aquí aniria l'script per catalanitzar el mapa 
+ ---------------------------------- 
+
+real	0m55.154s
+user	0m47.260s
+sys	0m2.584s
+territori-catala-catalanitzat.osm-3960496116_bytes
+Territori-catala.osm.pbf-172538604_bytes
+ ---------------------------------- 
+ 
+dl abr 20 03:00:01 CEST 2015
+
+real	0m39.931s
+user	0m34.600s
+sys	0m4.860s
+territori-catala.osm.pbf-172923766_bytes
+territori-catala-catalanitzat.osm-3971297343_bytes
+ ---------------------------------- 
+ Aquí aniria l'script per catalanitzar el mapa 
+ ---------------------------------- 
+
+real	0m50.216s
+user	0m45.284s
+sys	0m2.308s
+territori-catala-catalanitzat.osm-3971297343_bytes
+Territori-catala.osm.pbf-172923766_bytes
+ ---------------------------------- 
+ 
+dl abr 27 03:00:01 CEST 2015
+
+real	0m39.668s
+user	0m34.624s
+sys	0m4.760s
+territori-catala.osm.pbf-173291075_bytes
+territori-catala-catalanitzat.osm-3982103775_bytes
+ ---------------------------------- 
+ Aquí aniria l'script per catalanitzar el mapa 
+ ---------------------------------- 
+
+real	0m48.573s
+user	0m46.028s
+sys	0m2.140s
+territori-catala-catalanitzat.osm-3982103775_bytes
+Territori-catala.osm.pbf-173291075_bytes
+ ---------------------------------- 
+ 
+dl mai  4 03:00:01 CEST 2015
+
+real	0m39.937s
+user	0m35.044s
+sys	0m4.132s
+territori-catala.osm.pbf-173597871_bytes
+territori-catala-catalanitzat.osm-3990029610_bytes
+ ---------------------------------- 
+ Aquí aniria l'script per catalanitzar el mapa 
+ ---------------------------------- 
+
+real	0m47.648s
+user	0m45.568s
+sys	0m2.000s
+territori-catala-catalanitzat.osm-3990029610_bytes
+Territori-catala.osm.pbf-173597871_bytes
+ ---------------------------------- 
+ 
+dl mai 11 03:00:01 CEST 2015
+
+real	0m40.800s
+user	0m34.708s
+sys	0m4.944s
+territori-catala.osm.pbf-173942642_bytes
+territori-catala-catalanitzat.osm-3999637561_bytes
+ ---------------------------------- 
+ Aquí aniria l'script per catalanitzar el mapa 
+ ---------------------------------- 
+
+real	0m49.300s
+user	0m47.068s
+sys	0m2.148s
+territori-catala-catalanitzat.osm-3999637561_bytes
+Territori-catala.osm.pbf-173942642_bytes
+ ---------------------------------- 
+ 
+dl mai 18 03:00:01 CEST 2015
+
+real	0m41.216s
+user	0m36.436s
+sys	0m4.556s
+territori-catala.osm.pbf-174255570_bytes
+territori-catala-catalanitzat.osm-4007911256_bytes
+ ---------------------------------- 
+ Aquí aniria l'script per catalanitzar el mapa 
+ ---------------------------------- 
+
+real	0m52.449s
+user	0m49.688s
+sys	0m2.080s
+territori-catala-catalanitzat.osm-4007911256_bytes
+Territori-catala.osm.pbf-174255570_bytes
+ ---------------------------------- 
+ 
+ds jun  6 14:30:02 CEST 2015
+
+real	0m40.642s
+user	0m35.116s
+sys	0m4.312s
+territori-catala.osm.pbf-175127912_bytes
+territori-catala-catalanitzat.osm-4031533179_bytes
+ ---------------------------------- 
+ Aquí aniria l'script per catalanitzar el mapa 
+ ---------------------------------- 
+
+real	0m47.846s
+user	0m45.868s
+sys	0m1.968s
+territori-catala-catalanitzat.osm-4031533179_bytes
+Territori-catala.osm.pbf-175127912_bytes
+ ---------------------------------- 
+ 
+dl jun  8 03:00:01 CEST 2015
+
+real	0m40.800s
+user	0m35.620s
+sys	0m4.472s
+territori-catala.osm.pbf-175236580_bytes
+territori-catala-catalanitzat.osm-4034311095_bytes
+ ---------------------------------- 
+ Aquí aniria l'script per catalanitzar el mapa 
+ ---------------------------------- 
+
+real	0m55.349s
+user	0m46.084s
+sys	0m2.348s
+territori-catala-catalanitzat.osm-4034311095_bytes
+Territori-catala.osm.pbf-175236580_bytes
+ ---------------------------------- 
+ 
+dl jun 15 03:00:02 CEST 2015
+
+real	0m43.085s
+user	0m35.856s
+sys	0m4.136s
+territori-catala.osm.pbf-175605387_bytes
+territori-catala-catalanitzat.osm-4043589006_bytes
+ ---------------------------------- 
+ Aquí aniria l'script per catalanitzar el mapa 
+ ---------------------------------- 
+
+real	0m54.846s
+user	0m46.000s
+sys	0m2.076s
+territori-catala-catalanitzat.osm-4043589006_bytes
+Territori-catala.osm.pbf-175605387_bytes
+ ---------------------------------- 
+ 

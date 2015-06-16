@@ -1,0 +1,6000 @@
+-----------------------------------------------------
+|          TERRITORI CATALÀ EXTRA (osm.pbf)         |
+----------------------------------------------------- 
+ 
+dg gen 19 23:47:16 CET 2014
+
+real	3m25.500s
+user	2m3.184s
+sys	0m6.516s
+territori-catala-extra.osm.pbf-618640808_bytes
+territori-catala-extra-nou.osm.pbf-619036595_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-618640808_bytes
+territori-catala-extra.osm.pbf-619036595_bytes
+ ---------------------------------- 
+
+dl gen 20 08:00:01 CET 2014
+
+real	2m7.618s
+user	1m46.068s
+sys	0m3.264s
+territori-catala-extra.osm.pbf-619036595_bytes
+territori-catala-extra-nou.osm.pbf-619058469_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-619036595_bytes
+territori-catala-extra.osm.pbf-619058469_bytes
+ ---------------------------------- 
+ 
+dt gen 21 02:00:01 CET 2014
+
+real	2m41.025s
+user	1m48.872s
+sys	0m3.420s
+territori-catala-extra.osm.pbf-619058469_bytes
+territori-catala-extra-nou.osm.pbf-619183784_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-619058469_bytes
+territori-catala-extra.osm.pbf-619183784_bytes
+ ---------------------------------- 
+ 
+dc gen 22 02:00:01 CET 2014
+
+real	2m23.595s
+user	1m49.020s
+sys	0m3.252s
+territori-catala-extra.osm.pbf-619183784_bytes
+territori-catala-extra-nou.osm.pbf-619410901_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-619183784_bytes
+territori-catala-extra.osm.pbf-619410901_bytes
+ ---------------------------------- 
+ 
+dj gen 23 02:00:01 CET 2014
+
+real	2m27.560s
+user	1m48.908s
+sys	0m3.320s
+territori-catala-extra.osm.pbf-619410901_bytes
+territori-catala-extra-nou.osm.pbf-619516208_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-619410901_bytes
+territori-catala-extra.osm.pbf-619516208_bytes
+ ---------------------------------- 
+ 
+dv gen 24 02:00:01 CET 2014
+
+real	2m25.021s
+user	1m50.084s
+sys	0m3.568s
+territori-catala-extra.osm.pbf-619516208_bytes
+territori-catala-extra-nou.osm.pbf-619622147_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-619516208_bytes
+territori-catala-extra.osm.pbf-619622147_bytes
+ ---------------------------------- 
+ 
+ds gen 25 02:00:01 CET 2014
+
+real	2m35.704s
+user	1m51.408s
+sys	0m3.400s
+territori-catala-extra.osm.pbf-619622147_bytes
+territori-catala-extra-nou.osm.pbf-619928705_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-619622147_bytes
+territori-catala-extra.osm.pbf-619928705_bytes
+ ---------------------------------- 
+ 
+dg gen 26 02:00:01 CET 2014
+
+real	2m38.920s
+user	1m51.444s
+sys	0m3.944s
+territori-catala-extra.osm.pbf-619928705_bytes
+territori-catala-extra-nou.osm.pbf-620245735_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-619928705_bytes
+territori-catala-extra.osm.pbf-620245735_bytes
+ ---------------------------------- 
+ 
+dl gen 27 02:00:01 CET 2014
+
+real	2m37.036s
+user	1m51.048s
+sys	0m3.840s
+territori-catala-extra.osm.pbf-620245735_bytes
+territori-catala-extra-nou.osm.pbf-620585981_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-620245735_bytes
+territori-catala-extra.osm.pbf-620585981_bytes
+ ---------------------------------- 
+ 
+dt gen 28 02:00:01 CET 2014
+
+real	2m23.521s
+user	1m48.744s
+sys	0m3.264s
+territori-catala-extra.osm.pbf-620585981_bytes
+territori-catala-extra-nou.osm.pbf-620757174_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-620585981_bytes
+territori-catala-extra.osm.pbf-620757174_bytes
+ ---------------------------------- 
+ 
+dc gen 29 02:00:01 CET 2014
+
+real	2m26.968s
+user	1m48.676s
+sys	0m3.252s
+territori-catala-extra.osm.pbf-620757174_bytes
+territori-catala-extra-nou.osm.pbf-621290883_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-620757174_bytes
+territori-catala-extra.osm.pbf-621290883_bytes
+ ---------------------------------- 
+ 
+dj gen 30 02:00:01 CET 2014
+
+real	2m24.535s
+user	1m49.304s
+sys	0m3.204s
+territori-catala-extra.osm.pbf-621290883_bytes
+territori-catala-extra-nou.osm.pbf-621830180_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-621290883_bytes
+territori-catala-extra.osm.pbf-621830180_bytes
+ ---------------------------------- 
+ 
+dv gen 31 02:00:01 CET 2014
+
+real	2m58.928s
+user	1m53.956s
+sys	0m3.708s
+territori-catala-extra.osm.pbf-621830180_bytes
+territori-catala-extra-nou.osm.pbf-621984473_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-621830180_bytes
+territori-catala-extra.osm.pbf-621984473_bytes
+ ---------------------------------- 
+ 
+ds feb  1 02:00:01 CET 2014
+
+real	2m37.151s
+user	1m50.724s
+sys	0m3.380s
+territori-catala-extra.osm.pbf-621984473_bytes
+territori-catala-extra-nou.osm.pbf-622135811_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-621984473_bytes
+territori-catala-extra.osm.pbf-622135811_bytes
+ ---------------------------------- 
+ 
+dg feb  2 02:00:01 CET 2014
+
+real	2m48.228s
+user	1m52.692s
+sys	0m3.596s
+territori-catala-extra.osm.pbf-622135811_bytes
+territori-catala-extra-nou.osm.pbf-622368363_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-622135811_bytes
+territori-catala-extra.osm.pbf-622368363_bytes
+ ---------------------------------- 
+ 
+dl feb  3 02:00:01 CET 2014
+
+real	2m48.965s
+user	1m55.036s
+sys	0m3.824s
+territori-catala-extra.osm.pbf-622368363_bytes
+territori-catala-extra-nou.osm.pbf-622548608_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-622368363_bytes
+territori-catala-extra.osm.pbf-622548608_bytes
+ ---------------------------------- 
+ 
+dt feb  4 02:00:01 CET 2014
+
+real	2m46.287s
+user	1m52.348s
+sys	0m3.580s
+territori-catala-extra.osm.pbf-622548608_bytes
+territori-catala-extra-nou.osm.pbf-622716813_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-622548608_bytes
+territori-catala-extra.osm.pbf-622716813_bytes
+ ---------------------------------- 
+ 
+dc feb  5 02:00:01 CET 2014
+
+real	2m47.081s
+user	1m52.932s
+sys	0m3.628s
+territori-catala-extra.osm.pbf-622716813_bytes
+territori-catala-extra-nou.osm.pbf-623131757_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-622716813_bytes
+territori-catala-extra.osm.pbf-623131757_bytes
+ ---------------------------------- 
+ 
+dj feb  6 02:00:01 CET 2014
+
+real	2m47.851s
+user	1m51.440s
+sys	0m3.560s
+territori-catala-extra.osm.pbf-623131757_bytes
+territori-catala-extra-nou.osm.pbf-623349509_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-623131757_bytes
+territori-catala-extra.osm.pbf-623349509_bytes
+ ---------------------------------- 
+ 
+dv feb  7 02:00:02 CET 2014
+
+real	2m48.232s
+user	1m50.992s
+sys	0m3.340s
+territori-catala-extra.osm.pbf-623349509_bytes
+territori-catala-extra-nou.osm.pbf-623584760_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-623349509_bytes
+territori-catala-extra.osm.pbf-623584760_bytes
+ ---------------------------------- 
+ 
+ds feb  8 02:00:01 CET 2014
+
+real	2m39.660s
+user	1m50.596s
+sys	0m3.516s
+territori-catala-extra.osm.pbf-623584760_bytes
+territori-catala-extra-nou.osm.pbf-623683923_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-623584760_bytes
+territori-catala-extra.osm.pbf-623683923_bytes
+ ---------------------------------- 
+ 
+dg feb  9 02:00:01 CET 2014
+
+real	2m45.336s
+user	1m52.464s
+sys	0m3.496s
+territori-catala-extra.osm.pbf-623683923_bytes
+territori-catala-extra-nou.osm.pbf-623826117_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-623683923_bytes
+territori-catala-extra.osm.pbf-623826117_bytes
+ ---------------------------------- 
+ 
+dl feb 10 02:00:01 CET 2014
+
+real	2m55.991s
+user	1m53.092s
+sys	0m3.728s
+territori-catala-extra.osm.pbf-623826117_bytes
+territori-catala-extra-nou.osm.pbf-624024052_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-623826117_bytes
+territori-catala-extra.osm.pbf-624024052_bytes
+ ---------------------------------- 
+ 
+dt feb 11 02:00:01 CET 2014
+
+real	2m49.960s
+user	1m53.636s
+sys	0m3.888s
+territori-catala-extra.osm.pbf-624024052_bytes
+territori-catala-extra-nou.osm.pbf-624184002_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-624024052_bytes
+territori-catala-extra.osm.pbf-624184002_bytes
+ ---------------------------------- 
+ 
+dc feb 12 02:00:01 CET 2014
+
+real	2m51.847s
+user	1m52.512s
+sys	0m4.220s
+territori-catala-extra.osm.pbf-624184002_bytes
+territori-catala-extra-nou.osm.pbf-624388996_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-624184002_bytes
+territori-catala-extra.osm.pbf-624388996_bytes
+ ---------------------------------- 
+ 
+dj feb 13 02:00:01 CET 2014
+
+real	2m43.125s
+user	1m53.304s
+sys	0m4.016s
+territori-catala-extra.osm.pbf-624388996_bytes
+territori-catala-extra-nou.osm.pbf-624594779_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-624388996_bytes
+territori-catala-extra.osm.pbf-624594779_bytes
+ ---------------------------------- 
+ 
+dv feb 14 02:00:01 CET 2014
+
+real	2m28.333s
+user	1m50.440s
+sys	0m3.544s
+territori-catala-extra.osm.pbf-624594779_bytes
+territori-catala-extra-nou.osm.pbf-624810590_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-624594779_bytes
+territori-catala-extra.osm.pbf-624810590_bytes
+ ---------------------------------- 
+ 
+ds feb 15 02:00:01 CET 2014
+
+real	2m57.132s
+user	1m50.964s
+sys	0m3.684s
+territori-catala-extra.osm.pbf-624810590_bytes
+territori-catala-extra-nou.osm.pbf-624967878_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-624810590_bytes
+territori-catala-extra.osm.pbf-624967878_bytes
+ ---------------------------------- 
+ 
+dg feb 16 02:00:01 CET 2014
+
+real	2m46.669s
+user	1m53.500s
+sys	0m3.736s
+territori-catala-extra.osm.pbf-624967878_bytes
+territori-catala-extra-nou.osm.pbf-625099059_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-624967878_bytes
+territori-catala-extra.osm.pbf-625099059_bytes
+ ---------------------------------- 
+ 
+dl feb 17 02:00:01 CET 2014
+
+real	2m59.032s
+user	1m55.144s
+sys	0m4.132s
+territori-catala-extra.osm.pbf-625099059_bytes
+territori-catala-extra-nou.osm.pbf-625351118_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-625099059_bytes
+territori-catala-extra.osm.pbf-625351118_bytes
+ ---------------------------------- 
+ 
+dt feb 18 02:00:01 CET 2014
+
+real	2m53.227s
+user	1m53.048s
+sys	0m3.804s
+territori-catala-extra.osm.pbf-625351118_bytes
+territori-catala-extra-nou.osm.pbf-625559539_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-625351118_bytes
+territori-catala-extra.osm.pbf-625559539_bytes
+ ---------------------------------- 
+ 
+dc feb 19 02:00:01 CET 2014
+
+real	2m50.206s
+user	1m52.544s
+sys	0m3.636s
+territori-catala-extra.osm.pbf-625559539_bytes
+territori-catala-extra-nou.osm.pbf-625718694_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-625559539_bytes
+territori-catala-extra.osm.pbf-625718694_bytes
+ ---------------------------------- 
+ 
+dj feb 20 02:00:01 CET 2014
+
+real	3m1.272s
+user	1m53.956s
+sys	0m4.000s
+territori-catala-extra.osm.pbf-625718694_bytes
+territori-catala-extra-nou.osm.pbf-625997206_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-625718694_bytes
+territori-catala-extra.osm.pbf-625997206_bytes
+ ---------------------------------- 
+ 
+dv feb 21 02:00:01 CET 2014
+
+real	2m58.052s
+user	1m53.136s
+sys	0m3.876s
+territori-catala-extra.osm.pbf-625997206_bytes
+territori-catala-extra-nou.osm.pbf-626075118_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-625997206_bytes
+territori-catala-extra.osm.pbf-626075118_bytes
+ ---------------------------------- 
+ 
+ds feb 22 02:00:01 CET 2014
+
+real	2m46.359s
+user	1m52.912s
+sys	0m3.824s
+territori-catala-extra.osm.pbf-626075118_bytes
+territori-catala-extra-nou.osm.pbf-626197069_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-626075118_bytes
+territori-catala-extra.osm.pbf-626197069_bytes
+ ---------------------------------- 
+ 
+dg feb 23 02:00:01 CET 2014
+
+real	2m42.283s
+user	1m53.032s
+sys	0m3.828s
+territori-catala-extra.osm.pbf-626197069_bytes
+territori-catala-extra-nou.osm.pbf-626355210_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-626197069_bytes
+territori-catala-extra.osm.pbf-626355210_bytes
+ ---------------------------------- 
+ 
+dl feb 24 02:00:01 CET 2014
+
+real	2m49.613s
+user	1m53.232s
+sys	0m3.928s
+territori-catala-extra.osm.pbf-626355210_bytes
+territori-catala-extra-nou.osm.pbf-626670810_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-626355210_bytes
+territori-catala-extra.osm.pbf-626670810_bytes
+ ---------------------------------- 
+ 
+dt feb 25 02:00:01 CET 2014
+
+real	2m44.154s
+user	1m51.064s
+sys	0m3.540s
+territori-catala-extra.osm.pbf-626670810_bytes
+territori-catala-extra-nou.osm.pbf-626974771_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-626670810_bytes
+territori-catala-extra.osm.pbf-626974771_bytes
+ ---------------------------------- 
+ 
+dc feb 26 02:00:01 CET 2014
+
+real	2m48.439s
+user	1m51.976s
+sys	0m3.696s
+territori-catala-extra.osm.pbf-626974771_bytes
+territori-catala-extra-nou.osm.pbf-627174797_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-626974771_bytes
+territori-catala-extra.osm.pbf-627174797_bytes
+ ---------------------------------- 
+ 
+dj feb 27 02:00:01 CET 2014
+
+real	2m49.027s
+user	1m52.676s
+sys	0m4.016s
+territori-catala-extra.osm.pbf-627174797_bytes
+territori-catala-extra-nou.osm.pbf-627347986_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-627174797_bytes
+territori-catala-extra.osm.pbf-627347986_bytes
+ ---------------------------------- 
+ 
+dv feb 28 02:00:01 CET 2014
+
+real	3m2.226s
+user	1m51.580s
+sys	0m3.828s
+territori-catala-extra.osm.pbf-627347986_bytes
+territori-catala-extra-nou.osm.pbf-627499931_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-627347986_bytes
+territori-catala-extra.osm.pbf-627499931_bytes
+ ---------------------------------- 
+ 
+ds mar  1 02:00:01 CET 2014
+
+real	2m45.186s
+user	1m54.316s
+sys	0m3.872s
+territori-catala-extra.osm.pbf-627499931_bytes
+territori-catala-extra-nou.osm.pbf-627676403_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-627499931_bytes
+territori-catala-extra.osm.pbf-627676403_bytes
+ ---------------------------------- 
+ 
+dg mar  2 02:00:01 CET 2014
+
+real	2m36.531s
+user	1m50.616s
+sys	0m3.508s
+territori-catala-extra.osm.pbf-627676403_bytes
+territori-catala-extra-nou.osm.pbf-627814395_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-627676403_bytes
+territori-catala-extra.osm.pbf-627814395_bytes
+ ---------------------------------- 
+ 
+dl mar  3 02:00:01 CET 2014
+
+real	2m46.486s
+user	1m52.804s
+sys	0m3.960s
+territori-catala-extra.osm.pbf-627814395_bytes
+territori-catala-extra-nou.osm.pbf-627900287_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-627814395_bytes
+territori-catala-extra.osm.pbf-627900287_bytes
+ ---------------------------------- 
+ 
+dt mar  4 02:00:01 CET 2014
+
+real	2m41.020s
+user	1m53.840s
+sys	0m4.084s
+territori-catala-extra.osm.pbf-627900287_bytes
+territori-catala-extra-nou.osm.pbf-628057064_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-627900287_bytes
+territori-catala-extra.osm.pbf-628057064_bytes
+ ---------------------------------- 
+ 
+dc mar  5 02:00:01 CET 2014
+
+real	2m41.908s
+user	1m50.840s
+sys	0m3.708s
+territori-catala-extra.osm.pbf-628057064_bytes
+territori-catala-extra-nou.osm.pbf-628187847_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-628057064_bytes
+territori-catala-extra.osm.pbf-628187847_bytes
+ ---------------------------------- 
+ 
+dj mar  6 02:00:01 CET 2014
+
+real	2m46.150s
+user	1m53.888s
+sys	0m3.872s
+territori-catala-extra.osm.pbf-628187847_bytes
+territori-catala-extra-nou.osm.pbf-628462481_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-628187847_bytes
+territori-catala-extra.osm.pbf-628462481_bytes
+ ---------------------------------- 
+ 
+dv mar  7 02:00:01 CET 2014
+
+real	2m42.327s
+user	1m53.844s
+sys	0m4.036s
+territori-catala-extra.osm.pbf-628462481_bytes
+territori-catala-extra-nou.osm.pbf-628602172_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-628462481_bytes
+territori-catala-extra.osm.pbf-628602172_bytes
+ ---------------------------------- 
+ 
+ds mar  8 02:00:01 CET 2014
+
+real	2m42.048s
+user	1m53.344s
+sys	0m4.208s
+territori-catala-extra.osm.pbf-628602172_bytes
+territori-catala-extra-nou.osm.pbf-628784277_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-628602172_bytes
+territori-catala-extra.osm.pbf-628784277_bytes
+ ---------------------------------- 
+ 
+dg mar  9 02:00:01 CET 2014
+
+real	2m52.977s
+user	1m53.720s
+sys	0m3.940s
+territori-catala-extra.osm.pbf-628784277_bytes
+territori-catala-extra-nou.osm.pbf-628989475_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-628784277_bytes
+territori-catala-extra.osm.pbf-628989475_bytes
+ ---------------------------------- 
+ 
+dl mar 10 02:00:02 CET 2014
+
+real	2m49.742s
+user	1m55.456s
+sys	0m4.096s
+territori-catala-extra.osm.pbf-628989475_bytes
+territori-catala-extra-nou.osm.pbf-629087721_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-628989475_bytes
+territori-catala-extra.osm.pbf-629087721_bytes
+ ---------------------------------- 
+ 
+dt mar 11 02:00:01 CET 2014
+
+real	2m50.017s
+user	1m54.644s
+sys	0m3.944s
+territori-catala-extra.osm.pbf-629087721_bytes
+territori-catala-extra-nou.osm.pbf-629253405_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-629087721_bytes
+territori-catala-extra.osm.pbf-629253405_bytes
+ ---------------------------------- 
+ 
+dc mar 12 02:00:01 CET 2014
+
+real	4m15.567s
+user	1m54.352s
+sys	0m3.936s
+territori-catala-extra.osm.pbf-629253405_bytes
+territori-catala-extra-nou.osm.pbf-629406366_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-629253405_bytes
+territori-catala-extra.osm.pbf-629406366_bytes
+ ---------------------------------- 
+ 
+dj mar 13 02:00:01 CET 2014
+osmupdate Error: Could not get the newest minutely timestamp from the Internet.
+
+real	0m1.089s
+user	0m0.184s
+sys	0m0.216s
+territori-catala-extra.osm.pbf-629406366_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-629406366_bytes
+ ---------------------------------- 
+ 
+dv mar 14 02:00:01 CET 2014
+osmupdate Error: Old OSM file does not exist: territori-catala-extra.osm.pbf
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-629406366_bytes
+ ---------------------------------- 
+ 
+ds mar 15 02:00:02 CET 2014
+osmupdate Error: Old OSM file does not exist: territori-catala-extra.osm.pbf
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-629406366_bytes
+ ---------------------------------- 
+ 
+dg mar 16 02:00:01 CET 2014
+osmupdate Error: Old OSM file does not exist: territori-catala-extra.osm.pbf
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-629406366_bytes
+ ---------------------------------- 
+ 
+dl mar 17 02:00:01 CET 2014
+osmupdate Error: Old OSM file does not exist: territori-catala-extra.osm.pbf
+
+real	0m0.004s
+user	0m0.000s
+sys	0m0.000s
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-629406366_bytes
+ ---------------------------------- 
+ 
+dt mar 18 02:00:01 CET 2014
+
+real	5m36.475s
+user	2m33.812s
+sys	0m7.624s
+territori-catala-extra.osm.pbf-629406366_bytes
+territori-catala-extra-nou.osm.pbf-630509083_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-629406366_bytes
+territori-catala-extra.osm.pbf-630509083_bytes
+ ---------------------------------- 
+ 
+dc mar 19 02:00:01 CET 2014
+
+real	2m48.628s
+user	1m52.996s
+sys	0m3.560s
+territori-catala-extra.osm.pbf-630509083_bytes
+territori-catala-extra-nou.osm.pbf-630736467_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-630509083_bytes
+territori-catala-extra.osm.pbf-630736467_bytes
+ ---------------------------------- 
+ 
+dj mar 20 02:00:01 CET 2014
+
+real	3m49.077s
+user	1m53.260s
+sys	0m3.656s
+territori-catala-extra.osm.pbf-630736467_bytes
+territori-catala-extra-nou.osm.pbf-630993638_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-630736467_bytes
+territori-catala-extra.osm.pbf-630993638_bytes
+ ---------------------------------- 
+ 
+dv mar 21 02:00:01 CET 2014
+
+real	2m52.904s
+user	1m54.796s
+sys	0m3.608s
+territori-catala-extra.osm.pbf-630993638_bytes
+territori-catala-extra-nou.osm.pbf-631238368_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-630993638_bytes
+territori-catala-extra.osm.pbf-631238368_bytes
+ ---------------------------------- 
+ 
+ds mar 22 02:00:01 CET 2014
+
+real	2m53.717s
+user	1m56.040s
+sys	0m3.720s
+territori-catala-extra.osm.pbf-631238368_bytes
+territori-catala-extra-nou.osm.pbf-631440727_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-631238368_bytes
+territori-catala-extra.osm.pbf-631440727_bytes
+ ---------------------------------- 
+ 
+dg mar 23 02:00:01 CET 2014
+
+real	2m58.576s
+user	1m55.688s
+sys	0m3.732s
+territori-catala-extra.osm.pbf-631440727_bytes
+territori-catala-extra-nou.osm.pbf-631799202_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-631440727_bytes
+territori-catala-extra.osm.pbf-631799202_bytes
+ ---------------------------------- 
+ 
+dl mar 24 02:00:01 CET 2014
+
+real	3m14.546s
+user	1m59.436s
+sys	0m4.024s
+territori-catala-extra.osm.pbf-631799202_bytes
+territori-catala-extra-nou.osm.pbf-632018817_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-631799202_bytes
+territori-catala-extra.osm.pbf-632018817_bytes
+ ---------------------------------- 
+ 
+dt mar 25 02:00:01 CET 2014
+
+real	2m57.514s
+user	1m55.936s
+sys	0m3.708s
+territori-catala-extra.osm.pbf-632018817_bytes
+territori-catala-extra-nou.osm.pbf-632250837_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-632018817_bytes
+territori-catala-extra.osm.pbf-632250837_bytes
+ ---------------------------------- 
+ 
+dc mar 26 02:00:01 CET 2014
+
+real	2m59.671s
+user	1m56.420s
+sys	0m3.876s
+territori-catala-extra.osm.pbf-632250837_bytes
+territori-catala-extra-nou.osm.pbf-632424340_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-632250837_bytes
+territori-catala-extra.osm.pbf-632424340_bytes
+ ---------------------------------- 
+ 
+dj mar 27 02:00:01 CET 2014
+
+real	3m3.227s
+user	1m57.664s
+sys	0m3.836s
+territori-catala-extra.osm.pbf-632424340_bytes
+territori-catala-extra-nou.osm.pbf-632596036_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-632424340_bytes
+territori-catala-extra.osm.pbf-632596036_bytes
+ ---------------------------------- 
+ 
+dv mar 28 02:00:01 CET 2014
+
+real	2m56.339s
+user	1m54.796s
+sys	0m3.624s
+territori-catala-extra.osm.pbf-632596036_bytes
+territori-catala-extra-nou.osm.pbf-632828962_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-632596036_bytes
+territori-catala-extra.osm.pbf-632828962_bytes
+ ---------------------------------- 
+ 
+ds mar 29 02:00:01 CET 2014
+
+real	2m52.248s
+user	1m56.152s
+sys	0m3.636s
+territori-catala-extra.osm.pbf-632828962_bytes
+territori-catala-extra-nou.osm.pbf-632992187_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-632828962_bytes
+territori-catala-extra.osm.pbf-632992187_bytes
+ ---------------------------------- 
+ 
+dg mar 30 03:00:01 CEST 2014
+
+real	3m9.196s
+user	1m54.804s
+sys	0m3.632s
+territori-catala-extra.osm.pbf-632992187_bytes
+territori-catala-extra-nou.osm.pbf-633185439_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-632992187_bytes
+territori-catala-extra.osm.pbf-633185439_bytes
+ ---------------------------------- 
+ 
+dl mar 31 02:00:01 CEST 2014
+
+real	3m7.418s
+user	1m57.936s
+sys	0m4.716s
+territori-catala-extra.osm.pbf-633185439_bytes
+territori-catala-extra-nou.osm.pbf-633362051_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-633185439_bytes
+territori-catala-extra.osm.pbf-633362051_bytes
+ ---------------------------------- 
+ 
+dt abr  1 02:00:01 CEST 2014
+
+real	3m5.473s
+user	1m59.596s
+sys	0m4.900s
+territori-catala-extra.osm.pbf-633362051_bytes
+territori-catala-extra-nou.osm.pbf-633727307_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-633362051_bytes
+territori-catala-extra.osm.pbf-633727307_bytes
+ ---------------------------------- 
+ 
+dc abr  2 02:00:01 CEST 2014
+
+real	3m0.445s
+user	1m59.624s
+sys	0m4.680s
+territori-catala-extra.osm.pbf-633727307_bytes
+territori-catala-extra-nou.osm.pbf-633954965_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-633727307_bytes
+territori-catala-extra.osm.pbf-633954965_bytes
+ ---------------------------------- 
+ 
+dj abr  3 02:00:01 CEST 2014
+
+real	3m19.617s
+user	2m2.956s
+sys	0m5.076s
+territori-catala-extra.osm.pbf-633954965_bytes
+territori-catala-extra-nou.osm.pbf-634199146_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-633954965_bytes
+territori-catala-extra.osm.pbf-634199146_bytes
+ ---------------------------------- 
+ 
+dv abr  4 02:00:01 CEST 2014
+
+real	3m14.161s
+user	2m2.648s
+sys	0m4.940s
+territori-catala-extra.osm.pbf-634199146_bytes
+territori-catala-extra-nou.osm.pbf-634362017_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-634199146_bytes
+territori-catala-extra.osm.pbf-634362017_bytes
+ ---------------------------------- 
+ 
+ds abr  5 02:00:01 CEST 2014
+
+real	3m0.456s
+user	1m58.264s
+sys	0m4.556s
+territori-catala-extra.osm.pbf-634362017_bytes
+territori-catala-extra-nou.osm.pbf-634579092_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-634362017_bytes
+territori-catala-extra.osm.pbf-634579092_bytes
+ ---------------------------------- 
+ 
+dg abr  6 02:00:01 CEST 2014
+
+real	3m9.518s
+user	1m59.584s
+sys	0m4.848s
+territori-catala-extra.osm.pbf-634579092_bytes
+territori-catala-extra-nou.osm.pbf-634828886_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-634579092_bytes
+territori-catala-extra.osm.pbf-634828886_bytes
+ ---------------------------------- 
+ 
+dl abr  7 02:00:01 CEST 2014
+
+real	3m26.087s
+user	2m0.020s
+sys	0m4.928s
+territori-catala-extra.osm.pbf-634828886_bytes
+territori-catala-extra-nou.osm.pbf-634953925_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-634828886_bytes
+territori-catala-extra.osm.pbf-634953925_bytes
+ ---------------------------------- 
+ 
+dt abr  8 02:00:01 CEST 2014
+
+real	3m3.031s
+user	1m58.972s
+sys	0m4.800s
+territori-catala-extra.osm.pbf-634953925_bytes
+territori-catala-extra-nou.osm.pbf-635040791_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-634953925_bytes
+territori-catala-extra.osm.pbf-635040791_bytes
+ ---------------------------------- 
+ 
+dc abr  9 02:00:01 CEST 2014
+
+real	3m5.354s
+user	2m0.528s
+sys	0m4.888s
+territori-catala-extra.osm.pbf-635040791_bytes
+territori-catala-extra-nou.osm.pbf-635153464_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-635040791_bytes
+territori-catala-extra.osm.pbf-635153464_bytes
+ ---------------------------------- 
+ 
+dj abr 10 02:00:01 CEST 2014
+
+real	2m59.668s
+user	1m58.052s
+sys	0m4.532s
+territori-catala-extra.osm.pbf-635153464_bytes
+territori-catala-extra-nou.osm.pbf-635338214_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-635153464_bytes
+territori-catala-extra.osm.pbf-635338214_bytes
+ ---------------------------------- 
+ 
+dv abr 11 02:00:01 CEST 2014
+
+real	3m0.137s
+user	1m56.824s
+sys	0m4.388s
+territori-catala-extra.osm.pbf-635338214_bytes
+territori-catala-extra-nou.osm.pbf-635439715_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-635338214_bytes
+territori-catala-extra.osm.pbf-635439715_bytes
+ ---------------------------------- 
+ 
+ds abr 12 02:00:01 CEST 2014
+
+real	2m59.146s
+user	1m57.952s
+sys	0m4.764s
+territori-catala-extra.osm.pbf-635439715_bytes
+territori-catala-extra-nou.osm.pbf-635724612_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-635439715_bytes
+territori-catala-extra.osm.pbf-635724612_bytes
+ ---------------------------------- 
+ 
+dg abr 13 02:00:01 CEST 2014
+
+real	3m7.761s
+user	2m0.160s
+sys	0m4.812s
+territori-catala-extra.osm.pbf-635724612_bytes
+territori-catala-extra-nou.osm.pbf-635901082_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-635724612_bytes
+territori-catala-extra.osm.pbf-635901082_bytes
+ ---------------------------------- 
+ 
+dl abr 14 02:00:01 CEST 2014
+
+real	3m7.995s
+user	2m0.780s
+sys	0m5.056s
+territori-catala-extra.osm.pbf-635901082_bytes
+territori-catala-extra-nou.osm.pbf-636665023_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-635901082_bytes
+territori-catala-extra.osm.pbf-636665023_bytes
+ ---------------------------------- 
+ 
+dt abr 15 02:00:01 CEST 2014
+
+real	3m5.290s
+user	1m59.936s
+sys	0m4.964s
+territori-catala-extra.osm.pbf-636665023_bytes
+territori-catala-extra-nou.osm.pbf-637521862_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-636665023_bytes
+territori-catala-extra.osm.pbf-637521862_bytes
+ ---------------------------------- 
+ 
+dc abr 16 02:00:01 CEST 2014
+
+real	2m54.471s
+user	1m58.420s
+sys	0m4.724s
+territori-catala-extra.osm.pbf-637521862_bytes
+territori-catala-extra-nou.osm.pbf-637875248_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-637521862_bytes
+territori-catala-extra.osm.pbf-637875248_bytes
+ ---------------------------------- 
+ 
+dj abr 17 02:00:01 CEST 2014
+
+real	2m52.805s
+user	1m56.236s
+sys	0m4.476s
+territori-catala-extra.osm.pbf-637875248_bytes
+territori-catala-extra-nou.osm.pbf-638172730_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-637875248_bytes
+territori-catala-extra.osm.pbf-638172730_bytes
+ ---------------------------------- 
+ 
+dv abr 18 02:00:01 CEST 2014
+
+real	2m57.732s
+user	1m57.940s
+sys	0m4.652s
+territori-catala-extra.osm.pbf-638172730_bytes
+territori-catala-extra-nou.osm.pbf-638325033_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-638172730_bytes
+territori-catala-extra.osm.pbf-638325033_bytes
+ ---------------------------------- 
+ 
+ds abr 19 02:00:01 CEST 2014
+
+real	3m1.291s
+user	2m0.380s
+sys	0m4.760s
+territori-catala-extra.osm.pbf-638325033_bytes
+territori-catala-extra-nou.osm.pbf-638502920_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-638325033_bytes
+territori-catala-extra.osm.pbf-638502920_bytes
+ ---------------------------------- 
+ 
+dg abr 20 02:00:01 CEST 2014
+
+real	2m53.904s
+user	1m58.988s
+sys	0m4.580s
+territori-catala-extra.osm.pbf-638502920_bytes
+territori-catala-extra-nou.osm.pbf-639063946_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-638502920_bytes
+territori-catala-extra.osm.pbf-639063946_bytes
+ ---------------------------------- 
+ 
+dl abr 21 02:00:01 CEST 2014
+
+real	3m2.359s
+user	1m59.340s
+sys	0m4.716s
+territori-catala-extra.osm.pbf-639063946_bytes
+territori-catala-extra-nou.osm.pbf-639672693_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-639063946_bytes
+territori-catala-extra.osm.pbf-639672693_bytes
+ ---------------------------------- 
+ 
+dt abr 22 02:00:01 CEST 2014
+
+real	3m2.740s
+user	2m0.132s
+sys	0m4.944s
+territori-catala-extra.osm.pbf-639672693_bytes
+territori-catala-extra-nou.osm.pbf-639972170_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-639672693_bytes
+territori-catala-extra.osm.pbf-639972170_bytes
+ ---------------------------------- 
+ 
+dc abr 23 02:00:01 CEST 2014
+
+real	3m23.436s
+user	1m59.512s
+sys	0m4.828s
+territori-catala-extra.osm.pbf-639972170_bytes
+territori-catala-extra-nou.osm.pbf-640289893_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-639972170_bytes
+territori-catala-extra.osm.pbf-640289893_bytes
+ ---------------------------------- 
+ 
+dj abr 24 02:00:01 CEST 2014
+
+real	3m24.285s
+user	1m59.476s
+sys	0m4.752s
+territori-catala-extra.osm.pbf-640289893_bytes
+territori-catala-extra-nou.osm.pbf-640655043_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-640289893_bytes
+territori-catala-extra.osm.pbf-640655043_bytes
+ ---------------------------------- 
+ 
+dv abr 25 02:00:01 CEST 2014
+
+real	3m0.104s
+user	1m59.440s
+sys	0m4.744s
+territori-catala-extra.osm.pbf-640655043_bytes
+territori-catala-extra-nou.osm.pbf-640910407_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-640655043_bytes
+territori-catala-extra.osm.pbf-640910407_bytes
+ ---------------------------------- 
+ 
+ds abr 26 02:00:01 CEST 2014
+
+real	3m3.287s
+user	2m1.088s
+sys	0m4.996s
+territori-catala-extra.osm.pbf-640910407_bytes
+territori-catala-extra-nou.osm.pbf-641084825_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-640910407_bytes
+territori-catala-extra.osm.pbf-641084825_bytes
+ ---------------------------------- 
+ 
+dg abr 27 02:00:01 CEST 2014
+
+real	3m0.618s
+user	1m59.636s
+sys	0m4.812s
+territori-catala-extra.osm.pbf-641084825_bytes
+territori-catala-extra-nou.osm.pbf-641342334_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-641084825_bytes
+territori-catala-extra.osm.pbf-641342334_bytes
+ ---------------------------------- 
+ 
+dl abr 28 02:00:01 CEST 2014
+
+real	3m5.176s
+user	2m0.316s
+sys	0m4.784s
+territori-catala-extra.osm.pbf-641342334_bytes
+territori-catala-extra-nou.osm.pbf-642035192_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-641342334_bytes
+territori-catala-extra.osm.pbf-642035192_bytes
+ ---------------------------------- 
+ 
+dt abr 29 02:00:01 CEST 2014
+
+real	2m49.328s
+user	1m56.856s
+sys	0m4.480s
+territori-catala-extra.osm.pbf-642035192_bytes
+territori-catala-extra-nou.osm.pbf-642573073_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-642035192_bytes
+territori-catala-extra.osm.pbf-642573073_bytes
+ ---------------------------------- 
+ 
+dc abr 30 02:00:01 CEST 2014
+
+real	2m50.918s
+user	1m57.120s
+sys	0m4.368s
+territori-catala-extra.osm.pbf-642573073_bytes
+territori-catala-extra-nou.osm.pbf-642954138_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-642573073_bytes
+territori-catala-extra.osm.pbf-642954138_bytes
+ ---------------------------------- 
+ 
+dj mai  1 02:00:01 CEST 2014
+
+real	3m0.276s
+user	2m0.800s
+sys	0m4.728s
+territori-catala-extra.osm.pbf-642954138_bytes
+territori-catala-extra-nou.osm.pbf-643397146_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-642954138_bytes
+territori-catala-extra.osm.pbf-643397146_bytes
+ ---------------------------------- 
+ 
+dv mai  2 02:00:01 CEST 2014
+
+real	3m3.271s
+user	2m2.032s
+sys	0m4.884s
+territori-catala-extra.osm.pbf-643397146_bytes
+territori-catala-extra-nou.osm.pbf-643615242_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-643397146_bytes
+territori-catala-extra.osm.pbf-643615242_bytes
+ ---------------------------------- 
+ 
+ds mai  3 02:00:01 CEST 2014
+
+real	3m1.164s
+user	1m59.820s
+sys	0m4.560s
+territori-catala-extra.osm.pbf-643615242_bytes
+territori-catala-extra-nou.osm.pbf-643938966_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-643615242_bytes
+territori-catala-extra.osm.pbf-643938966_bytes
+ ---------------------------------- 
+ 
+dg mai  4 02:00:01 CEST 2014
+
+real	2m58.304s
+user	1m58.784s
+sys	0m4.428s
+territori-catala-extra.osm.pbf-643938966_bytes
+territori-catala-extra-nou.osm.pbf-645057108_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-643938966_bytes
+territori-catala-extra.osm.pbf-645057108_bytes
+ ---------------------------------- 
+ 
+dl mai  5 02:00:01 CEST 2014
+
+real	2m56.675s
+user	1m59.400s
+sys	0m4.400s
+territori-catala-extra.osm.pbf-645057108_bytes
+territori-catala-extra-nou.osm.pbf-645747833_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-645057108_bytes
+territori-catala-extra.osm.pbf-645747833_bytes
+ ---------------------------------- 
+ 
+dt mai  6 02:00:01 CEST 2014
+
+real	2m45.811s
+user	1m57.752s
+sys	0m4.140s
+territori-catala-extra.osm.pbf-645747833_bytes
+territori-catala-extra-nou.osm.pbf-646019190_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-645747833_bytes
+territori-catala-extra.osm.pbf-646019190_bytes
+ ---------------------------------- 
+ 
+dc mai  7 02:00:01 CEST 2014
+
+real	2m53.996s
+user	1m59.068s
+sys	0m4.496s
+territori-catala-extra.osm.pbf-646019190_bytes
+territori-catala-extra-nou.osm.pbf-646308579_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-646019190_bytes
+territori-catala-extra.osm.pbf-646308579_bytes
+ ---------------------------------- 
+ 
+dj mai  8 02:00:01 CEST 2014
+
+real	2m54.230s
+user	2m1.100s
+sys	0m4.384s
+territori-catala-extra.osm.pbf-646308579_bytes
+territori-catala-extra-nou.osm.pbf-646540889_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-646308579_bytes
+territori-catala-extra.osm.pbf-646540889_bytes
+ ---------------------------------- 
+ 
+dv mai  9 02:00:01 CEST 2014
+
+real	2m51.204s
+user	1m59.452s
+sys	0m4.484s
+territori-catala-extra.osm.pbf-646540889_bytes
+territori-catala-extra-nou.osm.pbf-646617947_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-646540889_bytes
+territori-catala-extra.osm.pbf-646617947_bytes
+ ---------------------------------- 
+ 
+ds mai 10 02:00:01 CEST 2014
+
+real	2m51.866s
+user	1m59.280s
+sys	0m4.456s
+territori-catala-extra.osm.pbf-646617947_bytes
+territori-catala-extra-nou.osm.pbf-646704419_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-646617947_bytes
+territori-catala-extra.osm.pbf-646704419_bytes
+ ---------------------------------- 
+ 
+dg mai 11 02:00:01 CEST 2014
+
+real	2m55.609s
+user	2m0.728s
+sys	0m4.348s
+territori-catala-extra.osm.pbf-646704419_bytes
+territori-catala-extra-nou.osm.pbf-646894421_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-646704419_bytes
+territori-catala-extra.osm.pbf-646894421_bytes
+ ---------------------------------- 
+ 
+dl mai 12 02:00:01 CEST 2014
+
+real	3m3.239s
+user	2m2.028s
+sys	0m4.776s
+territori-catala-extra.osm.pbf-646894421_bytes
+territori-catala-extra-nou.osm.pbf-647364860_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-646894421_bytes
+territori-catala-extra.osm.pbf-647364860_bytes
+ ---------------------------------- 
+ 
+dt mai 13 02:00:01 CEST 2014
+
+real	2m57.259s
+user	2m0.948s
+sys	0m4.600s
+territori-catala-extra.osm.pbf-647364860_bytes
+territori-catala-extra-nou.osm.pbf-647697517_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-647364860_bytes
+territori-catala-extra.osm.pbf-647697517_bytes
+ ---------------------------------- 
+ 
+dc mai 14 02:00:01 CEST 2014
+
+real	2m55.364s
+user	1m59.140s
+sys	0m4.468s
+territori-catala-extra.osm.pbf-647697517_bytes
+territori-catala-extra-nou.osm.pbf-647879271_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-647697517_bytes
+territori-catala-extra.osm.pbf-647879271_bytes
+ ---------------------------------- 
+ 
+dj mai 15 02:00:01 CEST 2014
+
+real	2m51.725s
+user	1m59.112s
+sys	0m4.280s
+territori-catala-extra.osm.pbf-647879271_bytes
+territori-catala-extra-nou.osm.pbf-648122409_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-647879271_bytes
+territori-catala-extra.osm.pbf-648122409_bytes
+ ---------------------------------- 
+ 
+dv mai 16 02:00:01 CEST 2014
+
+real	2m53.589s
+user	1m59.512s
+sys	0m4.460s
+territori-catala-extra.osm.pbf-648122409_bytes
+territori-catala-extra-nou.osm.pbf-648345329_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-648122409_bytes
+territori-catala-extra.osm.pbf-648345329_bytes
+ ---------------------------------- 
+ 
+ds mai 17 02:00:01 CEST 2014
+
+real	2m51.563s
+user	1m59.992s
+sys	0m4.496s
+territori-catala-extra.osm.pbf-648345329_bytes
+territori-catala-extra-nou.osm.pbf-648609631_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-648345329_bytes
+territori-catala-extra.osm.pbf-648609631_bytes
+ ---------------------------------- 
+ 
+dg mai 18 02:00:01 CEST 2014
+
+real	2m45.681s
+user	1m57.116s
+sys	0m4.348s
+territori-catala-extra.osm.pbf-648609631_bytes
+territori-catala-extra-nou.osm.pbf-648855427_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-648609631_bytes
+territori-catala-extra.osm.pbf-648855427_bytes
+ ---------------------------------- 
+ 
+dl mai 19 02:00:01 CEST 2014
+
+real	2m55.649s
+user	2m0.180s
+sys	0m4.440s
+territori-catala-extra.osm.pbf-648855427_bytes
+territori-catala-extra-nou.osm.pbf-649235665_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-648855427_bytes
+territori-catala-extra.osm.pbf-649235665_bytes
+ ---------------------------------- 
+ 
+dt mai 20 02:00:01 CEST 2014
+
+real	2m46.829s
+user	1m58.424s
+sys	0m4.280s
+territori-catala-extra.osm.pbf-649235665_bytes
+territori-catala-extra-nou.osm.pbf-649456435_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-649235665_bytes
+territori-catala-extra.osm.pbf-649456435_bytes
+ ---------------------------------- 
+ 
+dc mai 21 02:00:01 CEST 2014
+
+real	2m51.725s
+user	1m59.804s
+sys	0m4.392s
+territori-catala-extra.osm.pbf-649456435_bytes
+territori-catala-extra-nou.osm.pbf-649633927_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-649456435_bytes
+territori-catala-extra.osm.pbf-649633927_bytes
+ ---------------------------------- 
+ 
+dj mai 22 02:00:01 CEST 2014
+
+real	2m49.710s
+user	1m59.072s
+sys	0m4.448s
+territori-catala-extra.osm.pbf-649633927_bytes
+territori-catala-extra-nou.osm.pbf-650391268_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-649633927_bytes
+territori-catala-extra.osm.pbf-650391268_bytes
+ ---------------------------------- 
+ 
+dv mai 23 02:00:01 CEST 2014
+
+real	2m46.693s
+user	1m59.132s
+sys	0m4.460s
+territori-catala-extra.osm.pbf-650391268_bytes
+territori-catala-extra-nou.osm.pbf-650633565_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-650391268_bytes
+territori-catala-extra.osm.pbf-650633565_bytes
+ ---------------------------------- 
+ 
+ds mai 24 02:00:01 CEST 2014
+
+real	2m47.545s
+user	1m58.548s
+sys	0m4.492s
+territori-catala-extra.osm.pbf-650633565_bytes
+territori-catala-extra-nou.osm.pbf-650956561_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-650633565_bytes
+territori-catala-extra.osm.pbf-650956561_bytes
+ ---------------------------------- 
+ 
+dg mai 25 02:00:01 CEST 2014
+
+real	2m53.865s
+user	2m1.300s
+sys	0m4.532s
+territori-catala-extra.osm.pbf-650956561_bytes
+territori-catala-extra-nou.osm.pbf-651283091_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-650956561_bytes
+territori-catala-extra.osm.pbf-651283091_bytes
+ ---------------------------------- 
+ 
+dl mai 26 02:00:01 CEST 2014
+
+real	2m50.883s
+user	1m59.664s
+sys	0m4.660s
+territori-catala-extra.osm.pbf-651283091_bytes
+territori-catala-extra-nou.osm.pbf-651624491_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-651283091_bytes
+territori-catala-extra.osm.pbf-651624491_bytes
+ ---------------------------------- 
+ 
+dt mai 27 02:00:01 CEST 2014
+
+real	2m52.522s
+user	2m0.768s
+sys	0m4.652s
+territori-catala-extra.osm.pbf-651624491_bytes
+territori-catala-extra-nou.osm.pbf-651919044_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-651624491_bytes
+territori-catala-extra.osm.pbf-651919044_bytes
+ ---------------------------------- 
+ 
+dc mai 28 02:00:01 CEST 2014
+
+real	2m47.719s
+user	1m58.232s
+sys	0m4.536s
+territori-catala-extra.osm.pbf-651919044_bytes
+territori-catala-extra-nou.osm.pbf-652674916_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-651919044_bytes
+territori-catala-extra.osm.pbf-652674916_bytes
+ ---------------------------------- 
+ 
+dj mai 29 02:00:01 CEST 2014
+
+real	2m48.623s
+user	1m58.112s
+sys	0m4.552s
+territori-catala-extra.osm.pbf-652674916_bytes
+territori-catala-extra-nou.osm.pbf-653145081_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-652674916_bytes
+territori-catala-extra.osm.pbf-653145081_bytes
+ ---------------------------------- 
+ 
+dv mai 30 02:00:01 CEST 2014
+
+real	2m54.674s
+user	2m1.316s
+sys	0m4.600s
+territori-catala-extra.osm.pbf-653145081_bytes
+territori-catala-extra-nou.osm.pbf-653691535_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-653145081_bytes
+territori-catala-extra.osm.pbf-653691535_bytes
+ ---------------------------------- 
+ 
+ds mai 31 02:00:01 CEST 2014
+
+real	2m51.832s
+user	1m59.420s
+sys	0m4.396s
+territori-catala-extra.osm.pbf-653691535_bytes
+territori-catala-extra-nou.osm.pbf-654204184_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-653691535_bytes
+territori-catala-extra.osm.pbf-654204184_bytes
+ ---------------------------------- 
+ 
+dg jun  1 02:00:01 CEST 2014
+
+real	3m2.697s
+user	2m3.300s
+sys	0m4.832s
+territori-catala-extra.osm.pbf-654204184_bytes
+territori-catala-extra-nou.osm.pbf-654548483_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-654204184_bytes
+territori-catala-extra.osm.pbf-654548483_bytes
+ ---------------------------------- 
+ 
+dl jun  2 02:00:01 CEST 2014
+
+real	2m54.413s
+user	2m1.016s
+sys	0m4.732s
+territori-catala-extra.osm.pbf-654548483_bytes
+territori-catala-extra-nou.osm.pbf-654861125_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-654548483_bytes
+territori-catala-extra.osm.pbf-654861125_bytes
+ ---------------------------------- 
+ 
+dt jun  3 02:00:01 CEST 2014
+
+real	2m50.114s
+user	1m59.544s
+sys	0m4.592s
+territori-catala-extra.osm.pbf-654861125_bytes
+territori-catala-extra-nou.osm.pbf-655222134_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-654861125_bytes
+territori-catala-extra.osm.pbf-655222134_bytes
+ ---------------------------------- 
+ 
+dc jun  4 02:00:01 CEST 2014
+
+real	2m54.125s
+user	2m1.204s
+sys	0m4.632s
+territori-catala-extra.osm.pbf-655222134_bytes
+territori-catala-extra-nou.osm.pbf-655470631_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-655222134_bytes
+territori-catala-extra.osm.pbf-655470631_bytes
+ ---------------------------------- 
+ 
+dj jun  5 02:00:01 CEST 2014
+
+real	2m53.780s
+user	1m59.744s
+sys	0m4.624s
+territori-catala-extra.osm.pbf-655470631_bytes
+territori-catala-extra-nou.osm.pbf-655687762_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-655470631_bytes
+territori-catala-extra.osm.pbf-655687762_bytes
+ ---------------------------------- 
+ 
+dv jun  6 02:00:01 CEST 2014
+
+real	2m46.429s
+user	1m59.020s
+sys	0m4.412s
+territori-catala-extra.osm.pbf-655687762_bytes
+territori-catala-extra-nou.osm.pbf-655861019_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-655687762_bytes
+territori-catala-extra.osm.pbf-655861019_bytes
+ ---------------------------------- 
+ 
+ds jun  7 02:00:01 CEST 2014
+
+real	2m47.521s
+user	1m59.336s
+sys	0m4.372s
+territori-catala-extra.osm.pbf-655861019_bytes
+territori-catala-extra-nou.osm.pbf-656040595_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-655861019_bytes
+territori-catala-extra.osm.pbf-656040595_bytes
+ ---------------------------------- 
+ 
+dg jun  8 02:00:01 CEST 2014
+
+real	2m43.037s
+user	1m57.352s
+sys	0m4.260s
+territori-catala-extra.osm.pbf-656040595_bytes
+territori-catala-extra-nou.osm.pbf-656222288_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-656040595_bytes
+territori-catala-extra.osm.pbf-656222288_bytes
+ ---------------------------------- 
+ 
+dl jun  9 02:00:01 CEST 2014
+
+real	2m45.934s
+user	1m58.244s
+sys	0m4.356s
+territori-catala-extra.osm.pbf-656222288_bytes
+territori-catala-extra-nou.osm.pbf-656359788_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-656222288_bytes
+territori-catala-extra.osm.pbf-656359788_bytes
+ ---------------------------------- 
+ 
+dt jun 10 02:00:01 CEST 2014
+
+real	2m54.150s
+user	2m2.036s
+sys	0m4.864s
+territori-catala-extra.osm.pbf-656359788_bytes
+territori-catala-extra-nou.osm.pbf-656813854_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-656359788_bytes
+territori-catala-extra.osm.pbf-656813854_bytes
+ ---------------------------------- 
+ 
+dc jun 11 02:00:01 CEST 2014
+
+real	2m47.002s
+user	1m58.944s
+sys	0m4.440s
+territori-catala-extra.osm.pbf-656813854_bytes
+territori-catala-extra-nou.osm.pbf-657009860_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-656813854_bytes
+territori-catala-extra.osm.pbf-657009860_bytes
+ ---------------------------------- 
+ 
+dj jun 12 02:00:01 CEST 2014
+
+real	2m52.913s
+user	1m59.856s
+sys	0m4.416s
+territori-catala-extra.osm.pbf-657009860_bytes
+territori-catala-extra-nou.osm.pbf-657119026_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-657009860_bytes
+territori-catala-extra.osm.pbf-657119026_bytes
+ ---------------------------------- 
+ 
+dv jun 13 02:00:01 CEST 2014
+
+real	2m43.241s
+user	1m58.360s
+sys	0m4.176s
+territori-catala-extra.osm.pbf-657119026_bytes
+territori-catala-extra-nou.osm.pbf-657283732_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-657119026_bytes
+territori-catala-extra.osm.pbf-657283732_bytes
+ ---------------------------------- 
+ 
+ds jun 14 02:00:01 CEST 2014
+
+real	2m49.792s
+user	1m59.212s
+sys	0m4.372s
+territori-catala-extra.osm.pbf-657283732_bytes
+territori-catala-extra-nou.osm.pbf-657559587_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-657283732_bytes
+territori-catala-extra.osm.pbf-657559587_bytes
+ ---------------------------------- 
+ 
+dg jun 15 02:00:01 CEST 2014
+
+real	2m47.223s
+user	1m57.920s
+sys	0m4.300s
+territori-catala-extra.osm.pbf-657559587_bytes
+territori-catala-extra-nou.osm.pbf-658097939_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-657559587_bytes
+territori-catala-extra.osm.pbf-658097939_bytes
+ ---------------------------------- 
+ 
+dl jun 16 02:00:01 CEST 2014
+
+real	2m45.937s
+user	1m57.784s
+sys	0m4.480s
+territori-catala-extra.osm.pbf-658097939_bytes
+territori-catala-extra-nou.osm.pbf-658303183_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-658097939_bytes
+territori-catala-extra.osm.pbf-658303183_bytes
+ ---------------------------------- 
+ 
+dt jun 17 02:00:01 CEST 2014
+
+real	2m45.077s
+user	1m58.776s
+sys	0m4.324s
+territori-catala-extra.osm.pbf-658303183_bytes
+territori-catala-extra-nou.osm.pbf-658549773_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-658303183_bytes
+territori-catala-extra.osm.pbf-658549773_bytes
+ ---------------------------------- 
+ 
+dc jun 18 02:00:01 CEST 2014
+
+real	2m48.176s
+user	1m59.152s
+sys	0m4.432s
+territori-catala-extra.osm.pbf-658549773_bytes
+territori-catala-extra-nou.osm.pbf-658858928_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-658549773_bytes
+territori-catala-extra.osm.pbf-658858928_bytes
+ ---------------------------------- 
+ 
+dj jun 19 02:00:01 CEST 2014
+
+real	2m46.263s
+user	1m58.984s
+sys	0m4.608s
+territori-catala-extra.osm.pbf-658858928_bytes
+territori-catala-extra-nou.osm.pbf-658924574_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-658858928_bytes
+territori-catala-extra.osm.pbf-658924574_bytes
+ ---------------------------------- 
+ 
+dv jun 20 02:00:01 CEST 2014
+
+real	2m41.752s
+user	1m57.488s
+sys	0m4.236s
+territori-catala-extra.osm.pbf-658924574_bytes
+territori-catala-extra-nou.osm.pbf-659025435_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-658924574_bytes
+territori-catala-extra.osm.pbf-659025435_bytes
+ ---------------------------------- 
+ 
+ds jun 21 02:00:01 CEST 2014
+
+real	2m44.503s
+user	1m57.648s
+sys	0m4.148s
+territori-catala-extra.osm.pbf-659025435_bytes
+territori-catala-extra-nou.osm.pbf-659166585_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-659025435_bytes
+territori-catala-extra.osm.pbf-659166585_bytes
+ ---------------------------------- 
+ 
+dg jun 22 02:00:01 CEST 2014
+
+real	2m48.333s
+user	2m0.348s
+sys	0m4.384s
+territori-catala-extra.osm.pbf-659166585_bytes
+territori-catala-extra-nou.osm.pbf-659239459_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-659166585_bytes
+territori-catala-extra.osm.pbf-659239459_bytes
+ ---------------------------------- 
+ 
+dl jun 23 02:00:01 CEST 2014
+
+real	2m47.517s
+user	1m58.872s
+sys	0m4.476s
+territori-catala-extra.osm.pbf-659239459_bytes
+territori-catala-extra-nou.osm.pbf-659715707_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-659239459_bytes
+territori-catala-extra.osm.pbf-659715707_bytes
+ ---------------------------------- 
+ 
+dt jun 24 02:00:01 CEST 2014
+
+real	2m53.400s
+user	2m0.752s
+sys	0m4.772s
+territori-catala-extra.osm.pbf-659715707_bytes
+territori-catala-extra-nou.osm.pbf-659906550_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-659715707_bytes
+territori-catala-extra.osm.pbf-659906550_bytes
+ ---------------------------------- 
+ 
+dc jun 25 02:00:01 CEST 2014
+
+real	2m54.454s
+user	2m0.728s
+sys	0m5.104s
+territori-catala-extra.osm.pbf-659906550_bytes
+territori-catala-extra-nou.osm.pbf-660245345_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-659906550_bytes
+territori-catala-extra.osm.pbf-660245345_bytes
+ ---------------------------------- 
+ 
+dj jun 26 02:00:01 CEST 2014
+
+real	2m50.172s
+user	1m59.184s
+sys	0m4.404s
+territori-catala-extra.osm.pbf-660245345_bytes
+territori-catala-extra-nou.osm.pbf-660383377_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-660245345_bytes
+territori-catala-extra.osm.pbf-660383377_bytes
+ ---------------------------------- 
+ 
+dv jun 27 02:00:01 CEST 2014
+
+real	2m42.465s
+user	1m58.020s
+sys	0m4.396s
+territori-catala-extra.osm.pbf-660383377_bytes
+territori-catala-extra-nou.osm.pbf-660507138_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-660383377_bytes
+territori-catala-extra.osm.pbf-660507138_bytes
+ ---------------------------------- 
+ 
+ds jun 28 02:00:01 CEST 2014
+
+real	2m42.890s
+user	1m59.500s
+sys	0m4.496s
+territori-catala-extra.osm.pbf-660507138_bytes
+territori-catala-extra-nou.osm.pbf-660635457_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-660507138_bytes
+territori-catala-extra.osm.pbf-660635457_bytes
+ ---------------------------------- 
+ 
+dg jun 29 02:00:01 CEST 2014
+
+real	2m49.153s
+user	1m59.800s
+sys	0m4.572s
+territori-catala-extra.osm.pbf-660635457_bytes
+territori-catala-extra-nou.osm.pbf-660871625_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-660635457_bytes
+territori-catala-extra.osm.pbf-660871625_bytes
+ ---------------------------------- 
+ 
+dl jun 30 02:00:01 CEST 2014
+
+real	2m53.296s
+user	2m1.552s
+sys	0m4.716s
+territori-catala-extra.osm.pbf-660871625_bytes
+territori-catala-extra-nou.osm.pbf-661029523_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-660871625_bytes
+territori-catala-extra.osm.pbf-661029523_bytes
+ ---------------------------------- 
+ 
+dt jul  1 02:00:01 CEST 2014
+
+real	2m47.912s
+user	1m58.696s
+sys	0m4.632s
+territori-catala-extra.osm.pbf-661029523_bytes
+territori-catala-extra-nou.osm.pbf-661199186_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-661029523_bytes
+territori-catala-extra.osm.pbf-661199186_bytes
+ ---------------------------------- 
+ 
+dc jul  2 02:00:01 CEST 2014
+
+real	2m49.660s
+user	1m59.460s
+sys	0m4.848s
+territori-catala-extra.osm.pbf-661199186_bytes
+territori-catala-extra-nou.osm.pbf-661424282_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-661199186_bytes
+territori-catala-extra.osm.pbf-661424282_bytes
+ ---------------------------------- 
+ 
+dj jul  3 02:00:01 CEST 2014
+
+real	2m44.914s
+user	1m59.524s
+sys	0m4.316s
+territori-catala-extra.osm.pbf-661424282_bytes
+territori-catala-extra-nou.osm.pbf-661567671_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-661424282_bytes
+territori-catala-extra.osm.pbf-661567671_bytes
+ ---------------------------------- 
+ 
+dv jul  4 02:00:01 CEST 2014
+
+real	2m45.391s
+user	1m58.908s
+sys	0m4.660s
+territori-catala-extra.osm.pbf-661567671_bytes
+territori-catala-extra-nou.osm.pbf-661827002_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-661567671_bytes
+territori-catala-extra.osm.pbf-661827002_bytes
+ ---------------------------------- 
+ 
+ds jul  5 02:00:01 CEST 2014
+
+real	2m51.534s
+user	2m0.572s
+sys	0m4.760s
+territori-catala-extra.osm.pbf-661827002_bytes
+territori-catala-extra-nou.osm.pbf-662023409_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-661827002_bytes
+territori-catala-extra.osm.pbf-662023409_bytes
+ ---------------------------------- 
+ 
+dg jul  6 02:00:01 CEST 2014
+
+real	2m42.340s
+user	1m58.056s
+sys	0m4.740s
+territori-catala-extra.osm.pbf-662023409_bytes
+territori-catala-extra-nou.osm.pbf-662291888_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-662023409_bytes
+territori-catala-extra.osm.pbf-662291888_bytes
+ ---------------------------------- 
+ 
+dl jul  7 02:00:01 CEST 2014
+
+real	2m49.696s
+user	1m59.632s
+sys	0m4.632s
+territori-catala-extra.osm.pbf-662291888_bytes
+territori-catala-extra-nou.osm.pbf-662497629_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-662291888_bytes
+territori-catala-extra.osm.pbf-662497629_bytes
+ ---------------------------------- 
+ 
+dt jul  8 02:00:01 CEST 2014
+
+real	2m53.339s
+user	2m2.120s
+sys	0m5.092s
+territori-catala-extra.osm.pbf-662497629_bytes
+territori-catala-extra-nou.osm.pbf-662632022_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-662497629_bytes
+territori-catala-extra.osm.pbf-662632022_bytes
+ ---------------------------------- 
+ 
+dc jul  9 02:00:01 CEST 2014
+
+real	2m52.272s
+user	2m0.404s
+sys	0m5.088s
+territori-catala-extra.osm.pbf-662632022_bytes
+territori-catala-extra-nou.osm.pbf-662949891_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-662632022_bytes
+territori-catala-extra.osm.pbf-662949891_bytes
+ ---------------------------------- 
+ 
+dj jul 10 02:00:01 CEST 2014
+
+real	2m46.423s
+user	1m58.724s
+sys	0m4.740s
+territori-catala-extra.osm.pbf-662949891_bytes
+territori-catala-extra-nou.osm.pbf-663095522_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-662949891_bytes
+territori-catala-extra.osm.pbf-663095522_bytes
+ ---------------------------------- 
+ 
+dv jul 11 02:00:01 CEST 2014
+
+real	2m48.864s
+user	2m0.016s
+sys	0m4.992s
+territori-catala-extra.osm.pbf-663095522_bytes
+territori-catala-extra-nou.osm.pbf-663312529_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-663095522_bytes
+territori-catala-extra.osm.pbf-663312529_bytes
+ ---------------------------------- 
+ 
+ds jul 12 02:00:01 CEST 2014
+
+real	2m43.634s
+user	1m58.396s
+sys	0m4.600s
+territori-catala-extra.osm.pbf-663312529_bytes
+territori-catala-extra-nou.osm.pbf-663493340_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-663312529_bytes
+territori-catala-extra.osm.pbf-663493340_bytes
+ ---------------------------------- 
+ 
+dg jul 13 02:00:01 CEST 2014
+
+real	2m43.913s
+user	1m59.716s
+sys	0m5.080s
+territori-catala-extra.osm.pbf-663493340_bytes
+territori-catala-extra-nou.osm.pbf-663600439_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-663493340_bytes
+territori-catala-extra.osm.pbf-663600439_bytes
+ ---------------------------------- 
+ 
+dl jul 14 02:00:01 CEST 2014
+
+real	2m48.289s
+user	1m59.564s
+sys	0m4.976s
+territori-catala-extra.osm.pbf-663600439_bytes
+territori-catala-extra-nou.osm.pbf-663693292_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-663600439_bytes
+territori-catala-extra.osm.pbf-663693292_bytes
+ ---------------------------------- 
+ 
+dt jul 15 02:00:01 CEST 2014
+
+real	2m55.514s
+user	2m2.340s
+sys	0m5.140s
+territori-catala-extra.osm.pbf-663693292_bytes
+territori-catala-extra-nou.osm.pbf-663861022_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-663693292_bytes
+territori-catala-extra.osm.pbf-663861022_bytes
+ ---------------------------------- 
+ 
+dc jul 16 02:00:01 CEST 2014
+
+real	2m57.345s
+user	2m3.688s
+sys	0m5.072s
+territori-catala-extra.osm.pbf-663861022_bytes
+territori-catala-extra-nou.osm.pbf-664035289_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-663861022_bytes
+territori-catala-extra.osm.pbf-664035289_bytes
+ ---------------------------------- 
+ 
+dj jul 17 02:00:01 CEST 2014
+
+real	2m49.335s
+user	2m0.160s
+sys	0m4.880s
+territori-catala-extra.osm.pbf-664035289_bytes
+territori-catala-extra-nou.osm.pbf-664166576_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-664035289_bytes
+territori-catala-extra.osm.pbf-664166576_bytes
+ ---------------------------------- 
+ 
+dv jul 18 02:00:01 CEST 2014
+
+real	2m46.879s
+user	1m58.252s
+sys	0m4.592s
+territori-catala-extra.osm.pbf-664166576_bytes
+territori-catala-extra-nou.osm.pbf-664289317_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-664166576_bytes
+territori-catala-extra.osm.pbf-664289317_bytes
+ ---------------------------------- 
+ 
+ds jul 19 02:00:01 CEST 2014
+
+real	2m44.635s
+user	1m59.180s
+sys	0m4.616s
+territori-catala-extra.osm.pbf-664289317_bytes
+territori-catala-extra-nou.osm.pbf-664480057_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-664289317_bytes
+territori-catala-extra.osm.pbf-664480057_bytes
+ ---------------------------------- 
+ 
+dg jul 20 02:00:01 CEST 2014
+
+real	2m42.420s
+user	1m58.452s
+sys	0m4.460s
+territori-catala-extra.osm.pbf-664480057_bytes
+territori-catala-extra-nou.osm.pbf-664701086_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-664480057_bytes
+territori-catala-extra.osm.pbf-664701086_bytes
+ ---------------------------------- 
+ 
+dl jul 21 02:00:01 CEST 2014
+
+real	2m47.878s
+user	1m59.472s
+sys	0m4.660s
+territori-catala-extra.osm.pbf-664701086_bytes
+territori-catala-extra-nou.osm.pbf-665056075_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-664701086_bytes
+territori-catala-extra.osm.pbf-665056075_bytes
+ ---------------------------------- 
+ 
+dt jul 22 02:00:01 CEST 2014
+
+real	2m52.420s
+user	2m1.896s
+sys	0m4.856s
+territori-catala-extra.osm.pbf-665056075_bytes
+territori-catala-extra-nou.osm.pbf-665301960_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-665056075_bytes
+territori-catala-extra.osm.pbf-665301960_bytes
+ ---------------------------------- 
+ 
+dc jul 23 02:00:01 CEST 2014
+
+real	2m43.988s
+user	1m58.780s
+sys	0m4.504s
+territori-catala-extra.osm.pbf-665301960_bytes
+territori-catala-extra-nou.osm.pbf-665448485_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-665301960_bytes
+territori-catala-extra.osm.pbf-665448485_bytes
+ ---------------------------------- 
+ 
+dj jul 24 02:00:01 CEST 2014
+
+real	2m46.748s
+user	1m59.636s
+sys	0m4.364s
+territori-catala-extra.osm.pbf-665448485_bytes
+territori-catala-extra-nou.osm.pbf-665670145_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-665448485_bytes
+territori-catala-extra.osm.pbf-665670145_bytes
+ ---------------------------------- 
+ 
+dv jul 25 02:00:01 CEST 2014
+
+real	2m49.553s
+user	2m2.072s
+sys	0m4.584s
+territori-catala-extra.osm.pbf-665670145_bytes
+territori-catala-extra-nou.osm.pbf-666108585_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-665670145_bytes
+territori-catala-extra.osm.pbf-666108585_bytes
+ ---------------------------------- 
+ 
+ds jul 26 02:00:01 CEST 2014
+
+real	2m56.141s
+user	2m2.540s
+sys	0m4.940s
+territori-catala-extra.osm.pbf-666108585_bytes
+territori-catala-extra-nou.osm.pbf-666612993_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-666108585_bytes
+territori-catala-extra.osm.pbf-666612993_bytes
+ ---------------------------------- 
+ 
+dg jul 27 02:00:01 CEST 2014
+
+real	2m48.847s
+user	2m1.120s
+sys	0m4.776s
+territori-catala-extra.osm.pbf-666612993_bytes
+territori-catala-extra-nou.osm.pbf-666950750_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-666612993_bytes
+territori-catala-extra.osm.pbf-666950750_bytes
+ ---------------------------------- 
+ 
+dl jul 28 02:00:01 CEST 2014
+
+real	2m55.950s
+user	2m2.256s
+sys	0m4.960s
+territori-catala-extra.osm.pbf-666950750_bytes
+territori-catala-extra-nou.osm.pbf-667801353_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-666950750_bytes
+territori-catala-extra.osm.pbf-667801353_bytes
+ ---------------------------------- 
+ 
+dt jul 29 02:00:01 CEST 2014
+
+real	2m47.930s
+user	2m0.496s
+sys	0m4.664s
+territori-catala-extra.osm.pbf-667801353_bytes
+territori-catala-extra-nou.osm.pbf-668075406_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-667801353_bytes
+territori-catala-extra.osm.pbf-668075406_bytes
+ ---------------------------------- 
+ 
+dc jul 30 02:00:01 CEST 2014
+
+real	2m51.627s
+user	2m1.520s
+sys	0m4.768s
+territori-catala-extra.osm.pbf-668075406_bytes
+territori-catala-extra-nou.osm.pbf-668236195_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-668075406_bytes
+territori-catala-extra.osm.pbf-668236195_bytes
+ ---------------------------------- 
+ 
+dj jul 31 02:00:01 CEST 2014
+
+real	2m53.487s
+user	2m2.780s
+sys	0m4.860s
+territori-catala-extra.osm.pbf-668236195_bytes
+territori-catala-extra-nou.osm.pbf-668543606_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-668236195_bytes
+territori-catala-extra.osm.pbf-668543606_bytes
+ ---------------------------------- 
+ 
+dv ago  1 02:00:01 CEST 2014
+
+real	2m49.948s
+user	2m1.252s
+sys	0m4.656s
+territori-catala-extra.osm.pbf-668543606_bytes
+territori-catala-extra-nou.osm.pbf-668771373_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-668543606_bytes
+territori-catala-extra.osm.pbf-668771373_bytes
+ ---------------------------------- 
+ 
+ds ago  2 02:00:01 CEST 2014
+
+real	2m47.072s
+user	2m0.004s
+sys	0m4.576s
+territori-catala-extra.osm.pbf-668771373_bytes
+territori-catala-extra-nou.osm.pbf-668894370_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-668771373_bytes
+territori-catala-extra.osm.pbf-668894370_bytes
+ ---------------------------------- 
+ 
+dg ago  3 02:00:01 CEST 2014
+
+real	2m54.874s
+user	2m3.496s
+sys	0m4.892s
+territori-catala-extra.osm.pbf-668894370_bytes
+territori-catala-extra-nou.osm.pbf-669117114_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-668894370_bytes
+territori-catala-extra.osm.pbf-669117114_bytes
+ ---------------------------------- 
+ 
+dl ago  4 02:00:01 CEST 2014
+
+real	2m55.268s
+user	2m3.032s
+sys	0m4.792s
+territori-catala-extra.osm.pbf-669117114_bytes
+territori-catala-extra-nou.osm.pbf-669635410_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-669117114_bytes
+territori-catala-extra.osm.pbf-669635410_bytes
+ ---------------------------------- 
+ 
+dt ago  5 02:00:01 CEST 2014
+
+real	2m56.262s
+user	2m4.360s
+sys	0m5.316s
+territori-catala-extra.osm.pbf-669635410_bytes
+territori-catala-extra-nou.osm.pbf-669828044_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-669635410_bytes
+territori-catala-extra.osm.pbf-669828044_bytes
+ ---------------------------------- 
+ 
+dc ago  6 02:00:01 CEST 2014
+
+real	2m55.559s
+user	2m3.536s
+sys	0m5.424s
+territori-catala-extra.osm.pbf-669828044_bytes
+territori-catala-extra-nou.osm.pbf-670076983_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-669828044_bytes
+territori-catala-extra.osm.pbf-670076983_bytes
+ ---------------------------------- 
+ 
+dj ago  7 02:00:01 CEST 2014
+
+real	3m4.012s
+user	2m4.952s
+sys	0m5.560s
+territori-catala-extra.osm.pbf-670076983_bytes
+territori-catala-extra-nou.osm.pbf-670565506_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-670076983_bytes
+territori-catala-extra.osm.pbf-670565506_bytes
+ ---------------------------------- 
+ 
+dv ago  8 02:00:01 CEST 2014
+
+real	2m58.813s
+user	2m4.592s
+sys	0m5.252s
+territori-catala-extra.osm.pbf-670565506_bytes
+territori-catala-extra-nou.osm.pbf-670940128_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-670565506_bytes
+territori-catala-extra.osm.pbf-670940128_bytes
+ ---------------------------------- 
+ 
+ds ago  9 02:00:01 CEST 2014
+
+real	2m56.351s
+user	2m3.072s
+sys	0m5.168s
+territori-catala-extra.osm.pbf-670940128_bytes
+territori-catala-extra-nou.osm.pbf-671180058_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-670940128_bytes
+territori-catala-extra.osm.pbf-671180058_bytes
+ ---------------------------------- 
+ 
+dg ago 10 02:00:01 CEST 2014
+
+real	2m55.642s
+user	2m3.412s
+sys	0m5.648s
+territori-catala-extra.osm.pbf-671180058_bytes
+territori-catala-extra-nou.osm.pbf-671418107_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-671180058_bytes
+territori-catala-extra.osm.pbf-671418107_bytes
+ ---------------------------------- 
+ 
+dl ago 11 02:00:01 CEST 2014
+
+real	2m58.556s
+user	2m4.352s
+sys	0m5.708s
+territori-catala-extra.osm.pbf-671418107_bytes
+territori-catala-extra-nou.osm.pbf-671527276_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-671418107_bytes
+territori-catala-extra.osm.pbf-671527276_bytes
+ ---------------------------------- 
+ 
+dt ago 12 02:00:01 CEST 2014
+
+real	3m1.153s
+user	2m5.576s
+sys	0m5.512s
+territori-catala-extra.osm.pbf-671527276_bytes
+territori-catala-extra-nou.osm.pbf-671670810_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-671527276_bytes
+territori-catala-extra.osm.pbf-671670810_bytes
+ ---------------------------------- 
+ 
+dc ago 13 02:00:01 CEST 2014
+
+real	2m52.893s
+user	2m2.172s
+sys	0m4.884s
+territori-catala-extra.osm.pbf-671670810_bytes
+territori-catala-extra-nou.osm.pbf-671878442_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-671670810_bytes
+territori-catala-extra.osm.pbf-671878442_bytes
+ ---------------------------------- 
+ 
+dj ago 14 02:00:01 CEST 2014
+
+real	2m56.062s
+user	2m3.536s
+sys	0m5.204s
+territori-catala-extra.osm.pbf-671878442_bytes
+territori-catala-extra-nou.osm.pbf-672039997_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-671878442_bytes
+territori-catala-extra.osm.pbf-672039997_bytes
+ ---------------------------------- 
+ 
+dv ago 15 02:00:01 CEST 2014
+
+real	2m50.815s
+user	2m1.512s
+sys	0m5.036s
+territori-catala-extra.osm.pbf-672039997_bytes
+territori-catala-extra-nou.osm.pbf-672203622_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-672039997_bytes
+territori-catala-extra.osm.pbf-672203622_bytes
+ ---------------------------------- 
+ 
+ds ago 16 02:00:01 CEST 2014
+
+real	2m52.607s
+user	2m2.496s
+sys	0m4.972s
+territori-catala-extra.osm.pbf-672203622_bytes
+territori-catala-extra-nou.osm.pbf-672387648_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-672203622_bytes
+territori-catala-extra.osm.pbf-672387648_bytes
+ ---------------------------------- 
+ 
+dg ago 17 02:00:01 CEST 2014
+
+real	2m55.392s
+user	2m2.680s
+sys	0m5.096s
+territori-catala-extra.osm.pbf-672387648_bytes
+territori-catala-extra-nou.osm.pbf-672544200_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-672387648_bytes
+territori-catala-extra.osm.pbf-672544200_bytes
+ ---------------------------------- 
+ 
+dl ago 18 02:00:01 CEST 2014
+
+real	2m59.693s
+user	2m5.708s
+sys	0m5.468s
+territori-catala-extra.osm.pbf-672544200_bytes
+territori-catala-extra-nou.osm.pbf-672675448_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-672544200_bytes
+territori-catala-extra.osm.pbf-672675448_bytes
+ ---------------------------------- 
+ 
+dt ago 19 02:00:01 CEST 2014
+
+real	3m5.260s
+user	2m5.552s
+sys	0m5.456s
+territori-catala-extra.osm.pbf-672675448_bytes
+territori-catala-extra-nou.osm.pbf-672863764_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-672675448_bytes
+territori-catala-extra.osm.pbf-672863764_bytes
+ ---------------------------------- 
+ 
+dc ago 20 02:00:01 CEST 2014
+
+real	3m5.125s
+user	2m5.536s
+sys	0m5.360s
+territori-catala-extra.osm.pbf-672863764_bytes
+territori-catala-extra-nou.osm.pbf-673314299_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-672863764_bytes
+territori-catala-extra.osm.pbf-673314299_bytes
+ ---------------------------------- 
+ 
+dj ago 21 02:00:01 CEST 2014
+
+real	3m2.161s
+user	2m4.556s
+sys	0m5.456s
+territori-catala-extra.osm.pbf-673314299_bytes
+territori-catala-extra-nou.osm.pbf-673483859_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-673314299_bytes
+territori-catala-extra.osm.pbf-673483859_bytes
+ ---------------------------------- 
+ 
+dv ago 22 02:00:01 CEST 2014
+
+real	3m7.028s
+user	2m7.540s
+sys	0m5.800s
+territori-catala-extra.osm.pbf-673483859_bytes
+territori-catala-extra-nou.osm.pbf-673999586_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-673483859_bytes
+territori-catala-extra.osm.pbf-673999586_bytes
+ ---------------------------------- 
+ 
+ds ago 23 02:00:01 CEST 2014
+
+real	3m0.099s
+user	2m4.568s
+sys	0m5.180s
+territori-catala-extra.osm.pbf-673999586_bytes
+territori-catala-extra-nou.osm.pbf-674576765_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-673999586_bytes
+territori-catala-extra.osm.pbf-674576765_bytes
+ ---------------------------------- 
+ 
+dg ago 24 02:00:01 CEST 2014
+
+real	2m59.576s
+user	2m4.588s
+sys	0m5.284s
+territori-catala-extra.osm.pbf-674576765_bytes
+territori-catala-extra-nou.osm.pbf-674744967_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-674576765_bytes
+territori-catala-extra.osm.pbf-674744967_bytes
+ ---------------------------------- 
+ 
+dl ago 25 02:00:01 CEST 2014
+
+real	2m58.124s
+user	2m3.472s
+sys	0m4.884s
+territori-catala-extra.osm.pbf-674744967_bytes
+territori-catala-extra-nou.osm.pbf-674951437_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-674744967_bytes
+territori-catala-extra.osm.pbf-674951437_bytes
+ ---------------------------------- 
+ 
+dt ago 26 02:00:01 CEST 2014
+
+real	3m5.805s
+user	2m5.748s
+sys	0m5.520s
+territori-catala-extra.osm.pbf-674951437_bytes
+territori-catala-extra-nou.osm.pbf-675102836_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-674951437_bytes
+territori-catala-extra.osm.pbf-675102836_bytes
+ ---------------------------------- 
+ 
+dc ago 27 02:00:01 CEST 2014
+
+real	3m1.142s
+user	2m5.532s
+sys	0m5.004s
+territori-catala-extra.osm.pbf-675102836_bytes
+territori-catala-extra-nou.osm.pbf-675408074_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-675102836_bytes
+territori-catala-extra.osm.pbf-675408074_bytes
+ ---------------------------------- 
+ 
+dj ago 28 02:00:01 CEST 2014
+
+real	2m51.578s
+user	2m3.296s
+sys	0m4.660s
+territori-catala-extra.osm.pbf-675408074_bytes
+territori-catala-extra-nou.osm.pbf-675531003_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-675408074_bytes
+territori-catala-extra.osm.pbf-675531003_bytes
+ ---------------------------------- 
+ 
+dv ago 29 02:00:01 CEST 2014
+
+real	2m49.878s
+user	2m2.520s
+sys	0m4.548s
+territori-catala-extra.osm.pbf-675531003_bytes
+territori-catala-extra-nou.osm.pbf-675676585_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-675531003_bytes
+territori-catala-extra.osm.pbf-675676585_bytes
+ ---------------------------------- 
+ 
+ds ago 30 02:00:01 CEST 2014
+
+real	2m46.900s
+user	2m1.240s
+sys	0m4.592s
+territori-catala-extra.osm.pbf-675676585_bytes
+territori-catala-extra-nou.osm.pbf-675890357_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-675676585_bytes
+territori-catala-extra.osm.pbf-675890357_bytes
+ ---------------------------------- 
+ 
+dg ago 31 02:00:01 CEST 2014
+
+real	2m46.765s
+user	2m1.348s
+sys	0m4.532s
+territori-catala-extra.osm.pbf-675890357_bytes
+territori-catala-extra-nou.osm.pbf-676124457_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-675890357_bytes
+territori-catala-extra.osm.pbf-676124457_bytes
+ ---------------------------------- 
+ 
+dl set  1 02:00:01 CEST 2014
+
+real	2m51.405s
+user	2m2.476s
+sys	0m4.752s
+territori-catala-extra.osm.pbf-676124457_bytes
+territori-catala-extra-nou.osm.pbf-676207173_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-676124457_bytes
+territori-catala-extra.osm.pbf-676207173_bytes
+ ---------------------------------- 
+ 
+dt set  2 02:00:01 CEST 2014
+
+real	2m56.743s
+user	2m4.600s
+sys	0m4.924s
+territori-catala-extra.osm.pbf-676207173_bytes
+territori-catala-extra-nou.osm.pbf-676288192_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-676207173_bytes
+territori-catala-extra.osm.pbf-676288192_bytes
+ ---------------------------------- 
+ 
+dc set  3 02:00:01 CEST 2014
+
+real	3m8.924s
+user	2m6.344s
+sys	0m5.200s
+territori-catala-extra.osm.pbf-676288192_bytes
+territori-catala-extra-nou.osm.pbf-676471765_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-676288192_bytes
+territori-catala-extra.osm.pbf-676471765_bytes
+ ---------------------------------- 
+ 
+dj set  4 02:00:01 CEST 2014
+
+real	2m53.227s
+user	2m2.700s
+sys	0m4.968s
+territori-catala-extra.osm.pbf-676471765_bytes
+territori-catala-extra-nou.osm.pbf-676678108_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-676471765_bytes
+territori-catala-extra.osm.pbf-676678108_bytes
+ ---------------------------------- 
+ 
+dv set  5 02:00:01 CEST 2014
+
+real	2m56.602s
+user	2m4.232s
+sys	0m4.772s
+territori-catala-extra.osm.pbf-676678108_bytes
+territori-catala-extra-nou.osm.pbf-676860924_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-676678108_bytes
+territori-catala-extra.osm.pbf-676860924_bytes
+ ---------------------------------- 
+ 
+ds set  6 02:00:01 CEST 2014
+
+real	2m49.794s
+user	2m1.300s
+sys	0m4.604s
+territori-catala-extra.osm.pbf-676860924_bytes
+territori-catala-extra-nou.osm.pbf-676995015_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-676860924_bytes
+territori-catala-extra.osm.pbf-676995015_bytes
+ ---------------------------------- 
+ 
+dg set  7 02:00:01 CEST 2014
+
+real	2m51.034s
+user	2m2.428s
+sys	0m4.716s
+territori-catala-extra.osm.pbf-676995015_bytes
+territori-catala-extra-nou.osm.pbf-677160018_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-676995015_bytes
+territori-catala-extra.osm.pbf-677160018_bytes
+ ---------------------------------- 
+ 
+dl set  8 02:00:01 CEST 2014
+
+real	2m56.491s
+user	2m5.384s
+sys	0m4.256s
+territori-catala-extra.osm.pbf-677160018_bytes
+territori-catala-extra-nou.osm.pbf-677303359_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-677160018_bytes
+territori-catala-extra.osm.pbf-677303359_bytes
+ ---------------------------------- 
+ 
+dt set  9 02:00:01 CEST 2014
+
+real	2m54.514s
+user	2m6.840s
+sys	0m4.844s
+territori-catala-extra.osm.pbf-677303359_bytes
+territori-catala-extra-nou.osm.pbf-677504253_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-677303359_bytes
+territori-catala-extra.osm.pbf-677504253_bytes
+ ---------------------------------- 
+ 
+dc set 10 02:00:01 CEST 2014
+
+real	3m4.876s
+user	2m12.160s
+sys	0m6.688s
+territori-catala-extra.osm.pbf-677504253_bytes
+territori-catala-extra-nou.osm.pbf-677752934_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-677504253_bytes
+territori-catala-extra.osm.pbf-677752934_bytes
+ ---------------------------------- 
+ 
+dj set 11 02:00:01 CEST 2014
+
+real	2m54.093s
+user	2m5.172s
+sys	0m5.080s
+territori-catala-extra.osm.pbf-677752934_bytes
+territori-catala-extra-nou.osm.pbf-678111402_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-677752934_bytes
+territori-catala-extra.osm.pbf-678111402_bytes
+ ---------------------------------- 
+ 
+dv set 12 02:00:01 CEST 2014
+
+real	2m56.040s
+user	2m5.448s
+sys	0m5.296s
+territori-catala-extra.osm.pbf-678111402_bytes
+territori-catala-extra-nou.osm.pbf-678437664_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-678111402_bytes
+territori-catala-extra.osm.pbf-678437664_bytes
+ ---------------------------------- 
+ 
+ds set 13 02:00:01 CEST 2014
+
+real	2m55.132s
+user	2m5.652s
+sys	0m4.908s
+territori-catala-extra.osm.pbf-678437664_bytes
+territori-catala-extra-nou.osm.pbf-678713412_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-678437664_bytes
+territori-catala-extra.osm.pbf-678713412_bytes
+ ---------------------------------- 
+ 
+dg set 14 02:00:01 CEST 2014
+
+real	2m55.364s
+user	2m5.732s
+sys	0m5.244s
+territori-catala-extra.osm.pbf-678713412_bytes
+territori-catala-extra-nou.osm.pbf-678951438_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-678713412_bytes
+territori-catala-extra.osm.pbf-678951438_bytes
+ ---------------------------------- 
+ 
+dl set 15 02:00:01 CEST 2014
+
+real	2m57.549s
+user	2m5.996s
+sys	0m4.772s
+territori-catala-extra.osm.pbf-678951438_bytes
+territori-catala-extra-nou.osm.pbf-679185494_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-678951438_bytes
+territori-catala-extra.osm.pbf-679185494_bytes
+ ---------------------------------- 
+ 
+dt set 16 02:00:01 CEST 2014
+
+real	3m1.146s
+user	2m5.804s
+sys	0m5.124s
+territori-catala-extra.osm.pbf-679185494_bytes
+territori-catala-extra-nou.osm.pbf-679360569_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-679185494_bytes
+territori-catala-extra.osm.pbf-679360569_bytes
+ ---------------------------------- 
+ 
+dc set 17 02:00:01 CEST 2014
+
+real	2m57.883s
+user	2m5.244s
+sys	0m5.284s
+territori-catala-extra.osm.pbf-679360569_bytes
+territori-catala-extra-nou.osm.pbf-679704413_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-679360569_bytes
+territori-catala-extra.osm.pbf-679704413_bytes
+ ---------------------------------- 
+ 
+dj set 18 02:00:02 CEST 2014
+
+real	3m12.166s
+user	2m16.592s
+sys	0m5.356s
+territori-catala-extra.osm.pbf-679704413_bytes
+territori-catala-extra-nou.osm.pbf-679946514_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-679704413_bytes
+territori-catala-extra.osm.pbf-679946514_bytes
+ ---------------------------------- 
+ 
+dv set 19 02:00:01 CEST 2014
+
+real	2m53.052s
+user	2m3.564s
+sys	0m5.088s
+territori-catala-extra.osm.pbf-679946514_bytes
+territori-catala-extra-nou.osm.pbf-680356414_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-679946514_bytes
+territori-catala-extra.osm.pbf-680356414_bytes
+ ---------------------------------- 
+ 
+ds set 20 02:00:01 CEST 2014
+
+real	2m51.794s
+user	2m4.880s
+sys	0m4.584s
+territori-catala-extra.osm.pbf-680356414_bytes
+territori-catala-extra-nou.osm.pbf-680686249_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-680356414_bytes
+territori-catala-extra.osm.pbf-680686249_bytes
+ ---------------------------------- 
+ 
+dg set 21 02:00:01 CEST 2014
+
+real	2m53.826s
+user	2m4.808s
+sys	0m4.832s
+territori-catala-extra.osm.pbf-680686249_bytes
+territori-catala-extra-nou.osm.pbf-681184328_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-680686249_bytes
+territori-catala-extra.osm.pbf-681184328_bytes
+ ---------------------------------- 
+ 
+dl set 22 02:00:01 CEST 2014
+
+real	2m59.454s
+user	2m5.868s
+sys	0m4.836s
+territori-catala-extra.osm.pbf-681184328_bytes
+territori-catala-extra-nou.osm.pbf-681478902_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-681184328_bytes
+territori-catala-extra.osm.pbf-681478902_bytes
+ ---------------------------------- 
+ 
+dt set 23 02:00:01 CEST 2014
+
+real	2m55.205s
+user	2m5.820s
+sys	0m4.908s
+territori-catala-extra.osm.pbf-681478902_bytes
+territori-catala-extra-nou.osm.pbf-682045892_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-681478902_bytes
+territori-catala-extra.osm.pbf-682045892_bytes
+ ---------------------------------- 
+ 
+dc set 24 02:00:01 CEST 2014
+
+real	2m54.365s
+user	2m5.772s
+sys	0m4.876s
+territori-catala-extra.osm.pbf-682045892_bytes
+territori-catala-extra-nou.osm.pbf-682245244_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-682045892_bytes
+territori-catala-extra.osm.pbf-682245244_bytes
+ ---------------------------------- 
+ 
+dj set 25 02:00:01 CEST 2014
+
+real	2m53.568s
+user	2m5.816s
+sys	0m4.724s
+territori-catala-extra.osm.pbf-682245244_bytes
+territori-catala-extra-nou.osm.pbf-682580258_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-682245244_bytes
+territori-catala-extra.osm.pbf-682580258_bytes
+ ---------------------------------- 
+ 
+dv set 26 02:00:01 CEST 2014
+
+real	2m55.017s
+user	2m5.536s
+sys	0m4.764s
+territori-catala-extra.osm.pbf-682580258_bytes
+territori-catala-extra-nou.osm.pbf-682790744_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-682580258_bytes
+territori-catala-extra.osm.pbf-682790744_bytes
+ ---------------------------------- 
+ 
+ds set 27 02:00:01 CEST 2014
+
+real	3m0.029s
+user	2m8.604s
+sys	0m5.064s
+territori-catala-extra.osm.pbf-682790744_bytes
+territori-catala-extra-nou.osm.pbf-683063061_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-682790744_bytes
+territori-catala-extra.osm.pbf-683063061_bytes
+ ---------------------------------- 
+ 
+dg set 28 02:00:01 CEST 2014
+
+real	2m57.512s
+user	2m6.148s
+sys	0m5.016s
+territori-catala-extra.osm.pbf-683063061_bytes
+territori-catala-extra-nou.osm.pbf-683361598_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-683063061_bytes
+territori-catala-extra.osm.pbf-683361598_bytes
+ ---------------------------------- 
+ 
+dl set 29 02:00:01 CEST 2014
+
+real	2m55.684s
+user	2m6.184s
+sys	0m4.668s
+territori-catala-extra.osm.pbf-683361598_bytes
+territori-catala-extra-nou.osm.pbf-683623818_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-683361598_bytes
+territori-catala-extra.osm.pbf-683623818_bytes
+ ---------------------------------- 
+ 
+dt set 30 02:00:01 CEST 2014
+
+real	2m55.275s
+user	2m5.684s
+sys	0m4.648s
+territori-catala-extra.osm.pbf-683623818_bytes
+territori-catala-extra-nou.osm.pbf-683886517_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-683623818_bytes
+territori-catala-extra.osm.pbf-683886517_bytes
+ ---------------------------------- 
+ 
+dc oct  1 02:00:01 CEST 2014
+
+real	2m57.499s
+user	2m6.616s
+sys	0m4.952s
+territori-catala-extra.osm.pbf-683886517_bytes
+territori-catala-extra-nou.osm.pbf-683998712_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-683886517_bytes
+territori-catala-extra.osm.pbf-683998712_bytes
+ ---------------------------------- 
+ 
+dj oct  2 02:00:01 CEST 2014
+
+real	2m55.916s
+user	2m5.672s
+sys	0m5.012s
+territori-catala-extra.osm.pbf-683998712_bytes
+territori-catala-extra-nou.osm.pbf-684227221_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-683998712_bytes
+territori-catala-extra.osm.pbf-684227221_bytes
+ ---------------------------------- 
+ 
+dv oct  3 02:00:01 CEST 2014
+
+real	2m54.570s
+user	2m6.672s
+sys	0m4.764s
+territori-catala-extra.osm.pbf-684227221_bytes
+territori-catala-extra-nou.osm.pbf-684370529_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-684227221_bytes
+territori-catala-extra.osm.pbf-684370529_bytes
+ ---------------------------------- 
+ 
+ds oct  4 02:00:01 CEST 2014
+
+real	2m57.804s
+user	2m5.056s
+sys	0m5.056s
+territori-catala-extra.osm.pbf-684370529_bytes
+territori-catala-extra-nou.osm.pbf-684580567_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-684370529_bytes
+territori-catala-extra.osm.pbf-684580567_bytes
+ ---------------------------------- 
+ 
+dg oct  5 02:00:01 CEST 2014
+
+real	2m54.858s
+user	2m4.924s
+sys	0m5.372s
+territori-catala-extra.osm.pbf-684580567_bytes
+territori-catala-extra-nou.osm.pbf-684734763_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-684580567_bytes
+territori-catala-extra.osm.pbf-684734763_bytes
+ ---------------------------------- 
+ 
+dl oct  6 02:00:01 CEST 2014
+
+real	2m58.145s
+user	2m5.556s
+sys	0m5.716s
+territori-catala-extra.osm.pbf-684734763_bytes
+territori-catala-extra-nou.osm.pbf-684895762_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-684734763_bytes
+territori-catala-extra.osm.pbf-684895762_bytes
+ ---------------------------------- 
+ 
+dt oct  7 02:00:01 CEST 2014
+
+real	2m59.970s
+user	2m6.020s
+sys	0m5.916s
+territori-catala-extra.osm.pbf-684895762_bytes
+territori-catala-extra-nou.osm.pbf-685024620_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-684895762_bytes
+territori-catala-extra.osm.pbf-685024620_bytes
+ ---------------------------------- 
+ 
+dc oct  8 02:00:02 CEST 2014
+
+real	3m2.318s
+user	2m5.868s
+sys	0m5.980s
+territori-catala-extra.osm.pbf-685024620_bytes
+territori-catala-extra-nou.osm.pbf-685247853_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-685024620_bytes
+territori-catala-extra.osm.pbf-685247853_bytes
+ ---------------------------------- 
+ 
+dj oct  9 02:00:01 CEST 2014
+
+real	2m55.510s
+user	2m5.312s
+sys	0m5.700s
+territori-catala-extra.osm.pbf-685247853_bytes
+territori-catala-extra-nou.osm.pbf-685417736_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-685247853_bytes
+territori-catala-extra.osm.pbf-685417736_bytes
+ ---------------------------------- 
+ 
+dv oct 10 02:00:01 CEST 2014
+
+real	2m53.879s
+user	2m4.744s
+sys	0m5.680s
+territori-catala-extra.osm.pbf-685417736_bytes
+territori-catala-extra-nou.osm.pbf-685610307_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-685417736_bytes
+territori-catala-extra.osm.pbf-685610307_bytes
+ ---------------------------------- 
+ 
+ds oct 11 02:00:01 CEST 2014
+
+real	2m57.521s
+user	2m5.728s
+sys	0m5.696s
+territori-catala-extra.osm.pbf-685610307_bytes
+territori-catala-extra-nou.osm.pbf-685786075_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-685610307_bytes
+territori-catala-extra.osm.pbf-685786075_bytes
+ ---------------------------------- 
+ 
+dg oct 12 02:00:01 CEST 2014
+
+real	2m58.203s
+user	2m4.644s
+sys	0m5.988s
+territori-catala-extra.osm.pbf-685786075_bytes
+territori-catala-extra-nou.osm.pbf-686044469_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-685786075_bytes
+territori-catala-extra.osm.pbf-686044469_bytes
+ ---------------------------------- 
+ 
+dl oct 13 02:00:01 CEST 2014
+
+real	3m0.600s
+user	2m6.732s
+sys	0m5.776s
+territori-catala-extra.osm.pbf-686044469_bytes
+territori-catala-extra-nou.osm.pbf-686435632_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-686044469_bytes
+territori-catala-extra.osm.pbf-686435632_bytes
+ ---------------------------------- 
+ 
+dt oct 14 02:00:01 CEST 2014
+
+real	2m58.210s
+user	2m6.708s
+sys	0m5.768s
+territori-catala-extra.osm.pbf-686435632_bytes
+territori-catala-extra-nou.osm.pbf-686623677_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-686435632_bytes
+territori-catala-extra.osm.pbf-686623677_bytes
+ ---------------------------------- 
+ 
+dc oct 15 02:00:01 CEST 2014
+
+real	3m2.686s
+user	2m10.364s
+sys	0m5.848s
+territori-catala-extra.osm.pbf-686623677_bytes
+territori-catala-extra-nou.osm.pbf-686876165_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-686623677_bytes
+territori-catala-extra.osm.pbf-686876165_bytes
+ ---------------------------------- 
+ 
+dj oct 16 02:00:01 CEST 2014
+
+real	2m59.310s
+user	2m6.588s
+sys	0m5.676s
+territori-catala-extra.osm.pbf-686876165_bytes
+territori-catala-extra-nou.osm.pbf-687021121_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-686876165_bytes
+territori-catala-extra.osm.pbf-687021121_bytes
+ ---------------------------------- 
+ 
+dv oct 17 02:00:01 CEST 2014
+
+real	3m1.789s
+user	2m8.628s
+sys	0m5.580s
+territori-catala-extra.osm.pbf-687021121_bytes
+territori-catala-extra-nou.osm.pbf-687183573_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-687021121_bytes
+territori-catala-extra.osm.pbf-687183573_bytes
+ ---------------------------------- 
+ 
+ds oct 18 02:00:01 CEST 2014
+
+real	2m53.762s
+user	2m5.956s
+sys	0m5.372s
+territori-catala-extra.osm.pbf-687183573_bytes
+territori-catala-extra-nou.osm.pbf-687461845_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-687183573_bytes
+territori-catala-extra.osm.pbf-687461845_bytes
+ ---------------------------------- 
+ 
+dg oct 19 02:00:01 CEST 2014
+
+real	2m57.217s
+user	2m6.328s
+sys	0m5.572s
+territori-catala-extra.osm.pbf-687461845_bytes
+territori-catala-extra-nou.osm.pbf-687715942_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-687461845_bytes
+territori-catala-extra.osm.pbf-687715942_bytes
+ ---------------------------------- 
+ 
+dl oct 20 02:00:02 CEST 2014
+
+real	2m55.527s
+user	2m6.828s
+sys	0m5.796s
+territori-catala-extra.osm.pbf-687715942_bytes
+territori-catala-extra-nou.osm.pbf-687910204_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-687715942_bytes
+territori-catala-extra.osm.pbf-687910204_bytes
+ ---------------------------------- 
+ 
+dt oct 21 02:00:01 CEST 2014
+
+real	3m0.513s
+user	2m6.344s
+sys	0m5.860s
+territori-catala-extra.osm.pbf-687910204_bytes
+territori-catala-extra-nou.osm.pbf-688069152_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-687910204_bytes
+territori-catala-extra.osm.pbf-688069152_bytes
+ ---------------------------------- 
+ 
+dc oct 22 02:00:01 CEST 2014
+
+real	2m56.689s
+user	2m5.976s
+sys	0m5.856s
+territori-catala-extra.osm.pbf-688069152_bytes
+territori-catala-extra-nou.osm.pbf-688227161_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-688069152_bytes
+territori-catala-extra.osm.pbf-688227161_bytes
+ ---------------------------------- 
+ 
+dj oct 23 02:00:01 CEST 2014
+
+real	2m55.826s
+user	2m6.432s
+sys	0m5.860s
+territori-catala-extra.osm.pbf-688227161_bytes
+territori-catala-extra-nou.osm.pbf-688492496_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-688227161_bytes
+territori-catala-extra.osm.pbf-688492496_bytes
+ ---------------------------------- 
+ 
+dv oct 24 02:00:01 CEST 2014
+
+real	2m59.763s
+user	2m6.756s
+sys	0m5.824s
+territori-catala-extra.osm.pbf-688492496_bytes
+territori-catala-extra-nou.osm.pbf-688682873_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-688492496_bytes
+territori-catala-extra.osm.pbf-688682873_bytes
+ ---------------------------------- 
+ 
+ds oct 25 02:00:01 CEST 2014
+
+real	2m58.596s
+user	2m7.376s
+sys	0m5.616s
+territori-catala-extra.osm.pbf-688682873_bytes
+territori-catala-extra-nou.osm.pbf-688916804_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-688682873_bytes
+territori-catala-extra.osm.pbf-688916804_bytes
+ ---------------------------------- 
+ 
+dg oct 26 02:00:01 CEST 2014
+
+real	2m59.114s
+user	2m9.656s
+sys	0m5.700s
+territori-catala-extra.osm.pbf-688916804_bytes
+territori-catala-extra-nou.osm.pbf-689119396_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-688916804_bytes
+territori-catala-extra.osm.pbf-689119396_bytes
+ ---------------------------------- 
+ 
+dl oct 27 02:00:01 CET 2014
+
+real	2m59.554s
+user	2m9.736s
+sys	0m5.544s
+territori-catala-extra.osm.pbf-689119396_bytes
+territori-catala-extra-nou.osm.pbf-689380524_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-689119396_bytes
+territori-catala-extra.osm.pbf-689380524_bytes
+ ---------------------------------- 
+ 
+dt oct 28 02:00:01 CET 2014
+
+real	2m42.874s
+user	2m5.676s
+sys	0m5.052s
+territori-catala-extra.osm.pbf-689380524_bytes
+territori-catala-extra-nou.osm.pbf-689558719_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-689380524_bytes
+territori-catala-extra.osm.pbf-689558719_bytes
+ ---------------------------------- 
+ 
+dc oct 29 02:00:01 CET 2014
+
+real	2m40.616s
+user	2m4.236s
+sys	0m4.872s
+territori-catala-extra.osm.pbf-689558719_bytes
+territori-catala-extra-nou.osm.pbf-689755703_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-689558719_bytes
+territori-catala-extra.osm.pbf-689755703_bytes
+ ---------------------------------- 
+ 
+dj oct 30 02:00:01 CET 2014
+
+real	2m46.555s
+user	2m5.284s
+sys	0m4.656s
+territori-catala-extra.osm.pbf-689755703_bytes
+territori-catala-extra-nou.osm.pbf-689862588_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-689755703_bytes
+territori-catala-extra.osm.pbf-689862588_bytes
+ ---------------------------------- 
+ 
+dv oct 31 02:00:01 CET 2014
+
+real	2m39.010s
+user	2m3.704s
+sys	0m4.784s
+territori-catala-extra.osm.pbf-689862588_bytes
+territori-catala-extra-nou.osm.pbf-690020393_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-689862588_bytes
+territori-catala-extra.osm.pbf-690020393_bytes
+ ---------------------------------- 
+ 
+ds nov  1 02:00:02 CET 2014
+
+real	2m40.278s
+user	2m7.120s
+sys	0m4.932s
+territori-catala-extra.osm.pbf-690020393_bytes
+territori-catala-extra-nou.osm.pbf-690150684_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-690020393_bytes
+territori-catala-extra.osm.pbf-690150684_bytes
+ ---------------------------------- 
+ 
+dg nov  2 02:00:01 CET 2014
+
+real	2m33.689s
+user	2m3.464s
+sys	0m4.656s
+territori-catala-extra.osm.pbf-690150684_bytes
+territori-catala-extra-nou.osm.pbf-690543185_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-690150684_bytes
+territori-catala-extra.osm.pbf-690543185_bytes
+ ---------------------------------- 
+ 
+dl nov  3 02:00:01 CET 2014
+
+real	2m44.378s
+user	2m7.896s
+sys	0m4.852s
+territori-catala-extra.osm.pbf-690543185_bytes
+territori-catala-extra-nou.osm.pbf-690916211_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-690543185_bytes
+territori-catala-extra.osm.pbf-690916211_bytes
+ ---------------------------------- 
+ 
+dt nov  4 02:00:01 CET 2014
+
+real	2m43.922s
+user	2m4.884s
+sys	0m5.176s
+territori-catala-extra.osm.pbf-690916211_bytes
+territori-catala-extra-nou.osm.pbf-691378864_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-690916211_bytes
+territori-catala-extra.osm.pbf-691378864_bytes
+ ---------------------------------- 
+ 
+dc nov  5 02:00:01 CET 2014
+
+real	2m37.602s
+user	2m5.152s
+sys	0m5.176s
+territori-catala-extra.osm.pbf-691378864_bytes
+territori-catala-extra-nou.osm.pbf-691488353_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-691378864_bytes
+territori-catala-extra.osm.pbf-691488353_bytes
+ ---------------------------------- 
+ 
+dj nov  6 02:00:01 CET 2014
+
+real	2m33.953s
+user	2m4.812s
+sys	0m4.756s
+territori-catala-extra.osm.pbf-691488353_bytes
+territori-catala-extra-nou.osm.pbf-691654431_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-691488353_bytes
+territori-catala-extra.osm.pbf-691654431_bytes
+ ---------------------------------- 
+ 
+dv nov  7 02:00:01 CET 2014
+
+real	2m39.472s
+user	2m5.984s
+sys	0m5.036s
+territori-catala-extra.osm.pbf-691654431_bytes
+territori-catala-extra-nou.osm.pbf-691876133_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-691654431_bytes
+territori-catala-extra.osm.pbf-691876133_bytes
+ ---------------------------------- 
+ 
+ds nov  8 02:00:01 CET 2014
+
+real	2m48.248s
+user	2m7.160s
+sys	0m4.652s
+territori-catala-extra.osm.pbf-691876133_bytes
+territori-catala-extra-nou.osm.pbf-691961351_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-691876133_bytes
+territori-catala-extra.osm.pbf-691961351_bytes
+ ---------------------------------- 
+ 
+dg nov  9 02:00:01 CET 2014
+
+real	2m36.193s
+user	2m5.172s
+sys	0m5.084s
+territori-catala-extra.osm.pbf-691961351_bytes
+territori-catala-extra-nou.osm.pbf-691567678_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-691961351_bytes
+territori-catala-extra.osm.pbf-691567678_bytes
+ ---------------------------------- 
+ 
+dl nov 10 02:00:01 CET 2014
+
+real	2m45.915s
+user	2m5.508s
+sys	0m4.904s
+territori-catala-extra.osm.pbf-691567678_bytes
+territori-catala-extra-nou.osm.pbf-691867088_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-691567678_bytes
+territori-catala-extra.osm.pbf-691867088_bytes
+ ---------------------------------- 
+ 
+dt nov 11 02:00:02 CET 2014
+
+real	2m43.864s
+user	2m4.968s
+sys	0m4.984s
+territori-catala-extra.osm.pbf-691867088_bytes
+territori-catala-extra-nou.osm.pbf-692105815_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-691867088_bytes
+territori-catala-extra.osm.pbf-692105815_bytes
+ ---------------------------------- 
+ 
+dc nov 12 02:00:01 CET 2014
+
+real	2m54.121s
+user	2m5.932s
+sys	0m4.948s
+territori-catala-extra.osm.pbf-692105815_bytes
+territori-catala-extra-nou.osm.pbf-692240602_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-692105815_bytes
+territori-catala-extra.osm.pbf-692240602_bytes
+ ---------------------------------- 
+ 
+dj nov 13 02:00:01 CET 2014
+
+real	2m49.415s
+user	2m6.340s
+sys	0m5.084s
+territori-catala-extra.osm.pbf-692240602_bytes
+territori-catala-extra-nou.osm.pbf-691720830_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-692240602_bytes
+territori-catala-extra.osm.pbf-691720830_bytes
+ ---------------------------------- 
+ 
+dv nov 14 02:00:01 CET 2014
+
+real	2m41.478s
+user	2m4.104s
+sys	0m4.924s
+territori-catala-extra.osm.pbf-691720830_bytes
+territori-catala-extra-nou.osm.pbf-691343352_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-691720830_bytes
+territori-catala-extra.osm.pbf-691343352_bytes
+ ---------------------------------- 
+ 
+ds nov 15 02:00:01 CET 2014
+
+real	2m46.567s
+user	2m5.408s
+sys	0m5.224s
+territori-catala-extra.osm.pbf-691343352_bytes
+territori-catala-extra-nou.osm.pbf-690257636_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-691343352_bytes
+territori-catala-extra.osm.pbf-690257636_bytes
+ ---------------------------------- 
+ 
+dg nov 16 02:00:01 CET 2014
+
+real	2m44.660s
+user	2m3.332s
+sys	0m4.752s
+territori-catala-extra.osm.pbf-690257636_bytes
+territori-catala-extra-nou.osm.pbf-690523944_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-690257636_bytes
+territori-catala-extra.osm.pbf-690523944_bytes
+ ---------------------------------- 
+ 
+dl nov 17 02:00:01 CET 2014
+
+real	2m39.829s
+user	2m3.552s
+sys	0m4.264s
+territori-catala-extra.osm.pbf-690523944_bytes
+territori-catala-extra-nou.osm.pbf-690622273_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-690523944_bytes
+territori-catala-extra.osm.pbf-690622273_bytes
+ ---------------------------------- 
+ 
+dt nov 18 02:00:01 CET 2014
+
+real	2m34.707s
+user	2m2.804s
+sys	0m4.392s
+territori-catala-extra.osm.pbf-690622273_bytes
+territori-catala-extra-nou.osm.pbf-690416340_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-690622273_bytes
+territori-catala-extra.osm.pbf-690416340_bytes
+ ---------------------------------- 
+ 
+dc nov 19 02:00:01 CET 2014
+
+real	2m36.842s
+user	2m4.916s
+sys	0m4.564s
+territori-catala-extra.osm.pbf-690416340_bytes
+territori-catala-extra-nou.osm.pbf-690590608_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-690416340_bytes
+territori-catala-extra.osm.pbf-690590608_bytes
+ ---------------------------------- 
+ 
+dj nov 20 02:00:01 CET 2014
+
+real	2m33.481s
+user	2m3.168s
+sys	0m4.584s
+territori-catala-extra.osm.pbf-690590608_bytes
+territori-catala-extra-nou.osm.pbf-689859841_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-690590608_bytes
+territori-catala-extra.osm.pbf-689859841_bytes
+ ---------------------------------- 
+ 
+dv nov 21 02:00:01 CET 2014
+
+real	2m40.260s
+user	2m3.960s
+sys	0m5.060s
+territori-catala-extra.osm.pbf-689859841_bytes
+territori-catala-extra-nou.osm.pbf-690277528_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-689859841_bytes
+territori-catala-extra.osm.pbf-690277528_bytes
+ ---------------------------------- 
+ 
+ds nov 22 02:00:01 CET 2014
+
+real	2m40.508s
+user	2m2.772s
+sys	0m4.688s
+territori-catala-extra.osm.pbf-690277528_bytes
+territori-catala-extra-nou.osm.pbf-690441908_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-690277528_bytes
+territori-catala-extra.osm.pbf-690441908_bytes
+ ---------------------------------- 
+ 
+dg nov 23 02:00:01 CET 2014
+
+real	2m33.985s
+user	2m3.068s
+sys	0m4.604s
+territori-catala-extra.osm.pbf-690441908_bytes
+territori-catala-extra-nou.osm.pbf-690605893_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-690441908_bytes
+territori-catala-extra.osm.pbf-690605893_bytes
+ ---------------------------------- 
+ 
+dl nov 24 02:00:01 CET 2014
+
+real	2m44.045s
+user	2m5.836s
+sys	0m4.516s
+territori-catala-extra.osm.pbf-690605893_bytes
+territori-catala-extra-nou.osm.pbf-690813871_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-690605893_bytes
+territori-catala-extra.osm.pbf-690813871_bytes
+ ---------------------------------- 
+ 
+dt nov 25 02:00:01 CET 2014
+
+real	2m41.819s
+user	2m3.112s
+sys	0m4.740s
+territori-catala-extra.osm.pbf-690813871_bytes
+territori-catala-extra-nou.osm.pbf-690683027_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-690813871_bytes
+territori-catala-extra.osm.pbf-690683027_bytes
+ ---------------------------------- 
+ 
+dc nov 26 02:00:01 CET 2014
+
+real	2m46.887s
+user	2m3.664s
+sys	0m5.032s
+territori-catala-extra.osm.pbf-690683027_bytes
+territori-catala-extra-nou.osm.pbf-690879501_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-690683027_bytes
+territori-catala-extra.osm.pbf-690879501_bytes
+ ---------------------------------- 
+ 
+dj nov 27 02:00:01 CET 2014
+
+real	2m41.870s
+user	2m3.104s
+sys	0m4.832s
+territori-catala-extra.osm.pbf-690879501_bytes
+territori-catala-extra-nou.osm.pbf-691116415_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-690879501_bytes
+territori-catala-extra.osm.pbf-691116415_bytes
+ ---------------------------------- 
+ 
+dv nov 28 02:00:01 CET 2014
+
+real	2m34.396s
+user	2m2.720s
+sys	0m4.672s
+territori-catala-extra.osm.pbf-691116415_bytes
+territori-catala-extra-nou.osm.pbf-691323632_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-691116415_bytes
+territori-catala-extra.osm.pbf-691323632_bytes
+ ---------------------------------- 
+ 
+ds nov 29 02:00:01 CET 2014
+
+real	2m39.423s
+user	2m4.236s
+sys	0m4.796s
+territori-catala-extra.osm.pbf-691323632_bytes
+territori-catala-extra-nou.osm.pbf-691501279_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-691323632_bytes
+territori-catala-extra.osm.pbf-691501279_bytes
+ ---------------------------------- 
+ 
+dg nov 30 02:00:01 CET 2014
+
+real	2m43.245s
+user	2m4.108s
+sys	0m5.068s
+territori-catala-extra.osm.pbf-691501279_bytes
+territori-catala-extra-nou.osm.pbf-691729325_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-691501279_bytes
+territori-catala-extra.osm.pbf-691729325_bytes
+ ---------------------------------- 
+ 
+dl des  1 02:00:01 CET 2014
+
+real	2m49.712s
+user	2m5.040s
+sys	0m4.852s
+territori-catala-extra.osm.pbf-691729325_bytes
+territori-catala-extra-nou.osm.pbf-691986002_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-691729325_bytes
+territori-catala-extra.osm.pbf-691986002_bytes
+ ---------------------------------- 
+ 
+dt des  2 02:00:01 CET 2014
+
+real	2m43.684s
+user	2m4.484s
+sys	0m5.052s
+territori-catala-extra.osm.pbf-691986002_bytes
+territori-catala-extra-nou.osm.pbf-692154443_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-691986002_bytes
+territori-catala-extra.osm.pbf-692154443_bytes
+ ---------------------------------- 
+ 
+dc des  3 02:00:01 CET 2014
+
+real	2m55.847s
+user	2m4.156s
+sys	0m4.956s
+territori-catala-extra.osm.pbf-692154443_bytes
+territori-catala-extra-nou.osm.pbf-692397585_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-692154443_bytes
+territori-catala-extra.osm.pbf-692397585_bytes
+ ---------------------------------- 
+ 
+dj des  4 02:00:01 CET 2014
+
+real	2m39.434s
+user	2m3.400s
+sys	0m4.240s
+territori-catala-extra.osm.pbf-692397585_bytes
+territori-catala-extra-nou.osm.pbf-692589919_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-692397585_bytes
+territori-catala-extra.osm.pbf-692589919_bytes
+ ---------------------------------- 
+ 
+dv des  5 02:00:01 CET 2014
+
+real	2m38.555s
+user	2m3.792s
+sys	0m4.760s
+territori-catala-extra.osm.pbf-692589919_bytes
+territori-catala-extra-nou.osm.pbf-692786346_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-692589919_bytes
+territori-catala-extra.osm.pbf-692786346_bytes
+ ---------------------------------- 
+ 
+ds des  6 02:00:01 CET 2014
+
+real	2m41.417s
+user	2m4.696s
+sys	0m5.036s
+territori-catala-extra.osm.pbf-692786346_bytes
+territori-catala-extra-nou.osm.pbf-692941105_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-692786346_bytes
+territori-catala-extra.osm.pbf-692941105_bytes
+ ---------------------------------- 
+ 
+dg des  7 02:00:01 CET 2014
+
+real	2m44.774s
+user	2m4.196s
+sys	0m4.608s
+territori-catala-extra.osm.pbf-692941105_bytes
+territori-catala-extra-nou.osm.pbf-693181063_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-692941105_bytes
+territori-catala-extra.osm.pbf-693181063_bytes
+ ---------------------------------- 
+ 
+dl des  8 02:00:01 CET 2014
+
+real	2m37.240s
+user	2m4.420s
+sys	0m4.848s
+territori-catala-extra.osm.pbf-693181063_bytes
+territori-catala-extra-nou.osm.pbf-693233917_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-693181063_bytes
+territori-catala-extra.osm.pbf-693233917_bytes
+ ---------------------------------- 
+ 
+dt des  9 02:00:01 CET 2014
+
+real	2m41.719s
+user	2m3.960s
+sys	0m5.180s
+territori-catala-extra.osm.pbf-693233917_bytes
+territori-catala-extra-nou.osm.pbf-693479319_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-693233917_bytes
+territori-catala-extra.osm.pbf-693479319_bytes
+ ---------------------------------- 
+ 
+dc des 10 02:00:01 CET 2014
+
+real	2m46.477s
+user	2m4.812s
+sys	0m4.964s
+territori-catala-extra.osm.pbf-693479319_bytes
+territori-catala-extra-nou.osm.pbf-693716783_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-693479319_bytes
+territori-catala-extra.osm.pbf-693716783_bytes
+ ---------------------------------- 
+ 
+dj des 11 02:00:01 CET 2014
+
+real	2m40.821s
+user	2m5.872s
+sys	0m4.764s
+territori-catala-extra.osm.pbf-693716783_bytes
+territori-catala-extra-nou.osm.pbf-693658567_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-693716783_bytes
+territori-catala-extra.osm.pbf-693658567_bytes
+ ---------------------------------- 
+ 
+dv des 12 02:00:01 CET 2014
+
+real	2m36.637s
+user	2m4.696s
+sys	0m4.460s
+territori-catala-extra.osm.pbf-693658567_bytes
+territori-catala-extra-nou.osm.pbf-693722476_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-693658567_bytes
+territori-catala-extra.osm.pbf-693722476_bytes
+ ---------------------------------- 
+ 
+ds des 13 02:00:01 CET 2014
+
+real	2m44.142s
+user	2m4.524s
+sys	0m4.756s
+territori-catala-extra.osm.pbf-693722476_bytes
+territori-catala-extra-nou.osm.pbf-693937024_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-693722476_bytes
+territori-catala-extra.osm.pbf-693937024_bytes
+ ---------------------------------- 
+ 
+dg des 14 02:00:01 CET 2014
+osmupdate Error: Could not get the newest minutely timestamp from the Internet.
+
+real	4m15.044s
+user	0m0.196s
+sys	0m0.148s
+territori-catala-extra.osm.pbf-693937024_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-693937024_bytes
+ ---------------------------------- 
+ 
+dl des 15 02:00:01 CET 2014
+osmupdate Error: Old OSM file does not exist: territori-catala-extra.osm.pbf
+
+real	0m0.024s
+user	0m0.000s
+sys	0m0.000s
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-693937024_bytes
+ ---------------------------------- 
+ 
+dt des 16 02:00:01 CET 2014
+osmupdate Error: Old OSM file does not exist: territori-catala-extra.osm.pbf
+
+real	0m0.021s
+user	0m0.000s
+sys	0m0.000s
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-693937024_bytes
+ ---------------------------------- 
+ 
+dc des 17 02:00:01 CET 2014
+osmupdate Error: Old OSM file does not exist: territori-catala-extra.osm.pbf
+
+real	0m0.018s
+user	0m0.000s
+sys	0m0.000s
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-693937024_bytes
+ ---------------------------------- 
+ 
+dj des 18 02:00:01 CET 2014
+osmupdate Error: Old OSM file does not exist: territori-catala-extra.osm.pbf
+
+real	0m0.025s
+user	0m0.000s
+sys	0m0.000s
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-693937024_bytes
+ ---------------------------------- 
+ 
+dj des 18 18:47:37 CET 2014
+
+real	6m27.110s
+user	2m32.500s
+sys	0m9.992s
+territori-catala-extra.osm.pbf-693937024_bytes
+territori-catala-extra-nou.osm.pbf-694667952_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-693937024_bytes
+territori-catala-extra.osm.pbf-694667952_bytes
+ ---------------------------------- 
+ 
+dv des 19 02:00:01 CET 2014
+
+real	2m31.497s
+user	2m1.896s
+sys	0m4.248s
+territori-catala-extra.osm.pbf-694667952_bytes
+territori-catala-extra-nou.osm.pbf-694755535_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-694667952_bytes
+territori-catala-extra.osm.pbf-694755535_bytes
+ ---------------------------------- 
+ 
+ds des 20 02:00:01 CET 2014
+
+real	2m43.674s
+user	2m9.040s
+sys	0m5.796s
+territori-catala-extra.osm.pbf-694755535_bytes
+territori-catala-extra-nou.osm.pbf-694955533_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-694755535_bytes
+territori-catala-extra.osm.pbf-694955533_bytes
+ ---------------------------------- 
+ 
+dg des 21 02:00:01 CET 2014
+
+real	3m2.496s
+user	2m10.712s
+sys	0m5.272s
+territori-catala-extra.osm.pbf-694955533_bytes
+territori-catala-extra-nou.osm.pbf-695165757_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-694955533_bytes
+territori-catala-extra.osm.pbf-695165757_bytes
+ ---------------------------------- 
+ 
+dl des 22 02:00:01 CET 2014
+
+real	2m49.923s
+user	2m8.064s
+sys	0m5.052s
+territori-catala-extra.osm.pbf-695165757_bytes
+territori-catala-extra-nou.osm.pbf-695322585_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-695165757_bytes
+territori-catala-extra.osm.pbf-695322585_bytes
+ ---------------------------------- 
+ 
+dt des 23 02:00:01 CET 2014
+
+real	2m36.974s
+user	2m5.248s
+sys	0m4.776s
+territori-catala-extra.osm.pbf-695322585_bytes
+territori-catala-extra-nou.osm.pbf-695446575_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-695322585_bytes
+territori-catala-extra.osm.pbf-695446575_bytes
+ ---------------------------------- 
+ 
+dc des 24 02:00:01 CET 2014
+
+real	2m35.306s
+user	2m4.404s
+sys	0m4.584s
+territori-catala-extra.osm.pbf-695446575_bytes
+territori-catala-extra-nou.osm.pbf-695612052_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-695446575_bytes
+territori-catala-extra.osm.pbf-695612052_bytes
+ ---------------------------------- 
+ 
+dj des 25 02:00:01 CET 2014
+
+real	2m30.465s
+user	2m2.620s
+sys	0m4.524s
+territori-catala-extra.osm.pbf-695612052_bytes
+territori-catala-extra-nou.osm.pbf-695784490_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-695612052_bytes
+territori-catala-extra.osm.pbf-695784490_bytes
+ ---------------------------------- 
+ 
+dv des 26 02:00:01 CET 2014
+
+real	2m44.020s
+user	2m4.848s
+sys	0m4.660s
+territori-catala-extra.osm.pbf-695784490_bytes
+territori-catala-extra-nou.osm.pbf-695851242_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-695784490_bytes
+territori-catala-extra.osm.pbf-695851242_bytes
+ ---------------------------------- 
+ 
+ds des 27 02:00:01 CET 2014
+
+real	2m41.928s
+user	2m6.664s
+sys	0m5.084s
+territori-catala-extra.osm.pbf-695851242_bytes
+territori-catala-extra-nou.osm.pbf-696041878_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-695851242_bytes
+territori-catala-extra.osm.pbf-696041878_bytes
+ ---------------------------------- 
+ 
+dg des 28 02:00:01 CET 2014
+
+real	2m41.788s
+user	2m6.560s
+sys	0m4.872s
+territori-catala-extra.osm.pbf-696041878_bytes
+territori-catala-extra-nou.osm.pbf-696220551_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-696041878_bytes
+territori-catala-extra.osm.pbf-696220551_bytes
+ ---------------------------------- 
+ 
+dl des 29 02:00:01 CET 2014
+
+real	2m37.104s
+user	2m3.648s
+sys	0m4.612s
+territori-catala-extra.osm.pbf-696220551_bytes
+territori-catala-extra-nou.osm.pbf-696417769_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-696220551_bytes
+territori-catala-extra.osm.pbf-696417769_bytes
+ ---------------------------------- 
+ 
+dt des 30 02:00:01 CET 2014
+
+real	2m37.741s
+user	2m5.804s
+sys	0m4.708s
+territori-catala-extra.osm.pbf-696417769_bytes
+territori-catala-extra-nou.osm.pbf-696586184_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-696417769_bytes
+territori-catala-extra.osm.pbf-696586184_bytes
+ ---------------------------------- 
+ 
+dc des 31 02:00:01 CET 2014
+
+real	2m45.101s
+user	2m5.452s
+sys	0m5.104s
+territori-catala-extra.osm.pbf-696586184_bytes
+territori-catala-extra-nou.osm.pbf-696821395_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-696586184_bytes
+territori-catala-extra.osm.pbf-696821395_bytes
+ ---------------------------------- 
+ 
+dj gen  1 02:00:01 CET 2015
+
+real	2m36.666s
+user	2m4.084s
+sys	0m4.716s
+territori-catala-extra.osm.pbf-696821395_bytes
+territori-catala-extra-nou.osm.pbf-696884795_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-696821395_bytes
+territori-catala-extra.osm.pbf-696884795_bytes
+ ---------------------------------- 
+ 
+dv gen  2 02:00:01 CET 2015
+
+real	2m41.689s
+user	2m7.784s
+sys	0m4.776s
+territori-catala-extra.osm.pbf-696884795_bytes
+territori-catala-extra-nou.osm.pbf-697044975_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-696884795_bytes
+territori-catala-extra.osm.pbf-697044975_bytes
+ ---------------------------------- 
+ 
+ds gen  3 02:00:01 CET 2015
+
+real	2m46.381s
+user	2m6.844s
+sys	0m4.836s
+territori-catala-extra.osm.pbf-697044975_bytes
+territori-catala-extra-nou.osm.pbf-697169169_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-697044975_bytes
+territori-catala-extra.osm.pbf-697169169_bytes
+ ---------------------------------- 
+ 
+dg gen  4 02:00:01 CET 2015
+
+real	2m44.130s
+user	2m5.596s
+sys	0m4.876s
+territori-catala-extra.osm.pbf-697169169_bytes
+territori-catala-extra-nou.osm.pbf-697412092_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-697169169_bytes
+territori-catala-extra.osm.pbf-697412092_bytes
+ ---------------------------------- 
+ 
+dl gen  5 02:00:01 CET 2015
+
+real	2m35.099s
+user	2m7.068s
+sys	0m5.048s
+territori-catala-extra.osm.pbf-697412092_bytes
+territori-catala-extra-nou.osm.pbf-697729926_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-697412092_bytes
+territori-catala-extra.osm.pbf-697729926_bytes
+ ---------------------------------- 
+ 
+dt gen  6 02:00:01 CET 2015
+
+real	2m47.980s
+user	2m5.816s
+sys	0m4.424s
+territori-catala-extra.osm.pbf-697729926_bytes
+territori-catala-extra-nou.osm.pbf-697980654_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-697729926_bytes
+territori-catala-extra.osm.pbf-697980654_bytes
+ ---------------------------------- 
+ 
+dc gen  7 02:00:01 CET 2015
+
+real	2m44.129s
+user	2m5.052s
+sys	0m4.612s
+territori-catala-extra.osm.pbf-697980654_bytes
+territori-catala-extra-nou.osm.pbf-698215929_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-697980654_bytes
+territori-catala-extra.osm.pbf-698215929_bytes
+ ---------------------------------- 
+ 
+dj gen  8 02:00:01 CET 2015
+
+real	2m40.175s
+user	2m5.388s
+sys	0m5.116s
+territori-catala-extra.osm.pbf-698215929_bytes
+territori-catala-extra-nou.osm.pbf-698551067_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-698215929_bytes
+territori-catala-extra.osm.pbf-698551067_bytes
+ ---------------------------------- 
+ 
+dv gen  9 02:00:01 CET 2015
+
+real	2m46.599s
+user	2m6.008s
+sys	0m5.028s
+territori-catala-extra.osm.pbf-698551067_bytes
+territori-catala-extra-nou.osm.pbf-698672918_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-698551067_bytes
+territori-catala-extra.osm.pbf-698672918_bytes
+ ---------------------------------- 
+ 
+ds gen 10 02:00:01 CET 2015
+
+real	2m43.056s
+user	2m7.248s
+sys	0m4.876s
+territori-catala-extra.osm.pbf-698672918_bytes
+territori-catala-extra-nou.osm.pbf-698944694_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-698672918_bytes
+territori-catala-extra.osm.pbf-698944694_bytes
+ ---------------------------------- 
+ 
+dg gen 11 02:00:01 CET 2015
+
+real	2m34.796s
+user	2m6.364s
+sys	0m4.764s
+territori-catala-extra.osm.pbf-698944694_bytes
+territori-catala-extra-nou.osm.pbf-699273091_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-698944694_bytes
+territori-catala-extra.osm.pbf-699273091_bytes
+ ---------------------------------- 
+ 
+dl gen 12 02:00:01 CET 2015
+
+real	2m46.900s
+user	2m7.596s
+sys	0m4.832s
+territori-catala-extra.osm.pbf-699273091_bytes
+territori-catala-extra-nou.osm.pbf-699813082_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-699273091_bytes
+territori-catala-extra.osm.pbf-699813082_bytes
+ ---------------------------------- 
+ 
+dt gen 13 02:00:01 CET 2015
+
+real	2m41.219s
+user	2m6.428s
+sys	0m5.012s
+territori-catala-extra.osm.pbf-699813082_bytes
+territori-catala-extra-nou.osm.pbf-699967702_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-699813082_bytes
+territori-catala-extra.osm.pbf-699967702_bytes
+ ---------------------------------- 
+ 
+dc gen 14 02:00:01 CET 2015
+
+real	2m39.211s
+user	2m6.428s
+sys	0m5.056s
+territori-catala-extra.osm.pbf-699967702_bytes
+territori-catala-extra-nou.osm.pbf-700153113_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-699967702_bytes
+territori-catala-extra.osm.pbf-700153113_bytes
+ ---------------------------------- 
+ 
+dj gen 15 02:00:01 CET 2015
+
+real	2m43.963s
+user	2m7.916s
+sys	0m5.048s
+territori-catala-extra.osm.pbf-700153113_bytes
+territori-catala-extra-nou.osm.pbf-700319330_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-700153113_bytes
+territori-catala-extra.osm.pbf-700319330_bytes
+ ---------------------------------- 
+ 
+dv gen 16 02:00:01 CET 2015
+
+real	2m49.526s
+user	2m10.332s
+sys	0m5.152s
+territori-catala-extra.osm.pbf-700319330_bytes
+territori-catala-extra-nou.osm.pbf-700499515_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-700319330_bytes
+territori-catala-extra.osm.pbf-700499515_bytes
+ ---------------------------------- 
+ 
+ds gen 17 02:00:01 CET 2015
+
+real	2m44.440s
+user	2m6.956s
+sys	0m4.960s
+territori-catala-extra.osm.pbf-700499515_bytes
+territori-catala-extra-nou.osm.pbf-700794876_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-700499515_bytes
+territori-catala-extra.osm.pbf-700794876_bytes
+ ---------------------------------- 
+ 
+dg gen 18 02:00:01 CET 2015
+
+real	2m44.456s
+user	2m7.868s
+sys	0m4.916s
+territori-catala-extra.osm.pbf-700794876_bytes
+territori-catala-extra-nou.osm.pbf-701198660_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-700794876_bytes
+territori-catala-extra.osm.pbf-701198660_bytes
+ ---------------------------------- 
+ 
+dl gen 19 02:00:01 CET 2015
+
+real	2m49.426s
+user	2m9.900s
+sys	0m5.332s
+territori-catala-extra.osm.pbf-701198660_bytes
+territori-catala-extra-nou.osm.pbf-701542235_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-701198660_bytes
+territori-catala-extra.osm.pbf-701542235_bytes
+ ---------------------------------- 
+ 
+dt gen 20 02:00:01 CET 2015
+
+real	2m42.472s
+user	2m8.280s
+sys	0m5.040s
+territori-catala-extra.osm.pbf-701542235_bytes
+territori-catala-extra-nou.osm.pbf-701775937_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-701542235_bytes
+territori-catala-extra.osm.pbf-701775937_bytes
+ ---------------------------------- 
+ 
+dc gen 21 02:00:01 CET 2015
+
+real	2m47.781s
+user	2m7.448s
+sys	0m5.044s
+territori-catala-extra.osm.pbf-701775937_bytes
+territori-catala-extra-nou.osm.pbf-701979071_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-701775937_bytes
+territori-catala-extra.osm.pbf-701979071_bytes
+ ---------------------------------- 
+ 
+dj gen 22 02:00:01 CET 2015
+
+real	2m48.319s
+user	2m7.780s
+sys	0m5.152s
+territori-catala-extra.osm.pbf-701979071_bytes
+territori-catala-extra-nou.osm.pbf-702171931_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-701979071_bytes
+territori-catala-extra.osm.pbf-702171931_bytes
+ ---------------------------------- 
+ 
+dv gen 23 02:00:01 CET 2015
+
+real	2m33.214s
+user	2m5.168s
+sys	0m4.776s
+territori-catala-extra.osm.pbf-702171931_bytes
+territori-catala-extra-nou.osm.pbf-702448449_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-702171931_bytes
+territori-catala-extra.osm.pbf-702448449_bytes
+ ---------------------------------- 
+ 
+ds gen 24 02:00:01 CET 2015
+
+real	2m40.940s
+user	2m7.656s
+sys	0m4.936s
+territori-catala-extra.osm.pbf-702448449_bytes
+territori-catala-extra-nou.osm.pbf-702764570_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-702448449_bytes
+territori-catala-extra.osm.pbf-702764570_bytes
+ ---------------------------------- 
+ 
+dg gen 25 02:00:01 CET 2015
+
+real	2m51.287s
+user	2m9.452s
+sys	0m5.640s
+territori-catala-extra.osm.pbf-702764570_bytes
+territori-catala-extra-nou.osm.pbf-703177721_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-702764570_bytes
+territori-catala-extra.osm.pbf-703177721_bytes
+ ---------------------------------- 
+ 
+dl gen 26 02:00:01 CET 2015
+
+real	3m2.106s
+user	2m7.548s
+sys	0m5.588s
+territori-catala-extra.osm.pbf-703177721_bytes
+territori-catala-extra-nou.osm.pbf-703694906_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-703177721_bytes
+territori-catala-extra.osm.pbf-703694906_bytes
+ ---------------------------------- 
+ 
+dt gen 27 02:00:01 CET 2015
+
+real	2m47.797s
+user	2m6.072s
+sys	0m4.884s
+territori-catala-extra.osm.pbf-703694906_bytes
+territori-catala-extra-nou.osm.pbf-704101502_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-703694906_bytes
+territori-catala-extra.osm.pbf-704101502_bytes
+ ---------------------------------- 
+ 
+dc gen 28 02:00:01 CET 2015
+
+real	2m36.420s
+user	2m6.832s
+sys	0m4.712s
+territori-catala-extra.osm.pbf-704101502_bytes
+territori-catala-extra-nou.osm.pbf-704471306_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-704101502_bytes
+territori-catala-extra.osm.pbf-704471306_bytes
+ ---------------------------------- 
+ 
+dj gen 29 02:00:01 CET 2015
+
+real	2m37.533s
+user	2m6.172s
+sys	0m4.072s
+territori-catala-extra.osm.pbf-704471306_bytes
+territori-catala-extra-nou.osm.pbf-704681014_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-704471306_bytes
+territori-catala-extra.osm.pbf-704681014_bytes
+ ---------------------------------- 
+ 
+dv gen 30 02:00:01 CET 2015
+
+real	2m40.888s
+user	2m7.584s
+sys	0m4.804s
+territori-catala-extra.osm.pbf-704681014_bytes
+territori-catala-extra-nou.osm.pbf-705118023_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-704681014_bytes
+territori-catala-extra.osm.pbf-705118023_bytes
+ ---------------------------------- 
+ 
+ds gen 31 02:00:01 CET 2015
+
+real	2m46.804s
+user	2m7.564s
+sys	0m4.952s
+territori-catala-extra.osm.pbf-705118023_bytes
+territori-catala-extra-nou.osm.pbf-705485994_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-705118023_bytes
+territori-catala-extra.osm.pbf-705485994_bytes
+ ---------------------------------- 
+ 
+dg feb  1 02:00:01 CET 2015
+
+real	2m42.258s
+user	2m7.188s
+sys	0m4.876s
+territori-catala-extra.osm.pbf-705485994_bytes
+territori-catala-extra-nou.osm.pbf-705854237_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-705485994_bytes
+territori-catala-extra.osm.pbf-705854237_bytes
+ ---------------------------------- 
+ 
+dl feb  2 02:00:01 CET 2015
+
+real	2m46.547s
+user	2m8.984s
+sys	0m5.392s
+territori-catala-extra.osm.pbf-705854237_bytes
+territori-catala-extra-nou.osm.pbf-706184946_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-705854237_bytes
+territori-catala-extra.osm.pbf-706184946_bytes
+ ---------------------------------- 
+ 
+dt feb  3 02:00:01 CET 2015
+
+real	2m47.785s
+user	2m12.980s
+sys	0m4.536s
+territori-catala-extra.osm.pbf-706184946_bytes
+territori-catala-extra-nou.osm.pbf-706377145_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-706184946_bytes
+territori-catala-extra.osm.pbf-706377145_bytes
+ ---------------------------------- 
+ 
+dc feb  4 02:00:01 CET 2015
+
+real	2m44.672s
+user	2m7.496s
+sys	0m5.300s
+territori-catala-extra.osm.pbf-706377145_bytes
+territori-catala-extra-nou.osm.pbf-706763803_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-706377145_bytes
+territori-catala-extra.osm.pbf-706763803_bytes
+ ---------------------------------- 
+ 
+dj feb  5 02:00:01 CET 2015
+
+real	8m44.682s
+user	3m27.868s
+sys	0m43.128s
+territori-catala-extra.osm.pbf-706763803_bytes
+territori-catala-extra-nou.osm.pbf-706954775_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-706763803_bytes
+territori-catala-extra.osm.pbf-706954775_bytes
+ ---------------------------------- 
+ 
+dv feb  6 02:00:01 CET 2015
+
+real	2m44.170s
+user	2m6.948s
+sys	0m5.324s
+territori-catala-extra.osm.pbf-706954775_bytes
+territori-catala-extra-nou.osm.pbf-707012886_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-706954775_bytes
+territori-catala-extra.osm.pbf-707012886_bytes
+ ---------------------------------- 
+ 
+ds feb  7 02:00:01 CET 2015
+
+real	2m48.078s
+user	2m8.460s
+sys	0m5.444s
+territori-catala-extra.osm.pbf-707012886_bytes
+territori-catala-extra-nou.osm.pbf-707243718_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-707012886_bytes
+territori-catala-extra.osm.pbf-707243718_bytes
+ ---------------------------------- 
+ 
+dg feb  8 02:00:01 CET 2015
+
+real	2m40.248s
+user	2m7.272s
+sys	0m4.968s
+territori-catala-extra.osm.pbf-707243718_bytes
+territori-catala-extra-nou.osm.pbf-707511169_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-707243718_bytes
+territori-catala-extra.osm.pbf-707511169_bytes
+ ---------------------------------- 
+ 
+dl feb  9 02:00:01 CET 2015
+
+real	2m43.091s
+user	2m8.804s
+sys	0m4.804s
+territori-catala-extra.osm.pbf-707511169_bytes
+territori-catala-extra-nou.osm.pbf-708205372_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-707511169_bytes
+territori-catala-extra.osm.pbf-708205372_bytes
+ ---------------------------------- 
+ 
+dt feb 10 02:00:01 CET 2015
+
+real	2m53.394s
+user	2m7.864s
+sys	0m5.108s
+territori-catala-extra.osm.pbf-708205372_bytes
+territori-catala-extra-nou.osm.pbf-708434469_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-708205372_bytes
+territori-catala-extra.osm.pbf-708434469_bytes
+ ---------------------------------- 
+ 
+dc feb 11 02:00:01 CET 2015
+
+real	2m45.846s
+user	2m6.972s
+sys	0m5.152s
+territori-catala-extra.osm.pbf-708434469_bytes
+territori-catala-extra-nou.osm.pbf-708576019_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-708434469_bytes
+territori-catala-extra.osm.pbf-708576019_bytes
+ ---------------------------------- 
+ 
+dj feb 12 02:00:01 CET 2015
+
+real	2m50.287s
+user	2m7.876s
+sys	0m5.252s
+territori-catala-extra.osm.pbf-708576019_bytes
+territori-catala-extra-nou.osm.pbf-708898374_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-708576019_bytes
+territori-catala-extra.osm.pbf-708898374_bytes
+ ---------------------------------- 
+ 
+dv feb 13 02:00:01 CET 2015
+
+real	2m51.783s
+user	2m10.784s
+sys	0m5.572s
+territori-catala-extra.osm.pbf-708898374_bytes
+territori-catala-extra-nou.osm.pbf-709131514_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-708898374_bytes
+territori-catala-extra.osm.pbf-709131514_bytes
+ ---------------------------------- 
+ 
+ds feb 14 02:00:01 CET 2015
+
+real	2m39.073s
+user	2m7.424s
+sys	0m4.532s
+territori-catala-extra.osm.pbf-709131514_bytes
+territori-catala-extra-nou.osm.pbf-709283042_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-709131514_bytes
+territori-catala-extra.osm.pbf-709283042_bytes
+ ---------------------------------- 
+ 
+dg feb 15 02:00:01 CET 2015
+
+real	2m47.348s
+user	2m9.828s
+sys	0m5.796s
+territori-catala-extra.osm.pbf-709283042_bytes
+territori-catala-extra-nou.osm.pbf-709517859_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-709283042_bytes
+territori-catala-extra.osm.pbf-709517859_bytes
+ ---------------------------------- 
+ 
+dl feb 16 02:00:01 CET 2015
+
+real	2m49.040s
+user	2m9.024s
+sys	0m5.636s
+territori-catala-extra.osm.pbf-709517859_bytes
+territori-catala-extra-nou.osm.pbf-709936950_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-709517859_bytes
+territori-catala-extra.osm.pbf-709936950_bytes
+ ---------------------------------- 
+ 
+dt feb 17 02:00:01 CET 2015
+
+real	2m47.972s
+user	2m9.096s
+sys	0m5.444s
+territori-catala-extra.osm.pbf-709936950_bytes
+territori-catala-extra-nou.osm.pbf-710071597_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-709936950_bytes
+territori-catala-extra.osm.pbf-710071597_bytes
+ ---------------------------------- 
+ 
+dc feb 18 02:00:01 CET 2015
+
+real	2m44.199s
+user	2m9.064s
+sys	0m5.752s
+territori-catala-extra.osm.pbf-710071597_bytes
+territori-catala-extra-nou.osm.pbf-710292956_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-710071597_bytes
+territori-catala-extra.osm.pbf-710292956_bytes
+ ---------------------------------- 
+ 
+dj feb 19 02:00:01 CET 2015
+
+real	2m43.830s
+user	2m9.736s
+sys	0m5.248s
+territori-catala-extra.osm.pbf-710292956_bytes
+territori-catala-extra-nou.osm.pbf-710554047_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-710292956_bytes
+territori-catala-extra.osm.pbf-710554047_bytes
+ ---------------------------------- 
+ 
+dv feb 20 02:00:01 CET 2015
+
+real	2m47.917s
+user	2m10.568s
+sys	0m6.264s
+territori-catala-extra.osm.pbf-710554047_bytes
+territori-catala-extra-nou.osm.pbf-710697845_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-710554047_bytes
+territori-catala-extra.osm.pbf-710697845_bytes
+ ---------------------------------- 
+ 
+ds feb 21 02:00:01 CET 2015
+
+real	2m51.857s
+user	2m10.728s
+sys	0m5.552s
+territori-catala-extra.osm.pbf-710697845_bytes
+territori-catala-extra-nou.osm.pbf-710468075_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-710697845_bytes
+territori-catala-extra.osm.pbf-710468075_bytes
+ ---------------------------------- 
+ 
+dg feb 22 02:00:01 CET 2015
+
+real	2m54.465s
+user	2m9.656s
+sys	0m5.720s
+territori-catala-extra.osm.pbf-710468075_bytes
+territori-catala-extra-nou.osm.pbf-710820832_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-710468075_bytes
+territori-catala-extra.osm.pbf-710820832_bytes
+ ---------------------------------- 
+ 
+dl feb 23 02:00:01 CET 2015
+
+real	3m2.163s
+user	2m12.576s
+sys	0m4.752s
+territori-catala-extra.osm.pbf-710820832_bytes
+territori-catala-extra-nou.osm.pbf-711227037_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-710820832_bytes
+territori-catala-extra.osm.pbf-711227037_bytes
+ ---------------------------------- 
+ 
+dt feb 24 02:00:01 CET 2015
+
+real	2m48.704s
+user	2m11.464s
+sys	0m4.156s
+territori-catala-extra.osm.pbf-711227037_bytes
+territori-catala-extra-nou.osm.pbf-711574351_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-711227037_bytes
+territori-catala-extra.osm.pbf-711574351_bytes
+ ---------------------------------- 
+ 
+dc feb 25 02:00:01 CET 2015
+
+real	2m46.500s
+user	2m10.004s
+sys	0m4.576s
+territori-catala-extra.osm.pbf-711574351_bytes
+territori-catala-extra-nou.osm.pbf-711839636_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-711574351_bytes
+territori-catala-extra.osm.pbf-711839636_bytes
+ ---------------------------------- 
+ 
+dj feb 26 02:00:01 CET 2015
+
+real	2m46.777s
+user	2m9.964s
+sys	0m4.548s
+territori-catala-extra.osm.pbf-711839636_bytes
+territori-catala-extra-nou.osm.pbf-712008841_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-711839636_bytes
+territori-catala-extra.osm.pbf-712008841_bytes
+ ---------------------------------- 
+ 
+dv feb 27 02:00:01 CET 2015
+
+real	2m52.320s
+user	2m10.948s
+sys	0m5.088s
+territori-catala-extra.osm.pbf-712008841_bytes
+territori-catala-extra-nou.osm.pbf-712156375_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-712008841_bytes
+territori-catala-extra.osm.pbf-712156375_bytes
+ ---------------------------------- 
+ 
+ds feb 28 02:00:01 CET 2015
+
+real	2m53.892s
+user	2m11.488s
+sys	0m4.708s
+territori-catala-extra.osm.pbf-712156375_bytes
+territori-catala-extra-nou.osm.pbf-712352495_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-712156375_bytes
+territori-catala-extra.osm.pbf-712352495_bytes
+ ---------------------------------- 
+ 
+dg mar  1 02:00:01 CET 2015
+
+real	2m52.773s
+user	2m9.252s
+sys	0m4.828s
+territori-catala-extra.osm.pbf-712352495_bytes
+territori-catala-extra-nou.osm.pbf-712507389_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-712352495_bytes
+territori-catala-extra.osm.pbf-712507389_bytes
+ ---------------------------------- 
+ 
+dl mar  2 02:00:01 CET 2015
+
+real	2m44.293s
+user	2m12.884s
+sys	0m4.576s
+territori-catala-extra.osm.pbf-712507389_bytes
+territori-catala-extra-nou.osm.pbf-713123648_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-712507389_bytes
+territori-catala-extra.osm.pbf-713123648_bytes
+ ---------------------------------- 
+ 
+dt mar  3 02:00:01 CET 2015
+
+real	2m56.757s
+user	2m13.324s
+sys	0m5.836s
+territori-catala-extra.osm.pbf-713123648_bytes
+territori-catala-extra-nou.osm.pbf-713420433_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-713123648_bytes
+territori-catala-extra.osm.pbf-713420433_bytes
+ ---------------------------------- 
+ 
+dc mar  4 02:00:01 CET 2015
+
+real	2m39.900s
+user	2m9.696s
+sys	0m5.600s
+territori-catala-extra.osm.pbf-713420433_bytes
+territori-catala-extra-nou.osm.pbf-713704607_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-713420433_bytes
+territori-catala-extra.osm.pbf-713704607_bytes
+ ---------------------------------- 
+ 
+dj mar  5 02:00:01 CET 2015
+
+real	2m45.210s
+user	2m9.952s
+sys	0m5.312s
+territori-catala-extra.osm.pbf-713704607_bytes
+territori-catala-extra-nou.osm.pbf-713936563_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-713704607_bytes
+territori-catala-extra.osm.pbf-713936563_bytes
+ ---------------------------------- 
+ 
+dv mar  6 02:00:01 CET 2015
+
+real	2m51.630s
+user	2m9.660s
+sys	0m5.652s
+territori-catala-extra.osm.pbf-713936563_bytes
+territori-catala-extra-nou.osm.pbf-714088991_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-713936563_bytes
+territori-catala-extra.osm.pbf-714088991_bytes
+ ---------------------------------- 
+ 
+ds mar  7 02:00:01 CET 2015
+
+real	2m39.286s
+user	2m9.012s
+sys	0m5.620s
+territori-catala-extra.osm.pbf-714088991_bytes
+territori-catala-extra-nou.osm.pbf-714363296_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-714088991_bytes
+territori-catala-extra.osm.pbf-714363296_bytes
+ ---------------------------------- 
+ 
+dg mar  8 02:00:01 CET 2015
+
+real	2m45.647s
+user	2m14.092s
+sys	0m5.792s
+territori-catala-extra.osm.pbf-714363296_bytes
+territori-catala-extra-nou.osm.pbf-714598598_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-714363296_bytes
+territori-catala-extra.osm.pbf-714598598_bytes
+ ---------------------------------- 
+ 
+dl mar  9 02:00:01 CET 2015
+
+real	2m45.857s
+user	2m10.584s
+sys	0m5.412s
+territori-catala-extra.osm.pbf-714598598_bytes
+territori-catala-extra-nou.osm.pbf-714835183_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-714598598_bytes
+territori-catala-extra.osm.pbf-714835183_bytes
+ ---------------------------------- 
+ 
+dt mar 10 02:00:01 CET 2015
+
+real	2m39.356s
+user	2m8.948s
+sys	0m5.428s
+territori-catala-extra.osm.pbf-714835183_bytes
+territori-catala-extra-nou.osm.pbf-715152206_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-714835183_bytes
+territori-catala-extra.osm.pbf-715152206_bytes
+ ---------------------------------- 
+ 
+dc mar 11 02:00:01 CET 2015
+
+real	2m39.816s
+user	2m9.676s
+sys	0m5.492s
+territori-catala-extra.osm.pbf-715152206_bytes
+territori-catala-extra-nou.osm.pbf-715338315_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-715152206_bytes
+territori-catala-extra.osm.pbf-715338315_bytes
+ ---------------------------------- 
+ 
+dj mar 12 02:00:01 CET 2015
+
+real	2m43.913s
+user	2m10.712s
+sys	0m5.532s
+territori-catala-extra.osm.pbf-715338315_bytes
+territori-catala-extra-nou.osm.pbf-715531709_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-715338315_bytes
+territori-catala-extra.osm.pbf-715531709_bytes
+ ---------------------------------- 
+ 
+dv mar 13 02:00:01 CET 2015
+
+real	2m37.694s
+user	2m9.144s
+sys	0m5.404s
+territori-catala-extra.osm.pbf-715531709_bytes
+territori-catala-extra-nou.osm.pbf-715795971_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-715531709_bytes
+territori-catala-extra.osm.pbf-715795971_bytes
+ ---------------------------------- 
+ 
+ds mar 14 02:00:01 CET 2015
+
+real	2m37.949s
+user	2m9.732s
+sys	0m5.356s
+territori-catala-extra.osm.pbf-715795971_bytes
+territori-catala-extra-nou.osm.pbf-716102137_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-715795971_bytes
+territori-catala-extra.osm.pbf-716102137_bytes
+ ---------------------------------- 
+ 
+dg mar 15 02:00:01 CET 2015
+
+real	2m45.647s
+user	2m8.876s
+sys	0m5.204s
+territori-catala-extra.osm.pbf-716102137_bytes
+territori-catala-extra-nou.osm.pbf-716270911_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-716102137_bytes
+territori-catala-extra.osm.pbf-716270911_bytes
+ ---------------------------------- 
+ 
+dl mar 16 02:00:01 CET 2015
+
+real	2m42.419s
+user	2m10.804s
+sys	0m5.940s
+territori-catala-extra.osm.pbf-716270911_bytes
+territori-catala-extra-nou.osm.pbf-716498316_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-716270911_bytes
+territori-catala-extra.osm.pbf-716498316_bytes
+ ---------------------------------- 
+ 
+dt mar 17 02:00:01 CET 2015
+
+real	2m57.052s
+user	2m10.836s
+sys	0m5.496s
+territori-catala-extra.osm.pbf-716498316_bytes
+territori-catala-extra-nou.osm.pbf-716633784_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-716498316_bytes
+territori-catala-extra.osm.pbf-716633784_bytes
+ ---------------------------------- 
+ 
+dc mar 18 02:00:01 CET 2015
+
+real	2m51.824s
+user	2m10.600s
+sys	0m5.684s
+territori-catala-extra.osm.pbf-716633784_bytes
+territori-catala-extra-nou.osm.pbf-716667961_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-716633784_bytes
+territori-catala-extra.osm.pbf-716667961_bytes
+ ---------------------------------- 
+ 
+dj mar 19 02:00:01 CET 2015
+
+real	2m45.151s
+user	2m11.928s
+sys	0m5.712s
+territori-catala-extra.osm.pbf-716667961_bytes
+territori-catala-extra-nou.osm.pbf-716905410_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-716667961_bytes
+territori-catala-extra.osm.pbf-716905410_bytes
+ ---------------------------------- 
+ 
+dv mar 20 02:00:01 CET 2015
+
+real	2m56.498s
+user	2m10.884s
+sys	0m5.472s
+territori-catala-extra.osm.pbf-716905410_bytes
+territori-catala-extra-nou.osm.pbf-717060408_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-716905410_bytes
+territori-catala-extra.osm.pbf-717060408_bytes
+ ---------------------------------- 
+ 
+ds mar 21 02:00:01 CET 2015
+
+real	2m38.807s
+user	2m8.704s
+sys	0m4.984s
+territori-catala-extra.osm.pbf-717060408_bytes
+territori-catala-extra-nou.osm.pbf-717185253_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-717060408_bytes
+territori-catala-extra.osm.pbf-717185253_bytes
+ ---------------------------------- 
+ 
+dg mar 22 02:00:01 CET 2015
+
+real	3m0.940s
+user	2m14.840s
+sys	0m6.312s
+territori-catala-extra.osm.pbf-717185253_bytes
+territori-catala-extra-nou.osm.pbf-717590520_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-717185253_bytes
+territori-catala-extra.osm.pbf-717590520_bytes
+ ---------------------------------- 
+ 
+dl mar 23 02:00:01 CET 2015
+
+real	2m52.060s
+user	2m10.388s
+sys	0m5.448s
+territori-catala-extra.osm.pbf-717590520_bytes
+territori-catala-extra-nou.osm.pbf-717760528_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-717590520_bytes
+territori-catala-extra.osm.pbf-717760528_bytes
+ ---------------------------------- 
+ 
+dt mar 24 02:00:01 CET 2015
+
+real	2m53.214s
+user	2m13.208s
+sys	0m5.140s
+territori-catala-extra.osm.pbf-717760528_bytes
+territori-catala-extra-nou.osm.pbf-717981075_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-717760528_bytes
+territori-catala-extra.osm.pbf-717981075_bytes
+ ---------------------------------- 
+ 
+dc mar 25 02:00:01 CET 2015
+
+real	2m57.233s
+user	2m9.504s
+sys	0m5.372s
+territori-catala-extra.osm.pbf-717981075_bytes
+territori-catala-extra-nou.osm.pbf-718071328_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-717981075_bytes
+territori-catala-extra.osm.pbf-718071328_bytes
+ ---------------------------------- 
+ 
+dj mar 26 02:00:01 CET 2015
+
+real	2m47.038s
+user	2m10.040s
+sys	0m5.300s
+territori-catala-extra.osm.pbf-718071328_bytes
+territori-catala-extra-nou.osm.pbf-718378609_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-718071328_bytes
+territori-catala-extra.osm.pbf-718378609_bytes
+ ---------------------------------- 
+ 
+dv mar 27 02:00:01 CET 2015
+
+real	2m58.606s
+user	2m15.332s
+sys	0m7.024s
+territori-catala-extra.osm.pbf-718378609_bytes
+territori-catala-extra-nou.osm.pbf-718463326_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-718378609_bytes
+territori-catala-extra.osm.pbf-718463326_bytes
+ ---------------------------------- 
+ 
+ds mar 28 02:00:01 CET 2015
+
+real	2m51.607s
+user	2m11.328s
+sys	0m5.356s
+territori-catala-extra.osm.pbf-718463326_bytes
+territori-catala-extra-nou.osm.pbf-718783023_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-718463326_bytes
+territori-catala-extra.osm.pbf-718783023_bytes
+ ---------------------------------- 
+ 
+dg mar 29 03:00:01 CEST 2015
+
+real	2m46.393s
+user	2m11.548s
+sys	0m5.516s
+territori-catala-extra.osm.pbf-718783023_bytes
+territori-catala-extra-nou.osm.pbf-718790475_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-718783023_bytes
+territori-catala-extra.osm.pbf-718790475_bytes
+ ---------------------------------- 
+ 
+dl mar 30 02:00:01 CEST 2015
+
+real	3m4.487s
+user	2m11.828s
+sys	0m6.892s
+territori-catala-extra.osm.pbf-718790475_bytes
+territori-catala-extra-nou.osm.pbf-718940425_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-718790475_bytes
+territori-catala-extra.osm.pbf-718940425_bytes
+ ---------------------------------- 
+ 
+dt mar 31 02:00:01 CEST 2015
+
+real	3m10.365s
+user	2m12.404s
+sys	0m6.080s
+territori-catala-extra.osm.pbf-718940425_bytes
+territori-catala-extra-nou.osm.pbf-719210768_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-718940425_bytes
+territori-catala-extra.osm.pbf-719210768_bytes
+ ---------------------------------- 
+ 
+dc abr  1 02:00:01 CEST 2015
+
+real	3m17.687s
+user	2m13.584s
+sys	0m7.300s
+territori-catala-extra.osm.pbf-719210768_bytes
+territori-catala-extra-nou.osm.pbf-719344904_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-719210768_bytes
+territori-catala-extra.osm.pbf-719344904_bytes
+ ---------------------------------- 
+ 
+dj abr  2 02:00:01 CEST 2015
+
+real	3m10.970s
+user	2m16.364s
+sys	0m8.132s
+territori-catala-extra.osm.pbf-719344904_bytes
+territori-catala-extra-nou.osm.pbf-719497617_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-719344904_bytes
+territori-catala-extra.osm.pbf-719497617_bytes
+ ---------------------------------- 
+ 
+dv abr  3 02:00:01 CEST 2015
+
+real	3m8.923s
+user	2m13.188s
+sys	0m6.792s
+territori-catala-extra.osm.pbf-719497617_bytes
+territori-catala-extra-nou.osm.pbf-719624851_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-719497617_bytes
+territori-catala-extra.osm.pbf-719624851_bytes
+ ---------------------------------- 
+ 
+ds abr  4 02:00:01 CEST 2015
+
+real	3m34.225s
+user	2m20.300s
+sys	0m7.860s
+territori-catala-extra.osm.pbf-719624851_bytes
+territori-catala-extra-nou.osm.pbf-719790833_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-719624851_bytes
+territori-catala-extra.osm.pbf-719790833_bytes
+ ---------------------------------- 
+ 
+dg abr  5 02:00:01 CEST 2015
+
+real	3m20.026s
+user	2m17.960s
+sys	0m9.260s
+territori-catala-extra.osm.pbf-719790833_bytes
+territori-catala-extra-nou.osm.pbf-720058716_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-719790833_bytes
+territori-catala-extra.osm.pbf-720058716_bytes
+ ---------------------------------- 
+ 
+dl abr  6 02:00:01 CEST 2015
+
+real	3m19.597s
+user	2m18.076s
+sys	0m9.776s
+territori-catala-extra.osm.pbf-720058716_bytes
+territori-catala-extra-nou.osm.pbf-720216186_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-720058716_bytes
+territori-catala-extra.osm.pbf-720216186_bytes
+ ---------------------------------- 
+ 
+dt abr  7 02:00:01 CEST 2015
+
+real	3m16.397s
+user	2m18.232s
+sys	0m9.368s
+territori-catala-extra.osm.pbf-720216186_bytes
+territori-catala-extra-nou.osm.pbf-720527760_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-720216186_bytes
+territori-catala-extra.osm.pbf-720527760_bytes
+ ---------------------------------- 
+ 
+dc abr  8 02:00:02 CEST 2015
+
+real	3m10.292s
+user	2m14.580s
+sys	0m6.776s
+territori-catala-extra.osm.pbf-720527760_bytes
+territori-catala-extra-nou.osm.pbf-720688249_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-720527760_bytes
+territori-catala-extra.osm.pbf-720688249_bytes
+ ---------------------------------- 
+ 
+dj abr  9 02:00:01 CEST 2015
+
+real	3m7.309s
+user	2m14.120s
+sys	0m7.764s
+territori-catala-extra.osm.pbf-720688249_bytes
+territori-catala-extra-nou.osm.pbf-720885284_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-720688249_bytes
+territori-catala-extra.osm.pbf-720885284_bytes
+ ---------------------------------- 
+ 
+dv abr 10 02:00:01 CEST 2015
+
+real	3m13.485s
+user	2m16.004s
+sys	0m6.948s
+territori-catala-extra.osm.pbf-720885284_bytes
+territori-catala-extra-nou.osm.pbf-720988801_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-720885284_bytes
+territori-catala-extra.osm.pbf-720988801_bytes
+ ---------------------------------- 
+ 
+ds abr 11 02:00:01 CEST 2015
+
+real	3m9.136s
+user	2m15.180s
+sys	0m6.248s
+territori-catala-extra.osm.pbf-720988801_bytes
+territori-catala-extra-nou.osm.pbf-721229926_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-720988801_bytes
+territori-catala-extra.osm.pbf-721229926_bytes
+ ---------------------------------- 
+ 
+dg abr 12 02:00:01 CEST 2015
+
+real	2m58.077s
+user	2m9.824s
+sys	0m5.616s
+territori-catala-extra.osm.pbf-721229926_bytes
+territori-catala-extra-nou.osm.pbf-721426589_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-721229926_bytes
+territori-catala-extra.osm.pbf-721426589_bytes
+ ---------------------------------- 
+ 
+dl abr 13 02:00:01 CEST 2015
+
+real	3m0.815s
+user	2m12.284s
+sys	0m5.636s
+territori-catala-extra.osm.pbf-721426589_bytes
+territori-catala-extra-nou.osm.pbf-721576071_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-721426589_bytes
+territori-catala-extra.osm.pbf-721576071_bytes
+ ---------------------------------- 
+ 
+dt abr 14 02:00:01 CEST 2015
+
+real	3m7.718s
+user	2m14.312s
+sys	0m6.472s
+territori-catala-extra.osm.pbf-721576071_bytes
+territori-catala-extra-nou.osm.pbf-721611499_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-721576071_bytes
+territori-catala-extra.osm.pbf-721611499_bytes
+ ---------------------------------- 
+ 
+dc abr 15 02:00:01 CEST 2015
+
+real	3m1.953s
+user	2m11.496s
+sys	0m5.580s
+territori-catala-extra.osm.pbf-721611499_bytes
+territori-catala-extra-nou.osm.pbf-721753550_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-721611499_bytes
+territori-catala-extra.osm.pbf-721753550_bytes
+ ---------------------------------- 
+ 
+dj abr 16 02:00:01 CEST 2015
+
+real	3m3.810s
+user	2m14.108s
+sys	0m5.976s
+territori-catala-extra.osm.pbf-721753550_bytes
+territori-catala-extra-nou.osm.pbf-721868859_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-721753550_bytes
+territori-catala-extra.osm.pbf-721868859_bytes
+ ---------------------------------- 
+ 
+dv abr 17 02:00:01 CEST 2015
+
+real	3m2.295s
+user	2m13.156s
+sys	0m6.180s
+territori-catala-extra.osm.pbf-721868859_bytes
+territori-catala-extra-nou.osm.pbf-722014168_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-721868859_bytes
+territori-catala-extra.osm.pbf-722014168_bytes
+ ---------------------------------- 
+ 
+ds abr 18 02:00:01 CEST 2015
+
+real	3m25.051s
+user	2m16.852s
+sys	0m5.976s
+territori-catala-extra.osm.pbf-722014168_bytes
+territori-catala-extra-nou.osm.pbf-722135794_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-722014168_bytes
+territori-catala-extra.osm.pbf-722135794_bytes
+ ---------------------------------- 
+ 
+dg abr 19 02:00:01 CEST 2015
+
+real	3m10.855s
+user	2m15.864s
+sys	0m6.416s
+territori-catala-extra.osm.pbf-722135794_bytes
+territori-catala-extra-nou.osm.pbf-722310954_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-722135794_bytes
+territori-catala-extra.osm.pbf-722310954_bytes
+ ---------------------------------- 
+ 
+dl abr 20 02:00:01 CEST 2015
+
+real	3m8.167s
+user	2m13.336s
+sys	0m6.240s
+territori-catala-extra.osm.pbf-722310954_bytes
+territori-catala-extra-nou.osm.pbf-722525954_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-722310954_bytes
+territori-catala-extra.osm.pbf-722525954_bytes
+ ---------------------------------- 
+ 
+dt abr 21 02:00:01 CEST 2015
+
+real	3m9.809s
+user	2m15.016s
+sys	0m6.220s
+territori-catala-extra.osm.pbf-722525954_bytes
+territori-catala-extra-nou.osm.pbf-722695333_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-722525954_bytes
+territori-catala-extra.osm.pbf-722695333_bytes
+ ---------------------------------- 
+ 
+dc abr 22 02:00:01 CEST 2015
+
+real	3m6.915s
+user	2m13.804s
+sys	0m6.524s
+territori-catala-extra.osm.pbf-722695333_bytes
+territori-catala-extra-nou.osm.pbf-722883522_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-722695333_bytes
+territori-catala-extra.osm.pbf-722883522_bytes
+ ---------------------------------- 
+ 
+dj abr 23 02:00:01 CEST 2015
+
+real	3m24.315s
+user	2m14.564s
+sys	0m6.656s
+territori-catala-extra.osm.pbf-722883522_bytes
+territori-catala-extra-nou.osm.pbf-723042853_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-722883522_bytes
+territori-catala-extra.osm.pbf-723042853_bytes
+ ---------------------------------- 
+ 
+dv abr 24 02:00:01 CEST 2015
+
+real	3m16.639s
+user	2m15.032s
+sys	0m6.312s
+territori-catala-extra.osm.pbf-723042853_bytes
+territori-catala-extra-nou.osm.pbf-723238610_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-723042853_bytes
+territori-catala-extra.osm.pbf-723238610_bytes
+ ---------------------------------- 
+ 
+ds abr 25 02:00:01 CEST 2015
+
+real	3m22.194s
+user	2m13.372s
+sys	0m6.208s
+territori-catala-extra.osm.pbf-723238610_bytes
+territori-catala-extra-nou.osm.pbf-723268641_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-723238610_bytes
+territori-catala-extra.osm.pbf-723268641_bytes
+ ---------------------------------- 
+ 
+dg abr 26 02:00:01 CEST 2015
+
+real	3m10.803s
+user	2m13.816s
+sys	0m6.196s
+territori-catala-extra.osm.pbf-723268641_bytes
+territori-catala-extra-nou.osm.pbf-723409343_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-723268641_bytes
+territori-catala-extra.osm.pbf-723409343_bytes
+ ---------------------------------- 
+ 
+dl abr 27 02:00:01 CEST 2015
+
+real	3m13.904s
+user	2m13.948s
+sys	0m6.808s
+territori-catala-extra.osm.pbf-723409343_bytes
+territori-catala-extra-nou.osm.pbf-723649589_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-723409343_bytes
+territori-catala-extra.osm.pbf-723649589_bytes
+ ---------------------------------- 
+ 
+dt abr 28 02:00:01 CEST 2015
+
+real	3m34.173s
+user	2m20.004s
+sys	0m6.932s
+territori-catala-extra.osm.pbf-723649589_bytes
+territori-catala-extra-nou.osm.pbf-723791944_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-723649589_bytes
+territori-catala-extra.osm.pbf-723791944_bytes
+ ---------------------------------- 
+ 
+dc abr 29 02:00:01 CEST 2015
+
+real	3m25.331s
+user	2m18.144s
+sys	0m6.136s
+territori-catala-extra.osm.pbf-723791944_bytes
+territori-catala-extra-nou.osm.pbf-723882249_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-723791944_bytes
+territori-catala-extra.osm.pbf-723882249_bytes
+ ---------------------------------- 
+ 
+dj abr 30 02:00:01 CEST 2015
+
+real	3m15.449s
+user	2m16.380s
+sys	0m6.160s
+territori-catala-extra.osm.pbf-723882249_bytes
+territori-catala-extra-nou.osm.pbf-724126804_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-723882249_bytes
+territori-catala-extra.osm.pbf-724126804_bytes
+ ---------------------------------- 
+ 
+dv mai  1 02:00:01 CEST 2015
+
+real	3m22.480s
+user	2m19.984s
+sys	0m6.180s
+territori-catala-extra.osm.pbf-724126804_bytes
+territori-catala-extra-nou.osm.pbf-724316025_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-724126804_bytes
+territori-catala-extra.osm.pbf-724316025_bytes
+ ---------------------------------- 
+ 
+ds mai  2 02:00:01 CEST 2015
+
+real	3m16.635s
+user	2m15.884s
+sys	0m6.824s
+territori-catala-extra.osm.pbf-724316025_bytes
+territori-catala-extra-nou.osm.pbf-724517078_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-724316025_bytes
+territori-catala-extra.osm.pbf-724517078_bytes
+ ---------------------------------- 
+ 
+dg mai  3 02:00:02 CEST 2015
+
+real	3m13.520s
+user	2m14.960s
+sys	0m6.428s
+territori-catala-extra.osm.pbf-724517078_bytes
+territori-catala-extra-nou.osm.pbf-724647891_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-724517078_bytes
+territori-catala-extra.osm.pbf-724647891_bytes
+ ---------------------------------- 
+ 
+dl mai  4 02:00:01 CEST 2015
+
+real	3m15.260s
+user	2m15.476s
+sys	0m6.300s
+territori-catala-extra.osm.pbf-724647891_bytes
+territori-catala-extra-nou.osm.pbf-724802310_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-724647891_bytes
+territori-catala-extra.osm.pbf-724802310_bytes
+ ---------------------------------- 
+ 
+dt mai  5 02:00:01 CEST 2015
+
+real	3m13.620s
+user	2m16.456s
+sys	0m6.252s
+territori-catala-extra.osm.pbf-724802310_bytes
+territori-catala-extra-nou.osm.pbf-724961887_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-724802310_bytes
+territori-catala-extra.osm.pbf-724961887_bytes
+ ---------------------------------- 
+ 
+dc mai  6 02:00:01 CEST 2015
+
+real	3m12.996s
+user	2m15.128s
+sys	0m6.460s
+territori-catala-extra.osm.pbf-724961887_bytes
+territori-catala-extra-nou.osm.pbf-724970477_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-724961887_bytes
+territori-catala-extra.osm.pbf-724970477_bytes
+ ---------------------------------- 
+ 
+dj mai  7 02:00:01 CEST 2015
+
+real	3m7.782s
+user	2m12.876s
+sys	0m6.080s
+territori-catala-extra.osm.pbf-724970477_bytes
+territori-catala-extra-nou.osm.pbf-725146513_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-724970477_bytes
+territori-catala-extra.osm.pbf-725146513_bytes
+ ---------------------------------- 
+ 
+dv mai  8 02:00:01 CEST 2015
+
+real	3m11.238s
+user	2m15.244s
+sys	0m5.976s
+territori-catala-extra.osm.pbf-725146513_bytes
+territori-catala-extra-nou.osm.pbf-725315840_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-725146513_bytes
+territori-catala-extra.osm.pbf-725315840_bytes
+ ---------------------------------- 
+ 
+ds mai  9 02:00:01 CEST 2015
+
+real	3m8.371s
+user	2m13.096s
+sys	0m6.660s
+territori-catala-extra.osm.pbf-725315840_bytes
+territori-catala-extra-nou.osm.pbf-725433330_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-725315840_bytes
+territori-catala-extra.osm.pbf-725433330_bytes
+ ---------------------------------- 
+ 
+dg mai 10 02:00:01 CEST 2015
+
+real	2m58.568s
+user	2m11.644s
+sys	0m6.012s
+territori-catala-extra.osm.pbf-725433330_bytes
+territori-catala-extra-nou.osm.pbf-725513896_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-725433330_bytes
+territori-catala-extra.osm.pbf-725513896_bytes
+ ---------------------------------- 
+ 
+dl mai 11 02:00:01 CEST 2015
+
+real	3m3.634s
+user	2m13.452s
+sys	0m6.376s
+territori-catala-extra.osm.pbf-725513896_bytes
+territori-catala-extra-nou.osm.pbf-725663672_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-725513896_bytes
+territori-catala-extra.osm.pbf-725663672_bytes
+ ---------------------------------- 
+ 
+dt mai 12 02:00:01 CEST 2015
+
+real	3m10.065s
+user	2m16.100s
+sys	0m6.500s
+territori-catala-extra.osm.pbf-725663672_bytes
+territori-catala-extra-nou.osm.pbf-725817106_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-725663672_bytes
+territori-catala-extra.osm.pbf-725817106_bytes
+ ---------------------------------- 
+ 
+dj mai 14 02:00:01 CEST 2015
+
+real	3m50.912s
+user	2m29.572s
+sys	0m7.032s
+territori-catala-extra.osm.pbf-725817106_bytes
+territori-catala-extra-nou.osm.pbf-725991372_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-725817106_bytes
+territori-catala-extra.osm.pbf-725991372_bytes
+ ---------------------------------- 
+ 
+dv mai 15 02:00:01 CEST 2015
+
+real	3m7.854s
+user	2m15.224s
+sys	0m5.528s
+territori-catala-extra.osm.pbf-725991372_bytes
+territori-catala-extra-nou.osm.pbf-726281140_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-725991372_bytes
+territori-catala-extra.osm.pbf-726281140_bytes
+ ---------------------------------- 
+ 
+ds mai 16 02:00:01 CEST 2015
+
+real	3m16.554s
+user	2m23.124s
+sys	0m5.624s
+territori-catala-extra.osm.pbf-726281140_bytes
+territori-catala-extra-nou.osm.pbf-726427836_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-726281140_bytes
+territori-catala-extra.osm.pbf-726427836_bytes
+ ---------------------------------- 
+ 
+dg mai 17 02:00:01 CEST 2015
+
+real	3m11.198s
+user	2m13.556s
+sys	0m5.540s
+territori-catala-extra.osm.pbf-726427836_bytes
+territori-catala-extra-nou.osm.pbf-726552722_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-726427836_bytes
+territori-catala-extra.osm.pbf-726552722_bytes
+ ---------------------------------- 
+ 
+dl mai 18 02:00:01 CEST 2015
+
+real	3m12.147s
+user	2m20.428s
+sys	0m5.528s
+territori-catala-extra.osm.pbf-726552722_bytes
+territori-catala-extra-nou.osm.pbf-726680755_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-726552722_bytes
+territori-catala-extra.osm.pbf-726680755_bytes
+ ---------------------------------- 
+ 
+dt mai 19 02:00:01 CEST 2015
+
+real	3m28.497s
+user	2m32.168s
+sys	0m6.028s
+territori-catala-extra.osm.pbf-726680755_bytes
+territori-catala-extra-nou.osm.pbf-726819773_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-726680755_bytes
+territori-catala-extra.osm.pbf-726819773_bytes
+ ---------------------------------- 
+ 
+dc mai 20 02:00:01 CEST 2015
+
+real	3m11.058s
+user	2m15.200s
+sys	0m5.772s
+territori-catala-extra.osm.pbf-726819773_bytes
+territori-catala-extra-nou.osm.pbf-726983403_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-726819773_bytes
+territori-catala-extra.osm.pbf-726983403_bytes
+ ---------------------------------- 
+ 
+dj mai 21 02:00:01 CEST 2015
+
+real	3m12.053s
+user	2m16.120s
+sys	0m5.876s
+territori-catala-extra.osm.pbf-726983403_bytes
+territori-catala-extra-nou.osm.pbf-727159058_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-726983403_bytes
+territori-catala-extra.osm.pbf-727159058_bytes
+ ---------------------------------- 
+ 
+dv mai 22 02:00:01 CEST 2015
+
+real	3m11.206s
+user	2m16.048s
+sys	0m5.800s
+territori-catala-extra.osm.pbf-727159058_bytes
+territori-catala-extra-nou.osm.pbf-727156755_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-727159058_bytes
+territori-catala-extra.osm.pbf-727156755_bytes
+ ---------------------------------- 
+ 
+dg mai 24 02:00:01 CEST 2015
+osmupdate Error: Could not download daily changefile 983
+osmupdate: wget Error message:
+No s'ha pogut escriure a «osmupdate_temp/temp.d000000983.osc.gz» (No resta espai al dispositiu).
+
+
+real	1m1.194s
+user	0m9.156s
+sys	0m3.064s
+territori-catala-extra.osm.pbf-727156755_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-727156755_bytes
+ ---------------------------------- 
+ 
+ds jun  6 14:12:30 CEST 2015
+
+real	8m55.202s
+user	4m33.244s
+sys	0m17.448s
+territori-catala-extra.osm.pbf-727156755_bytes
+territori-catala-extra-nou.osm.pbf-728742749_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-727156755_bytes
+territori-catala-extra.osm.pbf-728742749_bytes
+ ---------------------------------- 
+ 
+dg jun  7 02:01:01 CEST 2015
+
+real	2m44.495s
+user	2m9.476s
+sys	0m3.724s
+territori-catala-extra.osm.pbf-728742749_bytes
+territori-catala-extra-nou.osm.pbf-728892067_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-728742749_bytes
+territori-catala-extra.osm.pbf-728892067_bytes
+ ---------------------------------- 
+ 
+dl jun  8 02:01:02 CEST 2015
+
+real	3m45.212s
+user	2m55.860s
+sys	0m6.084s
+territori-catala-extra.osm.pbf-728892067_bytes
+territori-catala-extra-nou.osm.pbf-729150356_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-728892067_bytes
+territori-catala-extra.osm.pbf-729150356_bytes
+ ---------------------------------- 
+ 
+dt jun  9 02:01:01 CEST 2015
+
+real	4m38.789s
+user	3m30.720s
+sys	0m7.136s
+territori-catala-extra.osm.pbf-729150356_bytes
+territori-catala-extra-nou.osm.pbf-729394255_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-729150356_bytes
+territori-catala-extra.osm.pbf-729394255_bytes
+ ---------------------------------- 
+ 
+dc jun 10 02:01:01 CEST 2015
+
+real	3m14.125s
+user	2m14.824s
+sys	0m5.948s
+territori-catala-extra.osm.pbf-729394255_bytes
+territori-catala-extra-nou.osm.pbf-729426990_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-729394255_bytes
+territori-catala-extra.osm.pbf-729426990_bytes
+ ---------------------------------- 
+ 
+dj jun 11 02:01:01 CEST 2015
+
+real	3m5.824s
+user	2m14.840s
+sys	0m5.020s
+territori-catala-extra.osm.pbf-729426990_bytes
+territori-catala-extra-nou.osm.pbf-729602040_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-729426990_bytes
+territori-catala-extra.osm.pbf-729602040_bytes
+ ---------------------------------- 
+ 
+dv jun 12 02:01:01 CEST 2015
+
+real	3m2.636s
+user	2m13.880s
+sys	0m5.220s
+territori-catala-extra.osm.pbf-729602040_bytes
+territori-catala-extra-nou.osm.pbf-729757892_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-729602040_bytes
+territori-catala-extra.osm.pbf-729757892_bytes
+ ---------------------------------- 
+ 
+ds jun 13 02:01:01 CEST 2015
+
+real	3m10.362s
+user	2m16.560s
+sys	0m5.700s
+territori-catala-extra.osm.pbf-729757892_bytes
+territori-catala-extra-nou.osm.pbf-729911133_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-729757892_bytes
+territori-catala-extra.osm.pbf-729911133_bytes
+ ---------------------------------- 
+ 
+dg jun 14 02:01:01 CEST 2015
+
+real	3m11.539s
+user	2m17.144s
+sys	0m6.104s
+territori-catala-extra.osm.pbf-729911133_bytes
+territori-catala-extra-nou.osm.pbf-730179331_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-729911133_bytes
+territori-catala-extra.osm.pbf-730179331_bytes
+ ---------------------------------- 
+ 
+dl jun 15 02:01:01 CEST 2015
+
+real	3m4.449s
+user	2m15.060s
+sys	0m5.584s
+territori-catala-extra.osm.pbf-730179331_bytes
+territori-catala-extra-nou.osm.pbf-730342481_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-730179331_bytes
+territori-catala-extra.osm.pbf-730342481_bytes
+ ---------------------------------- 
+ 
+dt jun 16 02:01:01 CEST 2015
+
+real	3m7.842s
+user	2m15.856s
+sys	0m5.300s
+territori-catala-extra.osm.pbf-730342481_bytes
+territori-catala-extra-nou.osm.pbf-730436251_bytes
+ ---------------------------------- 
+territori-catala-extra-antic.osm.pbf-730342481_bytes
+territori-catala-extra.osm.pbf-730436251_bytes
+ ---------------------------------- 
+ 
