@@ -27,6 +27,7 @@ my $path = $config->get("mw/path") // "w";
 
 # Name of page
 my $rebostpage = "Mapa_català_per_a_l'OsmAnd";
+my $urlpath = "https://gent.softcatala.org/albert/mapa";
 
 binmode STDIN, ":utf8";
 binmode STDOUT, ":utf8";
@@ -40,16 +41,37 @@ $mw->login( {lgname => $user, lgpassword => $pass } )
   || die $mw->{error}->{code} . ': ' . $mw->{error}->{details};
 
 
-# TODO: Read files
-# TODO: Detect if path to obf exist
+# Detec if path exist
+if ( ! -d $obf_path ) {
+	die "Path does not exist\n";
+}
+
+# Read files
+opendir( DIR, $obf_path ) || die "Cannot open $obf_path";
+
+my @obf_files = grep { $_=~/\.odf/ } readdir ( DIR ); 
+
+if ( $#obf_files < 1 ) {
+	die "Not enought files! :O";
+}
 
 # TODO: If two files, continue, get dates, pass variable, otherwise stop
 
-my $filedata;
+my $filedata = prepareFiles( \@obf_files, $urlpath );
 
 # TODO: Send stuff to wiki
 
 send2wiki( $mw, $filedata, $rebostpage );
+
+sub prepareFiles {
+
+	my $files = shift;
+	my $urlpath = shift;
+
+	my $filedata;
+
+	return $filedata;
+}
 
 # TODO: To adapt
 sub send2wiki {
