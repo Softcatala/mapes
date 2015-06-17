@@ -52,10 +52,8 @@ opendir( DIR, $obf_path ) || die "Cannot open $obf_path";
 my @obf_files = grep { $_=~/\.odf/ } readdir ( DIR ); 
 
 if ( $#obf_files < 1 ) {
-	die "Not enought files! :O";
+	die "Not enough files! :O";
 }
-
-# TODO: If two files, continue, get dates, pass variable, otherwise stop
 
 my $filedata = prepareFiles( \@obf_files, $urlpath );
 
@@ -68,9 +66,21 @@ sub prepareFiles {
 	my $files = shift;
 	my $urlpath = shift;
 
-	my $filedata;
+	@{$files} = sort( @{$files} );
+	
+	my %filedata;
 
-	return $filedata;
+	my $i = 0;
+	foreach my $file ( @{$files} ) {
+		$filedata{$file} = $urlpath."/".$file;
+		
+		$i++;
+		if ( $i > 1 ) {
+			last;
+		}	
+	}
+
+	return \%filedata;
 }
 
 # TODO: To adapt
@@ -82,10 +92,12 @@ sub send2wiki {
 	
 	my $page = $mw->get_page( { title => 'Rebost:'.$nomrebost } );
 	my $wikitext = $page->{'*'};
-	my @wikilines = split(/\n/, $wikitext);
 	
-	
-	my $wikitext2;
+	print Dumper( $wikitext );
+	#my @wikilines = split(/\n/, $wikitext);
+	#
+	#
+	#my $wikitext2;
 	
 	#foreach my $wikiline (@wikilines) {
 	#	
@@ -106,40 +118,40 @@ sub send2wiki {
 	#	
 	#	$wikitext2 .= $wikiline. "\n";
 	#}
-	
-	my $enc = guess_encoding($wikitext2);
-	my $utf8 = "";
-	if(ref($enc)) {
-	
-			if ($enc->name eq 'utf8') {
-				$utf8 = $wikitext2;
-		
-			}
-			else {
-				
-				$utf8 = $wikitext2;   
-				
-			}
-		}
-	
+	#
+	#my $enc = guess_encoding($wikitext2);
+	#my $utf8 = "";
+	#if(ref($enc)) {
+	#
+	#		if ($enc->name eq 'utf8') {
+	#			$utf8 = $wikitext2;
+	#	
+	#		}
+	#		else {
+	#			
+	#			$utf8 = $wikitext2;   
+	#			
+	#		}
+	#	}
+	#
 	
 	#print $wikitext2
-	my $nompage="Rebost:".$nomrebost;
-	my $edit_summary = "Actualitzat a darrera versió";
-	
-	if ($utf8 ne '') {
-		
-		my $ref = $mw->get_page( { title => $nompage } );
-		unless ( $ref->{missing} ) {
-			my $timestamp = $ref->{timestamp};
-			$mw->edit( {
-				action => 'edit',
-				title => $nompage,
-				summary => $edit_summary,
-				basetimestamp => $timestamp, # to avoid edit conflicts
-				text => $utf8 } )
-			|| die $mw->{error}->{code} . ': ' . $mw->{error}->{details};
-		}
-	}
+	#my $nompage="Rebost:".$nomrebost;
+	#my $edit_summary = "Actualitzat a darrera versió";
+	#
+	#if ($utf8 ne '') {
+	#	
+	#	my $ref = $mw->get_page( { title => $nompage } );
+	#	unless ( $ref->{missing} ) {
+	#		my $timestamp = $ref->{timestamp};
+	#		$mw->edit( {
+	#			action => 'edit',
+	#			title => $nompage,
+	#			summary => $edit_summary,
+	#			basetimestamp => $timestamp, # to avoid edit conflicts
+	#			text => $utf8 } )
+	#		|| die $mw->{error}->{code} . ': ' . $mw->{error}->{details};
+	#	}
+	#}
 }
 
