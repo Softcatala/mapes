@@ -1,9 +1,6 @@
 #!/usr/bin/env perl
 use warnings;
 use strict;
-use HTML::TreeBuilder::XPath;
-use LWP::UserAgent;
-use utf8;
 use utf8;
 use Encode;
 use Encode::Guess;
