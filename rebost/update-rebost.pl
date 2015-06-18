@@ -108,61 +108,34 @@ sub send2wiki {
 	}
 
 	my $wikitext2 = join( "{{Fitxa programa", @sections );
-	print $wikitext2;
+
+	my $enc = guess_encoding($wikitext2);
+	my $utf8 = "";
+	if(ref($enc)) {
+		if ($enc->name eq 'utf8') {
+			$utf8 = $wikitext2;
+		}
+		else {
+			$utf8 = $wikitext2;   
+		}
+	}
 	
-	#foreach my $wikiline (@wikilines) {
-	#	
-	#	if ($wikiline=~/^\s*\|Versi\S+\s*\=/) {
-	#		
-	#		$wikiline = "|Versió=$version";
-	#		
-	#	}
-	#	
-	#	else {
-	#		foreach my $platkey (@platkeys) {
-	#			
-	#			if ($wikiline=~/$platkey/) {
-	#				$wikiline = "|URL programa=$platforms{$platkey}";
-	#			}
-	#		} 
-	#	}
-	#	
-	#	$wikitext2 .= $wikiline. "\n";
-	#}
-	#
-	#my $enc = guess_encoding($wikitext2);
-	#my $utf8 = "";
-	#if(ref($enc)) {
-	#
-	#		if ($enc->name eq 'utf8') {
-	#			$utf8 = $wikitext2;
-	#	
-	#		}
-	#		else {
-	#			
-	#			$utf8 = $wikitext2;   
-	#			
-	#		}
-	#	}
-	#
+	my $nompage="Rebost:".$nomrebost;
+	my $edit_summary = "Actualitzat a darrera versió";
 	
-	#print $wikitext2
-	#my $nompage="Rebost:".$nomrebost;
-	#my $edit_summary = "Actualitzat a darrera versió";
-	#
-	#if ($utf8 ne '') {
-	#	
-	#	my $ref = $mw->get_page( { title => $nompage } );
-	#	unless ( $ref->{missing} ) {
-	#		my $timestamp = $ref->{timestamp};
-	#		$mw->edit( {
-	#			action => 'edit',
-	#			title => $nompage,
-	#			summary => $edit_summary,
-	#			basetimestamp => $timestamp, # to avoid edit conflicts
-	#			text => $utf8 } )
-	#		|| die $mw->{error}->{code} . ': ' . $mw->{error}->{details};
-	#	}
-	#}
+	if ($utf8 ne '') {
+		
+		my $ref = $mw->get_page( { title => $nompage } );
+		unless ( $ref->{missing} ) {
+			my $timestamp = $ref->{timestamp};
+			$mw->edit( {
+				action => 'edit',
+				title => $nompage,
+				summary => $edit_summary,
+				basetimestamp => $timestamp, # to avoid edit conflicts
+				text => $utf8 } )
+			|| die $mw->{error}->{code} . ': ' . $mw->{error}->{details};
+		}
+	}
 }
 
