@@ -90,11 +90,25 @@ sub send2wiki {
 	my $page = $mw->get_page( { title => 'Rebost:'.$nomrebost } );
 	my $wikitext = $page->{'*'};
 	
-	print Dumper( $wikitext );
-	#my @wikilines = split(/\n/, $wikitext);
-	#
-	#
-	#my $wikitext2;
+	my @sections = split(/\{\{Fitxa programa/, $wikitext);
+	
+	if ( $#sections != 2 ) {
+		die "Different num of sections.\n";
+	}
+	
+	my @keys = sort keys %{$data} ; 
+	
+	for ( my $i=1; $i < 3; $i++ ) {
+		if ( $sections[$i]=~/DARRERA/ ) {
+			$sections[$i]=~s/\|URL programa=(\S+)\b/|URL programa=$data->{$keys[1]}/g;
+		}
+		if ( $sections[$i]=~/ANTERIOR/ ) {
+			$sections[$i]=~s/\|URL programa=(\S+)\b/|URL programa=$data->{$keys[0]}/g;
+		}
+	}
+
+	my $wikitext2 = join( "{{Fitxa programa", @sections );
+	print $wikitext2;
 	
 	#foreach my $wikiline (@wikilines) {
 	#	
