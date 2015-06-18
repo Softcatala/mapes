@@ -46,7 +46,7 @@ if ( ! -d $obf_path ) {
 # Read files
 opendir( DIR, $obf_path ) || die "Cannot open $obf_path";
 
-my @obf_files = grep { $_=~/\.odf/ } readdir ( DIR ); 
+my @obf_files = grep { $_=~/\.obf/ } readdir ( DIR ); 
 
 if ( $#obf_files < 1 ) {
 	die "Not enough files! :O";
