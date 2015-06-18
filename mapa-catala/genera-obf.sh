@@ -40,4 +40,6 @@ DISC="/dev/mapper/pirineus-lxc"
 GB=`df -h | grep $DISC | cut -c 41-42`
 echo "L'actualització del fitxer del dia $DATE2 sembla que s'ha realitzat amb èxit el dia $DATE. S'ha esborrat el fitxer amb data $DATE3, i hi ha $GB GB lliures al servidor. Fitxer: http://gent.softcatala.org/albert/mapa/Territori-catala-$DATE.obf . Fitxer de seguretat: http://gent.softcatala.org/albert/mapa/Territori-catala-$DATE2.obf .Fitxer log:  http://gent.softcatala.org/albert/mapa/registres/darrer-obf.txt . " | mail -s "Actualització fitxer OBF-$DATE" lakonfrariadelavila@gmail.com
 
+# Actualitza rebost
+/home/albert/rebost/perlbrew-cron /home/albert/rebost/update-rebost.pl /home/albert/public_html/mapa /home/albert/config/config.json
 
